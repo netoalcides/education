@@ -11,7 +11,7 @@ library(NMF)
 library(NNLM)
 
 ## carrega imagem ##
-imagem <- image_load( path = 'dados/scallet.jpg' ) %>% 
+imagem <- image_load( path = '/home/vm-data-science/education/dados/scallet.jpg' ) %>% 
   image_to_array(., data_format = "channels_first" )
 
 # dimensao
