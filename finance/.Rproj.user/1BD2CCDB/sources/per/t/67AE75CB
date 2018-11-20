@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542397353395.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1142837968",
+    "id" : "67AE75CB",
+    "lastKnownWriteTime" : 1542397742,
+    "last_content_update" : 1542397742413,
+    "path" : "~/finance/workshop_do_bem - bolsa de valores.R",
+    "project_path" : "workshop_do_bem - bolsa de valores.R",
+    "properties" : {
+        "cursorPosition" : "174,0",
+        "scrollLine" : "127"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
