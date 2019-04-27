@@ -1,41 +1,48 @@
 ### Conceito integral
+
+# carregar pacotes
+library(tidyverse)
 library(mosaicCalc)
 
-# funcao geral
-f_x <- function(x) x^2
 
-# tamanho dos pequenos intervalos
-dx <- 0.1
+# funcao geral
+f_x <- function(x) 2*x^2
 
 # intervalo
-minimo <- -3
-maximo <- 3
+minimo <- 0
+maximo <- 24
+n <- 8
+
+# tamanho dos pequenos intervalos
+dx <- (maximo - minimo) / n
+
+# define o x
 x <- seq( minimo, maximo, dx)
 
-# somas dos intervalos
-soma_etapa <- rep(0, length(x) )
-soma_total <- NULL
-
-for (i in 2:length(x)){
+# o grafico
+data_frame( x = x,
+            f_x = f_x( x = x ) ) %>% 
   
-  # overwrite each zero with each number
-  soma_etapa[i] = f_x(x[i])*(x[i]-x[i-1])
-}
+  ggplot( aes( x = x, y = f_x ) ) +
+  
+  geom_bar( stat = 'identity' ) +
+  geom_line()
+
+# integral na raca
+data_frame( x = x,
+            f_x = f_x( x = x ) ) %>% 
+  
+  mutate( fx_dx = f_x * dx ) %>% 
+  
+  summarise( sum(fx_dx) )
 
 
-
-soma_etapa
-sum(soma_etapa)
-
-integrate( f_x, lower = minimo, upper = maximo)
-
-barplot(soma_etapa, names.arg=x)
-
-
-### Usando o pacote mosaicCalc
-
-new_f_x <- antiD( x^2 ~ x )
+# integral usando as regras
+new_f_x <- antiD( 2 * x^2 ~ x )
 
 new_f_x
 
-new_f_x(3) - new_f_x(-3)
+new_f_x(24) - new_f_x(0)
+
+# integral usando aproximacao
+integrate( f_x, lower = minimo, upper = maximo )
