@@ -1,0 +1,412 @@
+data;antes;depois
+2019-05-13;Endril Gabriel;Diogo Alves Santana
+2019-05-13;Diogo Alves Santana;Lucas Sapucaia
+2019-05-13;Lucas Sapucaia;Douglas Vitor de Farias
+2019-05-13;Douglas Vitor de Farias;Leandro Marques
+2019-05-13;Leandro Marques;Maria Vilma da Silva
+2019-05-13;Maria Vilma da Silva;Rodrigo Traboli
+2019-05-13;Rodrigo Traboli;Vinicius Alves
+2019-05-13;Vinicius Alves;Lucas Garcia Paschoalinoto
+2019-05-13;Lucas Garcia Paschoalinoto;José Rodolfo Saito de Lima
+2019-05-13;José Rodolfo Saito de Lima;Deivid Sousa
+2019-05-13;Deivid Sousa;Lucas dos Santos Pereira
+2019-05-13;Lucas dos Santos Pereira;Laio Batista
+2019-05-13;Laio Batista;Ricardo Rodrigues
+2019-05-13;Ricardo Rodrigues;Paulo Vinicius
+2019-05-13;Paulo Vinicius;Mauro Ramos
+2019-05-13;Mauro Ramos;Antonio Lincoln
+2019-05-13;Antonio Lincoln;Lucas José Rocha Rodrigues
+2019-05-13;Lucas José Rocha Rodrigues;Fernando Moura
+2019-05-13;Fernando Moura;Vitória Simplicio
+2019-05-13;Vitória Simplicio;Gustavo Nunes Figueiredo
+2019-05-13;Gustavo Nunes Figueiredo;Caique M. de P.
+2019-05-13;Caique M. de P.;Eduardo Vieira da Mota
+2019-05-13;Eduardo Vieira da Mota;Pedro Ferreira da Silva
+2019-05-13;Pedro Ferreira da Silva;Elise Gomes dos Santos
+2019-05-13;Elise Gomes dos Santos;Jonas Pereira Barbosa
+2019-05-13;Jonas Pereira Barbosa;Maria Carolina Salem
+2019-05-13;Maria Carolina Salem;Lucas Raineiri Martines
+2019-05-13;Lucas Raineiri Martines;Aaron Lopes
+2019-05-13;Aaron Lopes;Lelio Souza
+2019-05-13;Lelio Souza;-
+2019-04-29;Endril Gabriel;Antonio Lincoln
+2019-04-29;Antonio Lincoln;Lucas José Rocha Rodrigues
+2019-04-29;Lucas José Rocha Rodrigues;Aaron Lopes
+2019-04-29;Aaron Lopes;Diogo Alves Santana
+2019-04-29;Diogo Alves Santana;Marcelo Bernardes Santos
+2019-04-29;Marcelo Bernardes Santos;Gustavo Nunes Figueiredo
+2019-04-29;Gustavo Nunes Figueiredo;Kallyene Lima Serra
+2019-04-29;Kallyene Lima Serra;Vitória Simplicio
+2019-04-29;Vitória Simplicio;Nicolas dos Santos Pereira
+2019-04-29;Nicolas dos Santos Pereira;Lucas Sapucaia
+2019-04-29;Lucas Sapucaia;Lucas dos Santos Pereira
+2019-04-29;Lucas dos Santos Pereira;Vinicius Alves
+2019-04-29;Vinicius Alves;Maria Vilma da Silva
+2019-04-29;Maria Vilma da Silva;Lucas Garcia Paschoalinoto
+2019-04-29;Lucas Garcia Paschoalinoto;Marcelo Bernardes Santos
+2019-04-29;Marcelo Bernardes Santos;Davi Soares da Silva
+2019-04-29;Davi Soares da Silva;Caique M. de P.
+2019-04-29;Caique M. de P.;Guilherme Silva Vicente
+2019-04-29;Guilherme Silva Vicente;Leandro Marques
+2019-04-29;Leandro Marques;Rafael Bernardes Augusto
+2019-04-29;Rafael Bernardes Augusto;Natasha Satomi Morikawa
+2019-04-29;Natasha Satomi Morikawa;Raphaela Calveira
+2019-04-29;Raphaela Calveira;Fabio Silvestre Bernardo
+2019-04-29;Fabio Silvestre Bernardo;Otávio Nascimento
+2019-04-29;Otávio Nascimento;Lucas Raineiri Martines
+2019-04-29;Lucas Raineiri Martines;Laio Batista
+2019-04-29;Laio Batista;Maria Carolina Salem
+2019-04-29;Maria Carolina Salem;Daniel França da Silva
+2019-04-29;Daniel França da Silva;José Rodolfo Saito de Lima
+2019-04-29;José Rodolfo Saito de Lima;Elise Gomes dos Santos
+2019-04-29;Elise Gomes dos Santos;Alessandra S. Tavares
+2019-04-29;Alessandra S. Tavares;José Pereira da Silva Neto
+2019-04-29;José Pereira da Silva Neto;Christian Kenzo Yoshimoto
+2019-04-29;Christian Kenzo Yoshimoto;Lelio Souza
+2019-04-29;Lelio Souza;Paulo Vinicius
+2019-04-29;Paulo Vinicius;Ricardo Rodrigues
+2019-04-29;Ricardo Rodrigues;Cyro Glon
+2019-04-29;Cyro Glon;-
+2019-02-18;William Oliveira Rufino;Douglas dos Santos Gusmão
+2019-02-18;Douglas dos Santos Gusmão;Gustavo Nunes Figueiredo
+2019-02-18;Gustavo Nunes Figueiredo;Nicolas dos Santos Pereira
+2019-02-18;Nicolas dos Santos Pereira;Lucas dos Santos Pereira
+2019-02-18;Lucas dos Santos Pereira;José Pereira da Silva Neto
+2019-02-18;José Pereira da Silva Neto;José Rodolfo Saito de Lima
+2019-02-18;José Rodolfo Saito de Lima;Elise Gomes dos Santos
+2019-02-18;Elise Gomes dos Santos;Aaron Lopes
+2019-02-18;Aaron Lopes;Lelio Souza
+2019-02-18;Lelio Souza;Ricardo Rodrigues
+2019-02-18;Ricardo Rodrigues;Paulo Vinicius
+2019-02-18;Paulo Vinicius;Maria Carolina Salem
+2019-02-18;Maria Carolina Salem;Fernando Moura
+2019-02-18;Fernando Moura;Laio Batista
+2019-02-18;Laio Batista;Alessandra S. Tavares
+2019-02-18;Alessandra S. Tavares;Pedro Ferreira da Silva
+2019-02-18;Pedro Ferreira da Silva;Eduardo Vieira da Mota
+2019-02-18;Eduardo Vieira da Mota;Daniel França da Silva
+2019-02-18;Daniel França da Silva;Cyro Glon
+2019-02-18;Cyro Glon;Fabio Silvestre Bernardo
+2019-02-18;Fabio Silvestre Bernardo;Jonas Pereira Barbosa
+2019-02-18;Jonas Pereira Barbosa;João Marcos Gonzaga
+2019-02-18;João Marcos Gonzaga;Lucas Raineiri Martines
+2019-02-18;Lucas Raineiri Martines;Leandro Marques
+2019-02-18;Leandro Marques;Natasha Satomi Morikawa
+2019-02-18;Natasha Satomi Morikawa;Rafael Bernardes Augusto
+2019-02-18;Rafael Bernardes Augusto;Davi Soares da Silva
+2019-02-18;Davi Soares da Silva;Caique M. de P.
+2019-02-18;Caique M. de P.;Adriana Souza do Carmo
+2019-02-18;Adriana Souza do Carmo;Everson Souza do Carmo
+2019-02-18;Everson Souza do Carmo;Guilherme Silva Vicente
+2019-02-18;Guilherme Silva Vicente;Maria Vilma da Silva
+2019-02-18;Maria Vilma da Silva;Marcelo Mairena Ferreira
+2019-02-18;Marcelo Mairena Ferreira;Rodrigo Traboli
+2019-02-18;Rodrigo Traboli;Deivid Sousa
+2019-02-18;Deivid Sousa;Vinicius Alves
+2019-02-18;Vinicius Alves;Kallyene Lima Serra
+2019-02-18;Kallyene Lima Serra;Vitória Simplicio
+2019-02-18;Vitória Simplicio;Marcelo Bernardes Santos
+2019-02-18;Marcelo Bernardes Santos;Gustavo Nunes Figueiredo
+2019-02-18;Gustavo Nunes Figueiredo;Lucas Sapucaia
+2019-02-18;Lucas Sapucaia;Antonio Lincoln
+2019-02-18;Antonio Lincoln;Lucas José Rocha Rodrigues
+2019-02-18;Lucas José Rocha Rodrigues;-
+2019-02-04;Lucas dos Santos Pereira;Nicolas dos Santos Pereira
+2019-02-04;Nicolas dos Santos Pereira;José Rodolfo Saito de Lima
+2019-02-04;José Rodolfo Saito de Lima;Vitória Simplicio
+2019-02-04;Vitória Simplicio;Gustavo Nunes Figueiredo
+2019-02-04;Gustavo Nunes Figueiredo;Kallyene Lima Serra
+2019-02-04;Kallyene Lima Serra;Paulo Vinicius
+2019-02-04;Paulo Vinicius;Ricardo Rodrigues
+2019-02-04;Ricardo Rodrigues;Lelio Souza
+2019-02-04;Lelio Souza;Laio Batista
+2019-02-04;Laio Batista;Marcelo Bernardes Santos
+2019-02-04;Marcelo Bernardes Santos;Fernando Moura
+2019-02-04;Fernando Moura;Mauro Ramos
+2019-02-04;Mauro Ramos;Fabio Silvestre Bernardo
+2019-02-04;Fabio Silvestre Bernardo;Pedro Ferreira da Silva
+2019-02-04;Pedro Ferreira da Silva;Jonas Pereira Barbosa
+2019-02-04;Jonas Pereira Barbosa;Cyro Glon
+2019-02-04;Cyro Glon;Caique M. de P.
+2019-02-04;Caique M. de P.;Davi Soares da Silva
+2019-02-04;Davi Soares da Silva;Lucas José Rocha Rodrigues
+2019-02-04;Lucas José Rocha Rodrigues;Antonio Lincoln
+2019-02-04;Antonio Lincoln;Rafael Bernardes Augusto
+2019-02-04;Rafael Bernardes Augusto;Guilherme Silva Vicente
+2019-02-04;Guilherme Silva Vicente;Elise Gomes dos Santos
+2019-02-04;Elise Gomes dos Santos;Gustavo Nunes Figueiredo
+2019-02-04;Gustavo Nunes Figueiredo;Everson Souza do Carmo
+2019-02-04;Everson Souza do Carmo;Adriana Souza do Carmo
+2019-02-04;Adriana Souza do Carmo;Luis Gustavo Agune
+2019-02-04;Luis Gustavo Agune;Maria Vilma da Silva
+2019-02-04;Maria Vilma da Silva;Vinicius Alves
+2019-02-04;Vinicius Alves;Deivid Sousa
+2019-02-04;Deivid Sousa;Rodrigo Traboli
+2019-02-04;Rodrigo Traboli;Marcelo Mairena Ferreira
+2019-02-04;Marcelo Mairena Ferreira;Leandro Marques
+2019-02-04;Leandro Marques;João Marcos Gonzaga
+2019-02-04;João Marcos Gonzaga;Aaron Lopes
+2019-02-04;Aaron Lopes;-
+2019-02-25;Kallyene Lima Serra;José Pereira da Silva Neto
+2019-02-25;José Pereira da Silva Neto;Elise Gomes dos Santos
+2019-02-25;Elise Gomes dos Santos;Douglas dos Santos Gusmão
+2019-02-25;Douglas dos Santos Gusmão;Guilherme Lopes
+2019-02-25;Guilherme Lopes;Ricardo Rodrigues
+2019-02-25;Ricardo Rodrigues;Paulo Vinicius
+2019-02-25;Paulo Vinicius;Lelio Souza
+2019-02-25;Lelio Souza;Lucas José Rocha Rodrigues
+2019-02-25;Lucas José Rocha Rodrigues;Antonio Lincoln
+2019-02-25;Antonio Lincoln;Jonas Pereira Barbosa
+2019-02-25;Jonas Pereira Barbosa;Daniel França da Silva
+2019-02-25;Daniel França da Silva;Alessandra S. Tavares
+2019-02-25;Alessandra S. Tavares;Pedro Ferreira da Silva
+2019-02-25;Pedro Ferreira da Silva;Aaron Lopes
+2019-02-25;Aaron Lopes;William Oliveira Rufino
+2019-02-25;William Oliveira Rufino;Davi Soares da Silva
+2019-02-25;Davi Soares da Silva;Fabio Silvestre Bernardo
+2019-02-25;Fabio Silvestre Bernardo;Cyro Glon
+2019-02-25;Cyro Glon;Lucas Raineiri Martines
+2019-02-25;Lucas Raineiri Martines;Leandro Marques
+2019-02-25;Leandro Marques;Maria Vilma da Silva
+2019-02-25;Maria Vilma da Silva;Vinicius Alves
+2019-02-25;Vinicius Alves;Marcelo Mairena Ferreira
+2019-02-25;Marcelo Mairena Ferreira;João Marcos Gonzaga
+2019-02-25;João Marcos Gonzaga;Deivid Sousa
+2019-02-25;Deivid Sousa;Rodrigo Traboli
+2019-02-25;Rodrigo Traboli;Caique M. de P.
+2019-02-25;Caique M. de P.;Maria Carolina Salem
+2019-02-25;Maria Carolina Salem;Diogo Alves Santana
+2019-02-25;Diogo Alves Santana;Marcelo Bernardes Santos
+2019-02-25;Marcelo Bernardes Santos;Lucas Sapucaia
+2019-02-25;Lucas Sapucaia;Nicolas dos Santos Pereira
+2019-02-25;Nicolas dos Santos Pereira;Lucas dos Santos Pereira
+2019-02-25;Lucas dos Santos Pereira;José Rodolfo Saito de Lima
+2019-02-25;José Rodolfo Saito de Lima;Otávio Nascimento
+2019-02-25;Otávio Nascimento;Laio Batista
+2019-02-25;Laio Batista;Fernando Moura
+2019-02-25;Fernando Moura;Mauro Ramos
+2019-02-25;Mauro Ramos;-
+2019-04-01;Adriana Souza do Carmo;Everson Souza do Carmo
+2019-04-01;Everson Souza do Carmo;Gustavo Nunes Figueiredo
+2019-04-01;Gustavo Nunes Figueiredo;Alessandra S. Tavares
+2019-04-01;Alessandra S. Tavares;Daniel França da Silva
+2019-04-01;Daniel França da Silva;Marcelo Mairena Ferreira
+2019-04-01;Marcelo Mairena Ferreira;Fabio Silvestre Bernardo
+2019-04-01;Fabio Silvestre Bernardo;Marcelo Bernardes Santos
+2019-04-01;Marcelo Bernardes Santos;Rodrigo Traboli
+2019-04-01;Rodrigo Traboli;Diogo Alves Santana
+2019-04-01;Diogo Alves Santana;Mauro Ramos
+2019-04-01;Mauro Ramos;Jonas Pereira Barbosa
+2019-04-01;Jonas Pereira Barbosa;Laio Batista
+2019-04-01;Laio Batista;Fernando Moura
+2019-04-01;Fernando Moura;Davi Soares da Silva
+2019-04-01;Davi Soares da Silva;Caique M. de P.
+2019-04-01;Caique M. de P.;Douglas Vitor de Farias
+2019-04-01;Douglas Vitor de Farias;Cyro Glon
+2019-04-01;Cyro Glon;Leandro Marques
+2019-04-01;Leandro Marques;Rafael Franklin
+2019-04-01;Rafael Franklin;Deivid Sousa
+2019-04-01;Deivid Sousa;Maria Vilma da Silva
+2019-04-01;Maria Vilma da Silva;Guilherme Silva Vicente
+2019-04-01;Guilherme Silva Vicente;João Marcos Gonzaga
+2019-04-01;João Marcos Gonzaga;Otávio Nascimento
+2019-04-01;Otávio Nascimento;Natasha Satomi Morikawa
+2019-04-01;Natasha Satomi Morikawa;Rafael Bernardes Augusto
+2019-04-01;Rafael Bernardes Augusto;Lucas Garcia Paschoalinoto
+2019-04-01;Lucas Garcia Paschoalinoto;Christian Kenzo Yoshimoto
+2019-04-01;Christian Kenzo Yoshimoto;Endril Gabriel
+2019-04-01;Endril Gabriel;Lucas Raineiri Martines
+2019-04-01;Lucas Raineiri Martines;Maria Carolina Salem
+2019-04-01;Maria Carolina Salem;Aaron Lopes
+2019-04-01;Aaron Lopes;José Rodolfo Saito de Lima
+2019-04-01;José Rodolfo Saito de Lima;José Pereira da Silva Neto
+2019-04-01;José Pereira da Silva Neto;Lelio Souza
+2019-04-01;Lelio Souza;-
+2019-04-15;Deivid Sousa;Endril Gabriel
+2019-04-15;Endril Gabriel;Vitória Simplicio
+2019-04-15;Vitória Simplicio;Aaron Lopes
+2019-04-15;Aaron Lopes;Raphaela Calveira
+2019-04-15;Raphaela Calveira;José Pereira da Silva Neto
+2019-04-15;José Pereira da Silva Neto;Diogo Alves Santana
+2019-04-15;Diogo Alves Santana;José Rodolfo Saito de Lima
+2019-04-15;José Rodolfo Saito de Lima;Lucas Garcia Paschoalinoto
+2019-04-15;Lucas Garcia Paschoalinoto;Rafael Franklin
+2019-04-15;Rafael Franklin;Elise Gomes dos Santos
+2019-04-15;Elise Gomes dos Santos;Christian Kenzo Yoshimoto
+2019-04-15;Christian Kenzo Yoshimoto;Lelio Souza
+2019-04-15;Lelio Souza;Mauro Ramos
+2019-04-15;Mauro Ramos;Paulo Vinicius
+2019-04-15;Paulo Vinicius;Ricardo Rodrigues
+2019-04-15;Ricardo Rodrigues;Maria Carolina Salem
+2019-04-15;Maria Carolina Salem;Fernando Moura
+2019-04-15;Fernando Moura;Laio Batista
+2019-04-15;Laio Batista;Kallyene Lima Serra
+2019-04-15;Kallyene Lima Serra;Alessandra S. Tavares
+2019-04-15;Alessandra S. Tavares;Fabio Silvestre Bernardo
+2019-04-15;Fabio Silvestre Bernardo;Jonas Pereira Barbosa
+2019-04-15;Jonas Pereira Barbosa;Daniel França da Silva
+2019-04-15;Daniel França da Silva;Eduardo Vieira da Mota
+2019-04-15;Eduardo Vieira da Mota;Pedro Ferreira da Silva
+2019-04-15;Pedro Ferreira da Silva;Marcelo Bernardes Santos
+2019-04-15;Marcelo Bernardes Santos;Rodrigo Traboli
+2019-04-15;Rodrigo Traboli;Douglas Vitor de Farias
+2019-04-15;Douglas Vitor de Farias;Cyro Glon
+2019-04-15;Cyro Glon;Lucas Henrique
+2019-04-15;Lucas Henrique;Caique M. de P.
+2019-04-15;Caique M. de P.;Gustavo Nunes Figueiredo
+2019-04-15;Gustavo Nunes Figueiredo;Everson Souza do Carmo
+2019-04-15;Everson Souza do Carmo;Adriana Souza do Carmo
+2019-04-15;Adriana Souza do Carmo;João Marcos Gonzaga
+2019-04-15;João Marcos Gonzaga;Marcelo Mairena Ferreira
+2019-04-15;Marcelo Mairena Ferreira;Lucas Raineiri Martines
+2019-04-15;Lucas Raineiri Martines;Maria Vilma da Silva
+2019-04-15;Maria Vilma da Silva;-
+2019-04-08;Everson Souza do Carmo;Adriana Souza do Carmo
+2019-04-08;Adriana Souza do Carmo;Nicolas dos Santos Pereira
+2019-04-08;Nicolas dos Santos Pereira;Aaron Lopes
+2019-04-08;Aaron Lopes;Diogo Alves Santana
+2019-04-08;Diogo Alves Santana;Gustavo Nunes Figueiredo
+2019-04-08;Gustavo Nunes Figueiredo;Maria Vilma da Silva
+2019-04-08;Maria Vilma da Silva;Marcelo Bernardes Santos
+2019-04-08;Marcelo Bernardes Santos;Lucas Sapucaia
+2019-04-08;Lucas Sapucaia;Johnny Melo
+2019-04-08;Johnny Melo;Lucas dos Santos Pereira
+2019-04-08;Lucas dos Santos Pereira;Guilherme Silva Vicente
+2019-04-08;Guilherme Silva Vicente;Kallyene Lima Serra
+2019-04-08;Kallyene Lima Serra;Vitória Simplicio
+2019-04-08;Vitória Simplicio;Gustavo Nunes Figueiredo
+2019-04-08;Gustavo Nunes Figueiredo;Elise Gomes dos Santos
+2019-04-08;Elise Gomes dos Santos;Christian Kenzo Yoshimoto
+2019-04-08;Christian Kenzo Yoshimoto;Rafael Franklin
+2019-04-08;Rafael Franklin;Lucas Garcia Paschoalinoto
+2019-04-08;Lucas Garcia Paschoalinoto;Davi Soares da Silva
+2019-04-08;Davi Soares da Silva;Caique M. de P.
+2019-04-08;Caique M. de P.;Lucas Raineiri Martines
+2019-04-08;Lucas Raineiri Martines;Lelio Souza
+2019-04-08;Lelio Souza;Paulo Vinicius
+2019-04-08;Paulo Vinicius;Ricardo Rodrigues
+2019-04-08;Ricardo Rodrigues;Maria Carolina Salem
+2019-04-08;Maria Carolina Salem;Laio Batista
+2019-04-08;Laio Batista;Jonas Pereira Barbosa
+2019-04-08;Jonas Pereira Barbosa;José Rodolfo Saito de Lima
+2019-04-08;José Rodolfo Saito de Lima;José Pereira da Silva Neto
+2019-04-08;José Pereira da Silva Neto;-
+2019-04-22;Guilherme Silva Vicente;Maria Carolina Salem
+2019-04-22;Maria Carolina Salem;José Rodolfo Saito de Lima
+2019-04-22;José Rodolfo Saito de Lima;Gustavo Nunes Figueiredo
+2019-04-22;Gustavo Nunes Figueiredo;Vitória Simplicio
+2019-04-22;Vitória Simplicio;Elise Gomes dos Santos
+2019-04-22;Elise Gomes dos Santos;João Marcos Gonzaga
+2019-04-22;João Marcos Gonzaga;Nicolas dos Santos Pereira
+2019-04-22;Nicolas dos Santos Pereira;Aaron Lopes
+2019-04-22;Aaron Lopes;Diogo Alves Santana
+2019-04-22;Diogo Alves Santana;Raphaela Calveira
+2019-04-22;Raphaela Calveira;José Pereira da Silva Neto
+2019-04-22;José Pereira da Silva Neto;Rafael Franklin
+2019-04-22;Rafael Franklin;Christian Kenzo Yoshimoto
+2019-04-22;Christian Kenzo Yoshimoto;Mauro Ramos
+2019-04-22;Mauro Ramos;Lelio Souza
+2019-04-22;Lelio Souza;Paulo Vinicius
+2019-04-22;Paulo Vinicius;Ricardo Rodrigues
+2019-04-22;Ricardo Rodrigues;Fernando Moura
+2019-04-22;Fernando Moura;Laio Batista
+2019-04-22;Laio Batista;Jonas Pereira Barbosa
+2019-04-22;Jonas Pereira Barbosa;Fabio Silvestre Bernardo
+2019-04-22;Fabio Silvestre Bernardo;Pedro Ferreira da Silva
+2019-04-22;Pedro Ferreira da Silva;Eduardo Vieira da Mota
+2019-04-22;Eduardo Vieira da Mota;Daniel França da Silva
+2019-04-22;Daniel França da Silva;Cyro Glon
+2019-04-22;Cyro Glon;Caique M. de P.
+2019-04-22;Caique M. de P.;Davi Soares da Silva
+2019-04-22;Davi Soares da Silva;Lucas Raineiri Martines
+2019-04-22;Lucas Raineiri Martines;Endril Gabriel
+2019-04-22;Endril Gabriel;Maria Vilma da Silva
+2019-04-22;Maria Vilma da Silva;Deivid Sousa
+2019-04-22;Deivid Sousa;Marcelo Mairena Ferreira
+2019-04-22;Marcelo Mairena Ferreira;Marcelo Bernardes Santos
+2019-04-22;Marcelo Bernardes Santos;Gustavo Nunes Figueiredo
+2019-04-22;Gustavo Nunes Figueiredo;Lucas Sapucaia
+2019-04-22;Lucas Sapucaia;Otávio Nascimento
+2019-04-22;Otávio Nascimento;Antonio Lincoln
+2019-04-22;Antonio Lincoln;Lucas José Rocha Rodrigues
+2019-04-22;Lucas José Rocha Rodrigues;-
+2019-02-11;Vitória Simplicio;Kallyene Lima Serra
+2019-02-11;Kallyene Lima Serra;Nicolas dos Santos Pereira
+2019-02-11;Nicolas dos Santos Pereira;Lucas dos Santos Pereira
+2019-02-11;Lucas dos Santos Pereira;Douglas dos Santos Gusmão
+2019-02-11;Douglas dos Santos Gusmão;Elise Gomes dos Santos
+2019-02-11;Elise Gomes dos Santos;Caique M. de P.
+2019-02-11;Caique M. de P.;Lelio Souza
+2019-02-11;Lelio Souza;Otávio Nascimento
+2019-02-11;Otávio Nascimento;Paulo Vinicius
+2019-02-11;Paulo Vinicius;Mauro Ramos
+2019-02-11;Mauro Ramos;Ricardo Rodrigues
+2019-02-11;Ricardo Rodrigues;Laio Batista
+2019-02-11;Laio Batista;Lucas José Rocha Rodrigues
+2019-02-11;Lucas José Rocha Rodrigues;Antonio Lincoln
+2019-02-11;Antonio Lincoln;Lucas Raineiri Martines
+2019-02-11;Lucas Raineiri Martines;Adriana Souza do Carmo
+2019-02-11;Adriana Souza do Carmo;Everson Souza do Carmo
+2019-02-11;Everson Souza do Carmo;William Oliveira Rufino
+2019-02-11;William Oliveira Rufino;Davi Soares da Silva
+2019-02-11;Davi Soares da Silva;Cyro Glon
+2019-02-11;Cyro Glon;Douglas Vitor de Farias
+2019-02-11;Douglas Vitor de Farias;Daniel França da Silva
+2019-02-11;Daniel França da Silva;Jonas Pereira Barbosa
+2019-02-11;Jonas Pereira Barbosa;Alessandra S. Tavares
+2019-02-11;Alessandra S. Tavares;Eduardo Vieira da Mota
+2019-02-11;Eduardo Vieira da Mota;Rafael Bernardes Augusto
+2019-02-11;Rafael Bernardes Augusto;Natasha Satomi Morikawa
+2019-02-11;Natasha Satomi Morikawa;Leandro Marques
+2019-02-11;Leandro Marques;Guilherme Silva Vicente
+2019-02-11;Guilherme Silva Vicente;Maria Vilma da Silva
+2019-02-11;Maria Vilma da Silva;Marcelo Mairena Ferreira
+2019-02-11;Marcelo Mairena Ferreira;João Marcos Gonzaga
+2019-02-11;João Marcos Gonzaga;Rodrigo Traboli
+2019-02-11;Rodrigo Traboli;Felipe Alcantara Mantovani
+2019-02-11;Felipe Alcantara Mantovani;José Pereira da Silva Neto
+2019-02-11;José Pereira da Silva Neto;Aaron Lopes
+2019-02-11;Aaron Lopes;Marcelo Bernardes Santos
+2019-02-11;Marcelo Bernardes Santos;Gustavo Nunes Figueiredo
+2019-02-11;Gustavo Nunes Figueiredo;Lucas Sapucaia
+2019-02-11;Lucas Sapucaia;-
+2019-03-18;William Oliveira Rufino;Aaron Lopes
+2019-03-18;Aaron Lopes;Gustavo Nunes Figueiredo
+2019-03-18;Gustavo Nunes Figueiredo;Marcelo Bernardes Santos
+2019-03-18;Marcelo Bernardes Santos;Lucas Sapucaia
+2019-03-18;Lucas Sapucaia;Vitória Simplicio
+2019-03-18;Vitória Simplicio;Kallyene Lima Serra
+2019-03-18;Kallyene Lima Serra;Pedro Ferreira da Silva
+2019-03-18;Pedro Ferreira da Silva;Fabio Silvestre Bernardo
+2019-03-18;Fabio Silvestre Bernardo;Marcelo Mairena Ferreira
+2019-03-18;Marcelo Mairena Ferreira;Vinicius Alves
+2019-03-18;Vinicius Alves;Rodrigo Traboli
+2019-03-18;Rodrigo Traboli;João Marcos Gonzaga
+2019-03-18;João Marcos Gonzaga;Guilherme Silva Vicente
+2019-03-18;Guilherme Silva Vicente;Maria Vilma da Silva
+2019-03-18;Maria Vilma da Silva;Natasha Satomi Morikawa
+2019-03-18;Natasha Satomi Morikawa;Davi Soares da Silva
+2019-03-18;Davi Soares da Silva;Lucas Raineiri Martines
+2019-03-18;Lucas Raineiri Martines;Rafael Bernardes Augusto
+2019-03-18;Rafael Bernardes Augusto;Douglas Vitor de Farias
+2019-03-18;Douglas Vitor de Farias;Caique M. de P.
+2019-03-18;Caique M. de P.;Cyro Glon
+2019-03-18;Cyro Glon;Jonas Pereira Barbosa
+2019-03-18;Jonas Pereira Barbosa;Daniel França da Silva
+2019-03-18;Daniel França da Silva;Alessandra S. Tavares
+2019-03-18;Alessandra S. Tavares;Antonio Lincoln
+2019-03-18;Antonio Lincoln;Lucas Rodrigues
+2019-03-18;Lucas Rodrigues;Laio Batista
+2019-03-18;Laio Batista;Maria Carolina Salem
+2019-03-18;Maria Carolina Salem;Fernando Moura
+2019-03-18;Fernando Moura;Lucas dos Santos Pereira
+2019-03-18;Lucas dos Santos Pereira;José Rodolfo Saito de Lima
+2019-03-18;José Rodolfo Saito de Lima;Ricardo Rodrigues
+2019-03-18;Ricardo Rodrigues;Mauro Ramos
+2019-03-18;Mauro Ramos;Otávio Nascimento
+2019-03-18;Otávio Nascimento;Lelio Souza
+2019-03-18;Lelio Souza;Paulo Vinicius
+2019-03-18;Paulo Vinicius;Elise Gomes dos Santos
+2019-03-18;Elise Gomes dos Santos;Rafael Franklin
+2019-03-18;Rafael Franklin;Christian Kenzo Yoshimoto
+2019-03-18;Christian Kenzo Yoshimoto;-
