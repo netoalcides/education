@@ -9,15 +9,23 @@ library(visNetwork)
 ###################################################################
 ########################## Carrega Dados ##########################
 ###################################################################
-dados_alunos <- read_csv2( file = "/home/vm-data-science/dados/rede_alunos_exemplo_aula_8.csv", 
+
+# dados_alunos <- read_csv2( file = "/home/vm-data-science/dados/rede_alunos_exemplo_aula_8.csv",
+#                            locale = locale( encoding = 'latin1' ) )
+# 
+# dados_alunos %<>% 
+#   mutate( data = dmy(data) ) %>% 
+#   filter( depois != '-' ) %>% 
+#   rename( from = antes,
+#           to = depois )
+
+dados_alunos <- read_csv2( file = "/home/vm-data-science/education/dados/rede_alunos_2tbdr.csv", 
                            locale = locale( encoding = 'latin1' ) )
 
-dados_alunos %<>% 
-  mutate( data = dmy(data) ) %>% 
-  filter( depois != '-' ) %>% 
+dados_alunos %<>%
+  filter( depois != '-' ) %>%
   rename( from = antes,
           to = depois )
-
 
 
 ###################################################################
@@ -51,9 +59,16 @@ visNetwork(nodes,
 
 ## Metricas
 
-nodes %<>% 
-  filter( !id %in% c('Fábio', 'Umberto', 'Cleber' ) )
+# nodes %<>% 
+#   filter( !id %in% c('Fábio', 'Umberto', 'Cleber' ) )
 
+nodes %<>% 
+  filter( !id %in% c('Endril Gabriel', 'Lucas Garcia Paschoalinoto', 
+                     'Cleber', 'Otávio Nascimento', 
+                     'Douglas dos Santos Gusmão', 'Luis Gustavo Agune',
+                     'Guilherme Lopes', 'Lucas Henrique',
+                     'Lucas Henrique', 'Johnny Melo',
+                     'Felipe Alcantara Mantovani', 'Lucas Rodrigues') )
 
 alunos_network <- graph_from_data_frame( d = edges_gerais,
                                          vertices = nodes, 
@@ -152,6 +167,15 @@ deg %>%
 #           nivel_integracao = betweenness ) %>% 
 #   write_csv(., path = 'dados/metricas_rede_alunos.csv' )
 
+# deg %>%
+#   left_join(., close,
+#             by = 'aluno' ) %>%
+#   left_join(., betw,
+#             by = 'aluno' ) %>%
+#   rename( qtd_conexoes = degree,
+#           nivel_influencia = closeness,
+#           nivel_integracao = betweenness ) %>%
+#   write_csv(., path = '/home/vm-data-science/education/dados/metricas_rede_alunos_2tbdr.csv' )
 
 
 
