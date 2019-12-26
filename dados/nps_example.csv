@@ -1,0 +1,2580 @@
+id;response_status;how_long_listening;age;nps_score;gender
+11706300;Complete;Less than 6 months;25-34;10;Female
+11706302;Complete;1 year to less than 3 years;25-34;10;Female
+11706307;Complete;6 months to less than a year;35-44;10;Female
+11706312;Complete;Less than 6 months;35-44;10;Female
+11706316;Complete;6 months to less than a year;25-34;10;Male
+11706318;Complete;5 years to less than 10 years;35-44;10;Female
+11706335;Complete;3 years to less than 5 years;25-34;8;Female
+11706368;Complete;6 months to less than a year;18-24;10;Female
+11706376;Complete;3 years to less than 5 years;45-54;9;Male
+11706396;Complete;1 year to less than 3 years;45-54;10;Male
+11706402;Complete;1 year to less than 3 years;35-44;10;Male
+11706403;Complete;5 years to less than 10 years;25-34;10;Female
+11706413;Complete;More than 15 years;55-64;10;Male
+11706427;Complete;1 year to less than 3 years;18-24;10;Female
+11706445;Complete;6 months to less than a year;25-34;10;Male
+11706452;Complete;1 year to less than 3 years;45-54;10;Female
+11706453;Complete;1 year to less than 3 years;35-44;10;Female
+11706467;Incomplete;Less than 6 months;18-24;;
+11706530;Complete;1 year to less than 3 years;55-64;10;Female
+11706532;Complete;Less than 6 months;18-24;9;Male
+11706559;Complete;Less than 6 months;45-54;10;Male
+11706600;Complete;5 years to less than 10 years;45-54;10;Male
+11706634;Complete;Less than 6 months;25-34;10;Female
+11706636;Complete;1 year to less than 3 years;45-54;10;Female
+11706658;Complete;6 months to less than a year;25-34;10;Female
+11706667;Complete;5 years to less than 10 years;25-34;10;Female
+11706686;Complete;1 year to less than 3 years;35-44;10;Male
+11706718;Complete;5 years to less than 10 years;65-74;9;Female
+11706752;Complete;1 year to less than 3 years;25-34;10;Female
+11706780;Complete;3 years to less than 5 years;25-34;10;Female
+11706826;Complete;10 years to less than 15 years;25-34;10;Female
+11706938;Incomplete;1 year to less than 3 years;25-34;;
+11706979;Incomplete;6 months to less than a year;25-34;;
+11707016;Complete;Less than 6 months;45-54;10;Female
+11707034;Complete;Less than 6 months;55-64;10;Male
+11707040;Complete;1 year to less than 3 years;25-34;10;Male
+11707041;Complete;6 months to less than a year;25-34;10;Male
+11707084;Complete;1 year to less than 3 years;35-44;10;Female
+11707112;Complete;1 year to less than 3 years;25-34;10;Female
+11707123;Complete;1 year to less than 3 years;35-44;10;Female
+11707160;Complete;1 year to less than 3 years;45-54;10;Female
+11707289;Complete;Less than 6 months;25-34;10;Male
+11707411;Complete;1 year to less than 3 years;25-34;10;Female
+11707426;Incomplete;6 months to less than a year;25-34;;
+11707428;Complete;Less than 6 months;18-24;10;Male
+11707436;Complete;Less than 6 months;18-24;10;Female
+11707520;Complete;1 year to less than 3 years;45-54;10;Male
+11707542;Complete;Less than 6 months;35-44;7;Female
+11707719;Incomplete;3 years to less than 5 years;35-44;;
+11707747;Complete;6 months to less than a year;35-44;10;Female
+11707821;Complete;1 year to less than 3 years;35-44;6;Male
+11707840;Complete;3 years to less than 5 years;35-44;10;Female
+11707906;Complete;1 year to less than 3 years;55-64;10;Female
+11707918;Incomplete;Less than 6 months;18-24;;
+11708001;Complete;1 year to less than 3 years;18-24;10;Female
+11708106;Complete;1 year to less than 3 years;35-44;10;Female
+11708152;Complete;6 months to less than a year;25-34;10;Female
+11708255;Complete;3 years to less than 5 years;25-34;10;Female
+11708331;Complete;5 years to less than 10 years;25-34;10;Male
+11708440;Complete;1 year to less than 3 years;35-44;10;Female
+11708525;Complete;5 years to less than 10 years;18-24;10;Female
+11708526;Complete;1 year to less than 3 years;18-24;10;Male
+11708546;Complete;5 years to less than 10 years;18-24;8;Female
+11708583;Complete;10 years to less than 15 years;35-44;9;Female
+11708604;Complete;1 year to less than 3 years;25-34;10;Female
+11708616;Complete;Less than 6 months;25-34;5;Female
+11708668;Incomplete;1 year to less than 3 years;55-64;;
+11708696;Complete;1 year to less than 3 years;25-34;10;
+11708830;Complete;5 years to less than 10 years;25-34;10;Female
+11708850;Complete;6 months to less than a year;35-44;10;Female
+11708907;Complete;3 years to less than 5 years;55-64;10;Female
+11709012;Complete;6 months to less than a year;18-24;5;Male
+11709033;Complete;Less than 6 months;18-24;6;Male
+11709046;Complete;5 years to less than 10 years;25-34;10;Female
+11709052;Complete;1 year to less than 3 years;45-54;9;Male
+11709136;Complete;Less than 6 months;45-54;9;Male
+11709152;Complete;3 years to less than 5 years;25-34;10;Female
+11709209;Complete;6 months to less than a year;35-44;7;Female
+11709316;Complete;6 months to less than a year;35-44;10;Male
+11709390;Complete;1 year to less than 3 years;55-64;10;Male
+11709457;Complete;6 months to less than a year;45-54;7;Male
+11709473;Complete;6 months to less than a year;25-34;10;Male
+11709520;Complete;1 year to less than 3 years;35-44;10;Female
+11709707;Complete;1 year to less than 3 years;65-74;10;Female
+11709735;Complete;6 months to less than a year;35-44;10;Female
+11709793;Complete;1 year to less than 3 years;35-44;10;Female
+11709808;Complete;1 year to less than 3 years;25-34;10;Male
+11709897;Complete;3 years to less than 5 years;25-34;10;Female
+11709928;Complete;6 months to less than a year;35-44;10;Female
+11709951;Complete;1 year to less than 3 years;25-34;10;Female
+11710000;Complete;1 year to less than 3 years;45-54;10;Female
+11710010;Complete;6 months to less than a year;25-34;10;Male
+11710110;Incomplete;6 months to less than a year;25-34;;
+11710137;Complete;Less than 6 months;25-34;10;Female
+11710150;Complete;6 months to less than a year;45-54;10;Female
+11710154;Complete;6 months to less than a year;45-54;10;Male
+11710333;Complete;1 year to less than 3 years;35-44;;Male
+11710345;Complete;6 months to less than a year;35-44;10;Male
+11710350;Complete;Less than 6 months;25-34;10;Female
+11710397;Complete;1 year to less than 3 years;45-54;10;Female
+11710415;Complete;5 years to less than 10 years;35-44;10;Female
+11710573;Complete;Less than 6 months;55-64;10;Male
+11710930;Complete;1 year to less than 3 years;18-24;8;Male
+11711051;Complete;3 years to less than 5 years;35-44;10;Female
+11711076;Complete;1 year to less than 3 years;55-64;10;Female
+11711136;Complete;3 years to less than 5 years;45-54;10;Female
+11711156;Complete;5 years to less than 10 years;25-34;7;Female
+11711349;Complete;3 years to less than 5 years;25-34;10;Female
+11711412;Complete;6 months to less than a year;18-24;10;Male
+11711455;Complete;6 months to less than a year;18-24;10;Female
+11711892;Complete;6 months to less than a year;35-44;10;Female
+11711902;Complete;1 year to less than 3 years;25-34;10;Male
+11711943;Complete;3 years to less than 5 years;45-54;10;Female
+11711964;Complete;3 years to less than 5 years;25-34;10;Male
+11711992;Complete;1 year to less than 3 years;45-54;10;Female
+11712057;Complete;5 years to less than 10 years;45-54;8;Male
+11712083;Complete;3 years to less than 5 years;25-34;6;Female
+11712113;Complete;1 year to less than 3 years;45-54;10;Male
+11712137;Complete;Less than 6 months;25-34;10;Male
+11712226;Complete;1 year to less than 3 years;55-64;10;Female
+11712286;Complete;1 year to less than 3 years;35-44;10;Female
+11712318;Complete;1 year to less than 3 years;45-54;10;Male
+11712587;Incomplete;1 year to less than 3 years;25-34;;
+11712640;Complete;Less than 6 months;18-24;10;Female
+11712751;Complete;3 years to less than 5 years;45-54;10;Female
+11712822;Complete;3 years to less than 5 years;25-34;10;Male
+11712849;Complete;Less than 6 months;18-24;10;Female
+11712858;Complete;Less than 6 months;18-24;5;Male
+11712901;Complete;3 years to less than 5 years;35-44;10;Female
+11713111;Complete;3 years to less than 5 years;25-34;10;Female
+11713183;Complete;1 year to less than 3 years;25-34;10;Female
+11713315;Complete;1 year to less than 3 years;35-44;10;Male
+11713358;Complete;3 years to less than 5 years;45-54;8;Male
+11713376;Incomplete;6 months to less than a year;55-64;;
+11713505;Complete;Less than 6 months;25-34;10;Female
+11713606;Complete;1 year to less than 3 years;35-44;10;Female
+11713643;Complete;3 years to less than 5 years;25-34;10;Female
+11713781;Terminated;1 year to less than 3 years;Under 18;;
+11713893;Complete;1 year to less than 3 years;55-64;10;Female
+11713906;Complete;6 months to less than a year;18-24;10;Female
+11714048;Incomplete;10 years to less than 15 years;45-54;;
+11714071;Complete;1 year to less than 3 years;18-24;10;Female
+11714138;Complete;1 year to less than 3 years;25-34;8;Female
+11714183;Complete;5 years to less than 10 years;35-44;10;Female
+11714225;Complete;3 years to less than 5 years;45-54;10;Female
+11714364;Complete;1 year to less than 3 years;55-64;9;Female
+11714488;Complete;5 years to less than 10 years;45-54;10;Male
+11714690;Complete;1 year to less than 3 years;35-44;10;Female
+11714768;Complete;Less than 6 months;55-64;0;Female
+11714794;Complete;1 year to less than 3 years;45-54;10;Female
+11714827;Complete;1 year to less than 3 years;55-64;7;Female
+11714886;Complete;1 year to less than 3 years;45-54;9;Female
+11714908;Complete;Less than 6 months;45-54;10;Male
+11715130;Complete;5 years to less than 10 years;35-44;10;Female
+11715258;Complete;Less than 6 months;25-34;10;Male
+11715288;Complete;1 year to less than 3 years;35-44;10;Female
+11715350;Complete;Less than 6 months;45-54;10;Female
+11715369;Complete;Less than 6 months;18-24;10;Female
+11715545;Complete;1 year to less than 3 years;18-24;7;Female
+11715606;Complete;5 years to less than 10 years;18-24;10;Male
+11716031;Complete;Less than 6 months;35-44;10;Male
+11716109;Complete;Less than 6 months;25-34;10;Female
+11716315;Complete;1 year to less than 3 years;35-44;8;Female
+11716364;Complete;1 year to less than 3 years;18-24;10;Female
+11716589;Complete;1 year to less than 3 years;35-44;10;Male
+11716700;Complete;1 year to less than 3 years;35-44;8;Female
+11716713;Incomplete;Less than 6 months;18-24;;
+11716942;Complete;5 years to less than 10 years;55-64;10;Female
+11717448;Incomplete;5 years to less than 10 years;45-54;;
+11717586;Complete;Less than 6 months;35-44;10;Female
+11717625;Complete;5 years to less than 10 years;55-64;10;Female
+11717697;Incomplete;6 months to less than a year;55-64;;
+11718064;Complete;Less than 6 months;35-44;9;Female
+11718159;Terminated;1 year to less than 3 years;Under 18;;
+11718230;Incomplete;6 months to less than a year;45-54;;
+11718255;Complete;5 years to less than 10 years;25-34;10;Female
+11718328;Complete;1 year to less than 3 years;25-34;10;Female
+11718536;Complete;10 years to less than 15 years;25-34;10;Female
+11718552;Incomplete;1 year to less than 3 years;55-64;;
+11718638;Complete;1 year to less than 3 years;45-54;10;
+11718653;Complete;3 years to less than 5 years;45-54;10;Female
+11718992;Complete;5 years to less than 10 years;18-24;7;Female
+11719000;Complete;Less than 6 months;35-44;10;Female
+11719200;Complete;1 year to less than 3 years;55-64;10;Female
+11719236;Complete;Less than 6 months;18-24;10;Female
+11719243;Complete;6 months to less than a year;45-54;10;Female
+11719362;Complete;1 year to less than 3 years;25-34;10;Female
+11719500;Complete;1 year to less than 3 years;35-44;10;Female
+11719708;Complete;Less than 6 months;18-24;8;Male
+11719720;Complete;6 months to less than a year;25-34;10;Female
+11719880;Complete;5 years to less than 10 years;18-24;10;Female
+11720232;Complete;6 months to less than a year;18-24;10;Male
+11720249;Complete;Less than 6 months;45-54;10;Female
+11720679;Complete;Less than 6 months;25-34;10;Female
+11720874;Complete;5 years to less than 10 years;35-44;10;Female
+11720929;Complete;1 year to less than 3 years;25-34;8;Female
+11720960;Complete;10 years to less than 15 years;55-64;10;Female
+11721039;Incomplete;Less than 6 months;45-54;;
+11721486;Complete;1 year to less than 3 years;55-64;10;Female
+11721551;Complete;1 year to less than 3 years;25-34;10;Female
+11721808;Complete;1 year to less than 3 years;25-34;10;Female
+11721837;Complete;1 year to less than 3 years;55-64;10;Female
+11721976;Incomplete;1 year to less than 3 years;25-34;;
+11722606;Complete;6 months to less than a year;35-44;10;Male
+11722817;Complete;6 months to less than a year;35-44;9;Male
+11724219;Complete;5 years to less than 10 years;18-24;10;Female
+11724404;Complete;More than 15 years;45-54;10;Female
+11724977;Complete;1 year to less than 3 years;35-44;10;Female
+11727277;Complete;3 years to less than 5 years;18-24;10;Female
+11728545;Complete;Less than 6 months;25-34;10;Male
+11729120;Incomplete;1 year to less than 3 years;25-34;;
+11730782;Complete;Less than 6 months;35-44;10;Male
+11732664;Complete;6 months to less than a year;65-74;10;Female
+11735163;Complete;5 years to less than 10 years;35-44;10;Female
+11737845;Complete;1 year to less than 3 years;18-24;10;Male
+11739070;Complete;1 year to less than 3 years;45-54;10;Female
+11740800;Complete;Less than 6 months;25-34;9;Female
+11741216;Complete;1 year to less than 3 years;25-34;10;Female
+11743655;Complete;10 years to less than 15 years;25-34;10;Female
+11744310;Complete;1 year to less than 3 years;35-44;9;Female
+11747005;Complete;Less than 6 months;35-44;5;Male
+11748166;Complete;6 months to less than a year;35-44;10;Male
+11748362;Complete;1 year to less than 3 years;18-24;8;Male
+11748418;Complete;Less than 6 months;45-54;10;Female
+11748920;Complete;Less than 6 months;45-54;10;Male
+11750268;Complete;Less than 6 months;25-34;10;Female
+11753829;Complete;3 years to less than 5 years;35-44;10;Female
+11755110;Complete;6 months to less than a year;25-34;9;Female
+11756686;Complete;1 year to less than 3 years;25-34;10;
+11757610;Complete;10 years to less than 15 years;55-64;10;Female
+11758982;Complete;6 months to less than a year;35-44;10;Female
+11759143;Incomplete;3 years to less than 5 years;18-24;;
+11759169;Complete;1 year to less than 3 years;35-44;10;Female
+11759193;Complete;Less than 6 months;25-34;10;Female
+11759200;Complete;3 years to less than 5 years;45-54;10;Female
+11759219;Complete;1 year to less than 3 years;55-64;10;Female
+11759273;Incomplete;Less than 6 months;18-24;;
+11759319;Complete;Less than 6 months;25-34;10;Female
+11759345;Complete;1 year to less than 3 years;35-44;10;Female
+11759356;Complete;10 years to less than 15 years;45-54;9;Male
+11759389;Complete;5 years to less than 10 years;55-64;10;Female
+11759396;Complete;5 years to less than 10 years;55-64;10;Female
+11759433;Terminated;3 years to less than 5 years;Under 18;;
+11759468;Complete;3 years to less than 5 years;45-54;10;Female
+11759588;Complete;Less than 6 months;45-54;10;Female
+11759612;Complete;1 year to less than 3 years;18-24;10;Male
+11759686;Incomplete;1 year to less than 3 years;35-44;;
+11759801;Complete;5 years to less than 10 years;35-44;10;Female
+11759849;Complete;10 years to less than 15 years;18-24;10;Female
+11759986;Complete;Less than 6 months;25-34;10;Female
+11760156;Complete;1 year to less than 3 years;25-34;10;Female
+11760191;Complete;5 years to less than 10 years;18-24;8;Female
+11760257;Complete;6 months to less than a year;35-44;10;Female
+11760320;Complete;1 year to less than 3 years;35-44;10;Female
+11760325;Complete;6 months to less than a year;25-34;10;Female
+11760607;Complete;1 year to less than 3 years;25-34;9;Male
+11760714;Complete;Less than 6 months;35-44;10;Male
+11760772;Incomplete;1 year to less than 3 years;45-54;;
+11760776;Complete;5 years to less than 10 years;45-54;10;Male
+11760780;Complete;5 years to less than 10 years;55-64;10;Female
+11760829;Complete;1 year to less than 3 years;18-24;10;Male
+11760916;Complete;3 years to less than 5 years;55-64;10;Female
+11760938;Complete;Less than 6 months;55-64;8;Female
+11761017;Complete;1 year to less than 3 years;25-34;10;Female
+11761303;Complete;1 year to less than 3 years;45-54;10;Male
+11761319;Complete;5 years to less than 10 years;35-44;10;Female
+11761422;Complete;Less than 6 months;55-64;10;Female
+11761598;Complete;1 year to less than 3 years;18-24;10;Female
+11761611;Incomplete;1 year to less than 3 years;55-64;;
+11761896;Complete;10 years to less than 15 years;25-34;6;Female
+11762088;Complete;1 year to less than 3 years;35-44;10;Male
+11762103;Complete;Less than 6 months;35-44;;Male
+11762122;Complete;6 months to less than a year;35-44;10;Female
+11762168;Complete;3 years to less than 5 years;25-34;10;Male
+11762434;Complete;5 years to less than 10 years;25-34;10;Female
+11762623;Incomplete;1 year to less than 3 years;45-54;;
+11762745;Complete;1 year to less than 3 years;18-24;9;Female
+11763850;Complete;3 years to less than 5 years;45-54;10;Female
+11764175;Complete;10 years to less than 15 years;25-34;10;Female
+11764208;Complete;1 year to less than 3 years;35-44;10;Female
+11764312;Complete;1 year to less than 3 years;45-54;10;Female
+11764340;Complete;5 years to less than 10 years;55-64;8;Female
+11764391;Complete;1 year to less than 3 years;45-54;10;Male
+11764693;Incomplete;6 months to less than a year;25-34;;
+11764708;Incomplete;1 year to less than 3 years;;;
+11764827;Complete;1 year to less than 3 years;25-34;10;Female
+11764956;Incomplete;1 year to less than 3 years;55-64;;
+11765122;Complete;Less than 6 months;35-44;10;Female
+11765465;Complete;5 years to less than 10 years;18-24;10;Female
+11766266;Complete;3 years to less than 5 years;25-34;10;Female
+11766556;Complete;3 years to less than 5 years;45-54;10;Male
+11766813;Complete;Less than 6 months;45-54;9;Female
+11767204;Complete;6 months to less than a year;18-24;10;Male
+11767596;Complete;3 years to less than 5 years;25-34;10;Male
+11767988;Complete;1 year to less than 3 years;25-34;10;Female
+11768428;Complete;6 months to less than a year;45-54;10;Female
+11768722;Incomplete;More than 15 years;25-34;;
+11768925;Complete;5 years to less than 10 years;25-34;10;Female
+11769150;Complete;3 years to less than 5 years;35-44;10;Female
+11769399;Complete;5 years to less than 10 years;35-44;10;Female
+11769577;Complete;1 year to less than 3 years;25-34;10;Female
+11769641;Complete;Less than 6 months;18-24;10;Female
+11769668;Complete;3 years to less than 5 years;25-34;9;Male
+11769806;Complete;5 years to less than 10 years;55-64;10;Female
+11769900;Complete;6 months to less than a year;35-44;10;Female
+11769996;Complete;6 months to less than a year;55-64;10;Female
+11770200;Complete;5 years to less than 10 years;35-44;10;Female
+11770242;Complete;Less than 6 months;25-34;10;Female
+11770273;Complete;5 years to less than 10 years;18-24;10;Male
+11770370;Complete;10 years to less than 15 years;25-34;7;Male
+11771190;Complete;10 years to less than 15 years;55-64;10;Male
+11771292;Complete;Less than 6 months;55-64;10;Male
+11771347;Complete;6 months to less than a year;35-44;9;Male
+11771647;Incomplete;More than 15 years;18-24;;
+11771798;Complete;Less than 6 months;65-74;10;Female
+11771825;Complete;More than 15 years;45-54;10;Female
+11771859;Complete;1 year to less than 3 years;35-44;10;Female
+11771927;Complete;Less than 6 months;35-44;10;Female
+11772185;Complete;5 years to less than 10 years;45-54;10;Female
+11772340;Complete;3 years to less than 5 years;55-64;10;Female
+11772466;Complete;Less than 6 months;35-44;10;Male
+11772909;Complete;1 year to less than 3 years;35-44;9;Female
+11773590;Complete;Less than 6 months;18-24;8;Female
+11773783;Complete;Less than 6 months;25-34;8;Female
+11773916;Complete;1 year to less than 3 years;35-44;5;Male
+11773922;Complete;5 years to less than 10 years;35-44;10;Female
+11774265;Complete;3 years to less than 5 years;55-64;10;Female
+11774273;Complete;1 year to less than 3 years;45-54;10;Female
+11774434;Complete;Less than 6 months;45-54;10;Female
+11774897;Complete;10 years to less than 15 years;35-44;10;Female
+11775059;Complete;1 year to less than 3 years;55-64;10;Female
+11775147;Complete;3 years to less than 5 years;25-34;10;Female
+11775438;Complete;6 months to less than a year;18-24;10;Female
+11775854;Complete;1 year to less than 3 years;45-54;10;Male
+11776035;Complete;1 year to less than 3 years;25-34;10;Female
+11776586;Incomplete;3 years to less than 5 years;45-54;;
+11776903;Complete;1 year to less than 3 years;35-44;10;Female
+11777021;Complete;1 year to less than 3 years;18-24;7;Female
+11777252;Incomplete;3 years to less than 5 years;45-54;;
+11777295;Complete;5 years to less than 10 years;45-54;10;Female
+11777622;Complete;3 years to less than 5 years;25-34;10;Male
+11777800;Complete;Less than 6 months;18-24;10;Female
+11778071;Complete;1 year to less than 3 years;18-24;10;Male
+11778155;Complete;1 year to less than 3 years;35-44;10;Female
+11778284;Complete;1 year to less than 3 years;45-54;10;Male
+11779984;Complete;3 years to less than 5 years;18-24;10;Male
+11784355;Complete;6 months to less than a year;55-64;9;Male
+11786021;Complete;5 years to less than 10 years;55-64;10;Female
+11791459;Complete;Less than 6 months;55-64;10;Female
+11791654;Complete;1 year to less than 3 years;35-44;10;Female
+11793052;Complete;5 years to less than 10 years;18-24;10;Male
+11797717;Complete;1 year to less than 3 years;45-54;10;Female
+11798743;Complete;3 years to less than 5 years;25-34;10;Female
+11799165;Complete;More than 15 years;55-64;10;Female
+11802604;Complete;1 year to less than 3 years;45-54;10;Female
+11802708;Complete;5 years to less than 10 years;45-54;10;Female
+11803668;Complete;Less than 6 months;45-54;10;Female
+11804275;Complete;5 years to less than 10 years;18-24;10;Female
+11805449;Complete;10 years to less than 15 years;25-34;10;Female
+11805647;Complete;3 years to less than 5 years;45-54;10;Male
+11805675;Incomplete;Less than 6 months;;;
+11806079;Complete;3 years to less than 5 years;18-24;10;Female
+11806642;Complete;5 years to less than 10 years;18-24;10;Male
+11807441;Incomplete;5 years to less than 10 years;18-24;10;Female
+11807564;Complete;5 years to less than 10 years;55-64;10;Female
+11807849;Complete;3 years to less than 5 years;18-24;10;Female
+11807892;Complete;1 year to less than 3 years;18-24;10;Female
+11808298;Complete;3 years to less than 5 years;45-54;10;Male
+11808808;Complete;Less than 6 months;55-64;8;Male
+11810027;Complete;Less than 6 months;18-24;10;Female
+11810609;Complete;More than 15 years;35-44;10;Female
+11815063;Complete;1 year to less than 3 years;45-54;10;Female
+11816390;Incomplete;Less than 6 months;45-54;;
+11816630;Complete;1 year to less than 3 years;45-54;10;Female
+11817550;Complete;1 year to less than 3 years;18-24;9;Male
+11817643;Complete;1 year to less than 3 years;25-34;10;Male
+11817860;Complete;1 year to less than 3 years;18-24;10;Male
+11818425;Incomplete;1 year to less than 3 years;18-24;;
+11820677;Complete;1 year to less than 3 years;25-34;10;Female
+11820938;Complete;1 year to less than 3 years;45-54;10;Male
+11822311;Complete;6 months to less than a year;35-44;10;Female
+11823096;Incomplete;1 year to less than 3 years;55-64;;
+11823333;Complete;10 years to less than 15 years;18-24;10;Male
+11825027;Complete;1 year to less than 3 years;45-54;10;Female
+11825774;Complete;Less than 6 months;35-44;8;Male
+11827047;Complete;Less than 6 months;25-34;10;Female
+11828255;Incomplete;Less than 6 months;35-44;;
+11828959;Complete;6 months to less than a year;35-44;10;Female
+11829429;Incomplete;6 months to less than a year;35-44;;
+11830363;Complete;3 years to less than 5 years;55-64;10;Female
+11830862;Complete;1 year to less than 3 years;35-44;10;Male
+11831653;Complete;1 year to less than 3 years;25-34;9;Female
+11838334;Complete;Less than 6 months;25-34;5;Female
+11845836;Complete;3 years to less than 5 years;45-54;10;Female
+11851206;Complete;Less than 6 months;55-64;10;Female
+11858685;Complete;Less than 6 months;35-44;9;Female
+11860034;Incomplete;3 years to less than 5 years;18-24;;
+11860404;Complete;5 years to less than 10 years;55-64;10;Female
+11861031;Complete;3 years to less than 5 years;45-54;10;Female
+11865049;Complete;1 year to less than 3 years;65-74;;Male
+11866379;Complete;3 years to less than 5 years;55-64;10;Female
+11867667;Incomplete;1 year to less than 3 years;55-64;;
+11869346;Complete;3 years to less than 5 years;25-34;10;Male
+11869405;Complete;1 year to less than 3 years;45-54;10;Female
+11869925;Complete;1 year to less than 3 years;18-24;10;Female
+11874675;Complete;Less than 6 months;35-44;8;Female
+11874821;Complete;5 years to less than 10 years;55-64;5;Female
+11875635;Complete;Less than 6 months;45-54;10;Female
+11877123;Complete;1 year to less than 3 years;35-44;10;Female
+11877497;Complete;More than 15 years;18-24;10;Male
+11878635;Complete;1 year to less than 3 years;18-24;10;Female
+11883130;Complete;1 year to less than 3 years;25-34;10;Female
+11883820;Complete;Less than 6 months;55-64;7;Female
+11885708;Complete;1 year to less than 3 years;45-54;10;Male
+11886420;Complete;More than 15 years;55-64;10;Female
+11886483;Complete;10 years to less than 15 years;25-34;10;Female
+11887392;Complete;1 year to less than 3 years;45-54;10;Female
+11908743;Complete;6 months to less than a year;45-54;10;Female
+11910335;Complete;5 years to less than 10 years;35-44;10;Male
+11913969;Complete;Less than 6 months;45-54;10;Female
+11915289;Complete;1 year to less than 3 years;35-44;10;Female
+11916485;Complete;6 months to less than a year;25-34;10;Female
+11917581;Complete;Less than 6 months;35-44;10;Male
+11920790;Complete;1 year to less than 3 years;18-24;10;Female
+11920890;Complete;1 year to less than 3 years;45-54;9;Female
+11929293;Complete;6 months to less than a year;35-44;10;Male
+11933811;Complete;1 year to less than 3 years;25-34;10;Female
+11936782;Complete;10 years to less than 15 years;35-44;10;Male
+11936802;Complete;1 year to less than 3 years;18-24;8;Female
+11936853;Complete;1 year to less than 3 years;25-34;10;Female
+11936914;Complete;6 months to less than a year;18-24;10;Female
+11936925;Complete;10 years to less than 15 years;18-24;8;Male
+11936972;Complete;More than 15 years;35-44;8;Male
+11936975;Complete;1 year to less than 3 years;35-44;10;Female
+11937111;Incomplete;10 years to less than 15 years;25-34;;
+11937141;Complete;1 year to less than 3 years;18-24;10;Male
+11937169;Complete;1 year to less than 3 years;45-54;10;Female
+11937213;Complete;1 year to less than 3 years;18-24;10;Female
+11937225;Complete;3 years to less than 5 years;25-34;10;Female
+11937232;Complete;1 year to less than 3 years;25-34;10;Female
+11937235;Complete;5 years to less than 10 years;25-34;10;Female
+11937305;Complete;1 year to less than 3 years;18-24;10;Male
+11937312;Complete;1 year to less than 3 years;18-24;6;Female
+11937344;Complete;5 years to less than 10 years;25-34;10;Female
+11937346;Complete;1 year to less than 3 years;25-34;10;Female
+11937405;Complete;5 years to less than 10 years;55-64;10;Female
+11937436;Complete;1 year to less than 3 years;25-34;10;Female
+11937501;Complete;3 years to less than 5 years;35-44;10;Female
+11937582;Complete;5 years to less than 10 years;35-44;10;Male
+11937644;Complete;3 years to less than 5 years;25-34;10;Female
+11937708;Complete;Less than 6 months;45-54;10;Female
+11937955;Complete;1 year to less than 3 years;25-34;10;Male
+11937968;Complete;6 months to less than a year;25-34;10;Female
+11938084;Complete;1 year to less than 3 years;25-34;10;Male
+11938115;Complete;3 years to less than 5 years;25-34;10;Female
+11938997;Complete;6 months to less than a year;45-54;10;Female
+11939495;Incomplete;5 years to less than 10 years;55-64;;
+11939814;Incomplete;5 years to less than 10 years;35-44;;
+11939897;Complete;10 years to less than 15 years;45-54;10;Female
+11939932;Incomplete;More than 15 years;35-44;;
+11940151;Complete;6 months to less than a year;35-44;10;Female
+11940555;Incomplete;3 years to less than 5 years;25-34;10;Female
+11940590;Complete;3 years to less than 5 years;35-44;10;Female
+11940650;Complete;6 months to less than a year;35-44;10;Female
+11940784;Complete;6 months to less than a year;55-64;10;Female
+11941338;Complete;Less than 6 months;35-44;10;Female
+11941851;Complete;6 months to less than a year;55-64;10;Female
+11942094;Complete;6 months to less than a year;55-64;8;Male
+11942130;Complete;More than 15 years;55-64;10;Male
+11942488;Incomplete;10 years to less than 15 years;45-54;10;Male
+11942906;Complete;5 years to less than 10 years;45-54;10;Female
+11942957;Complete;1 year to less than 3 years;25-34;10;Female
+11942995;Complete;1 year to less than 3 years;35-44;8;Female
+11943286;Complete;3 years to less than 5 years;45-54;10;Female
+11943357;Complete;1 year to less than 3 years;18-24;9;Male
+11943693;Complete;3 years to less than 5 years;35-44;10;Female
+11944239;Complete;3 years to less than 5 years;18-24;10;Female
+11944387;Complete;1 year to less than 3 years;35-44;10;Male
+11944682;Incomplete;1 year to less than 3 years;25-34;10;Female
+11945153;Complete;6 months to less than a year;25-34;10;Female
+11945262;Terminated;3 years to less than 5 years;Under 18;;
+11945269;Complete;6 months to less than a year;18-24;10;Male
+11945301;Incomplete;3 years to less than 5 years;35-44;6;Female
+11945372;Complete;Less than 6 months;18-24;10;Female
+11945403;Complete;1 year to less than 3 years;18-24;10;Female
+11945422;Complete;1 year to less than 3 years;25-34;10;Female
+11945562;Complete;5 years to less than 10 years;55-64;10;Female
+11945665;Incomplete;Less than 6 months;18-24;;
+11945679;Complete;6 months to less than a year;35-44;10;Female
+11945800;Complete;1 year to less than 3 years;45-54;9;Female
+11946429;Terminated;Less than 6 months;Under 18;;
+11946731;Incomplete;5 years to less than 10 years;35-44;;
+11946747;Complete;1 year to less than 3 years;25-34;10;Male
+11947215;Complete;1 year to less than 3 years;35-44;9;Female
+11947346;Complete;1 year to less than 3 years;35-44;10;Male
+11947562;Complete;3 years to less than 5 years;35-44;10;Female
+11947825;Complete;3 years to less than 5 years;18-24;8;Female
+11947845;Complete;1 year to less than 3 years;45-54;10;Female
+11948116;Complete;5 years to less than 10 years;45-54;10;Male
+11949321;Complete;1 year to less than 3 years;45-54;10;Female
+11949538;Complete;5 years to less than 10 years;45-54;9;Female
+11950773;Complete;1 year to less than 3 years;35-44;10;Male
+11951207;Complete;5 years to less than 10 years;45-54;10;Male
+11953275;Incomplete;3 years to less than 5 years;;;
+11955956;Complete;3 years to less than 5 years;35-44;10;Female
+11960805;Complete;Less than 6 months;18-24;9;Female
+11960899;Incomplete;Less than 6 months;45-54;;
+11961017;Complete;1 year to less than 3 years;35-44;10;Male
+11961085;Complete;1 year to less than 3 years;45-54;10;Male
+11961280;Complete;Less than 6 months;18-24;9;Male
+11961340;Complete;10 years to less than 15 years;45-54;10;Male
+11961393;Complete;5 years to less than 10 years;45-54;10;Female
+11961519;Complete;10 years to less than 15 years;55-64;9;Male
+11961851;Incomplete;5 years to less than 10 years;45-54;;
+11962123;Complete;3 years to less than 5 years;25-34;10;Female
+11962218;Complete;5 years to less than 10 years;55-64;10;Female
+11962364;Complete;1 year to less than 3 years;35-44;10;Female
+11962370;Complete;5 years to less than 10 years;18-24;9;Male
+11962429;Complete;5 years to less than 10 years;45-54;10;Female
+11962595;Complete;1 year to less than 3 years;25-34;8;Female
+11962952;Complete;5 years to less than 10 years;45-54;10;Female
+11963061;Complete;Less than 6 months;35-44;10;Female
+11963224;Complete;5 years to less than 10 years;25-34;10;Male
+11963815;Complete;1 year to less than 3 years;18-24;10;Female
+11964841;Complete;1 year to less than 3 years;45-54;10;Female
+11965057;Terminated;5 years to less than 10 years;Under 18;;
+11965854;Complete;5 years to less than 10 years;45-54;10;Female
+11966035;Complete;1 year to less than 3 years;25-34;10;Female
+11966532;Complete;1 year to less than 3 years;25-34;10;Female
+11967329;Complete;3 years to less than 5 years;25-34;10;Male
+11967565;Complete;Less than 6 months;45-54;10;Female
+11967940;Complete;Less than 6 months;25-34;8;Female
+11970032;Complete;1 year to less than 3 years;55-64;10;Female
+11978335;Complete;1 year to less than 3 years;45-54;10;Female
+11983355;Complete;Less than 6 months;35-44;10;Male
+11988551;Complete;3 years to less than 5 years;18-24;9;Female
+11990567;Complete;3 years to less than 5 years;55-64;10;Female
+11992046;Complete;3 years to less than 5 years;25-34;10;Female
+11992769;Complete;3 years to less than 5 years;25-34;10;Female
+11993112;Complete;1 year to less than 3 years;35-44;9;Female
+11994564;Complete;1 year to less than 3 years;45-54;10;Female
+11996575;Complete;Less than 6 months;25-34;10;Female
+11996773;Complete;5 years to less than 10 years;25-34;10;Male
+11997077;Complete;1 year to less than 3 years;45-54;10;Female
+12000220;Complete;3 years to less than 5 years;45-54;10;Male
+12006126;Complete;More than 15 years;25-34;10;Female
+12006846;Incomplete;1 year to less than 3 years;35-44;;
+12006855;Complete;6 months to less than a year;18-24;10;Female
+12006893;Complete;6 months to less than a year;25-34;10;Female
+12006916;Complete;6 months to less than a year;35-44;9;Female
+12007000;Incomplete;1 year to less than 3 years;25-34;;
+12007048;Complete;1 year to less than 3 years;35-44;10;Female
+12007128;Complete;6 months to less than a year;45-54;10;Female
+12007226;Complete;3 years to less than 5 years;25-34;10;Male
+12007253;Complete;1 year to less than 3 years;25-34;10;Female
+12007347;Complete;Less than 6 months;25-34;10;Male
+12007380;Complete;5 years to less than 10 years;45-54;10;Female
+12007386;Complete;1 year to less than 3 years;45-54;10;Male
+12007400;Complete;Less than 6 months;35-44;10;Female
+12007424;Complete;Less than 6 months;18-24;10;Female
+12007466;Complete;3 years to less than 5 years;55-64;10;Female
+12007476;Complete;1 year to less than 3 years;18-24;10;Female
+12007504;Complete;1 year to less than 3 years;35-44;10;Female
+12007548;Incomplete;1 year to less than 3 years;55-64;;
+12007625;Complete;1 year to less than 3 years;25-34;10;Male
+12007626;Complete;More than 15 years;45-54;10;Male
+12007704;Complete;More than 15 years;25-34;10;Female
+12007809;Incomplete;3 years to less than 5 years;55-64;;
+12007913;Complete;1 year to less than 3 years;35-44;10;Female
+12008138;Complete;1 year to less than 3 years;25-34;10;Female
+12008150;Complete;1 year to less than 3 years;35-44;10;Female
+12008272;Complete;1 year to less than 3 years;35-44;9;Female
+12008278;Complete;1 year to less than 3 years;55-64;10;Female
+12008308;Complete;1 year to less than 3 years;45-54;10;Female
+12008407;Complete;1 year to less than 3 years;25-34;10;Female
+12008412;Complete;6 months to less than a year;18-24;8;Female
+12008514;Complete;1 year to less than 3 years;35-44;;Female
+12008522;Complete;5 years to less than 10 years;35-44;10;Female
+12008545;Incomplete;3 years to less than 5 years;55-64;;
+12008554;Complete;1 year to less than 3 years;45-54;10;Female
+12008626;Complete;1 year to less than 3 years;45-54;10;Female
+12008656;Complete;6 months to less than a year;18-24;10;Female
+12008691;Complete;1 year to less than 3 years;45-54;10;Female
+12008705;Complete;1 year to less than 3 years;18-24;10;Male
+12008821;Complete;1 year to less than 3 years;45-54;10;Female
+12008826;Incomplete;1 year to less than 3 years;45-54;10;Female
+12008965;Complete;Less than 6 months;55-64;10;Female
+12008979;Complete;5 years to less than 10 years;35-44;10;Female
+12008995;Incomplete;1 year to less than 3 years;;;
+12009004;Complete;5 years to less than 10 years;35-44;10;Male
+12009079;Complete;5 years to less than 10 years;35-44;10;Female
+12009124;Complete;3 years to less than 5 years;18-24;10;Male
+12009145;Complete;6 months to less than a year;25-34;10;Female
+12009156;Complete;1 year to less than 3 years;25-34;9;Male
+12009299;Complete;6 months to less than a year;45-54;10;Female
+12009502;Complete;Less than 6 months;18-24;10;Female
+12009637;Complete;6 months to less than a year;25-34;6;Female
+12009674;Complete;1 year to less than 3 years;18-24;9;Female
+12009729;Complete;1 year to less than 3 years;25-34;10;Female
+12009839;Complete;5 years to less than 10 years;45-54;10;Male
+12009865;Complete;1 year to less than 3 years;25-34;10;Female
+12009873;Complete;Less than 6 months;35-44;10;Female
+12009879;Complete;Less than 6 months;55-64;10;Female
+12009902;Complete;3 years to less than 5 years;18-24;10;Female
+12010082;Complete;10 years to less than 15 years;55-64;10;Female
+12010167;Incomplete;3 years to less than 5 years;45-54;;
+12010176;Complete;1 year to less than 3 years;45-54;10;Male
+12010214;Complete;1 year to less than 3 years;45-54;10;Male
+12010260;Complete;Less than 6 months;18-24;10;Female
+12010282;Complete;1 year to less than 3 years;35-44;10;Male
+12010297;Terminated;6 months to less than a year;Under 18;;
+12010442;Complete;6 months to less than a year;45-54;10;Male
+12010452;Complete;3 years to less than 5 years;18-24;10;Female
+12010560;Incomplete;1 year to less than 3 years;55-64;;
+12010631;Complete;1 year to less than 3 years;45-54;10;Female
+12010634;Complete;Less than 6 months;25-34;9;Male
+12010648;Terminated;1 year to less than 3 years;Under 18;;
+12010651;Complete;Less than 6 months;45-54;10;Male
+12010675;Complete;6 months to less than a year;35-44;10;Female
+12010689;Complete;3 years to less than 5 years;45-54;10;Female
+12010767;Complete;6 months to less than a year;25-34;10;Female
+12010882;Complete;6 months to less than a year;35-44;10;Female
+12010997;Complete;Less than 6 months;35-44;10;Female
+12011012;Complete;6 months to less than a year;35-44;10;Female
+12011086;Complete;6 months to less than a year;25-34;10;Female
+12011502;Complete;3 years to less than 5 years;25-34;10;Female
+12011548;Complete;3 years to less than 5 years;35-44;10;Female
+12011549;Complete;1 year to less than 3 years;35-44;7;Male
+12011596;Complete;10 years to less than 15 years;18-24;7;Male
+12011619;Complete;1 year to less than 3 years;25-34;10;Male
+12011684;Complete;3 years to less than 5 years;45-54;10;Male
+12011794;Complete;1 year to less than 3 years;45-54;10;Male
+12011819;Complete;1 year to less than 3 years;18-24;10;Female
+12011872;Complete;6 months to less than a year;65-74;10;Female
+12012222;Complete;1 year to less than 3 years;25-34;10;Male
+12012247;Complete;10 years to less than 15 years;25-34;10;Female
+12012294;Incomplete;1 year to less than 3 years;35-44;;
+12012370;Complete;1 year to less than 3 years;35-44;10;Female
+12012485;Complete;3 years to less than 5 years;25-34;10;Female
+12012642;Complete;5 years to less than 10 years;45-54;10;Female
+12012736;Incomplete;Less than 6 months;35-44;;
+12012781;Complete;6 months to less than a year;35-44;10;Female
+12012812;Complete;Less than 6 months;25-34;10;Female
+12013021;Complete;6 months to less than a year;25-34;10;Female
+12013044;Complete;Less than 6 months;45-54;10;Female
+12013096;Complete;1 year to less than 3 years;25-34;10;Male
+12013390;Complete;5 years to less than 10 years;25-34;10;Male
+12013398;Incomplete;1 year to less than 3 years;25-34;;
+12013432;Complete;5 years to less than 10 years;35-44;10;Female
+12013458;Complete;More than 15 years;45-54;10;Female
+12013591;Complete;3 years to less than 5 years;18-24;8;Female
+12013598;Complete;10 years to less than 15 years;18-24;10;Female
+12013653;Complete;More than 15 years;35-44;9;Female
+12013704;Complete;1 year to less than 3 years;45-54;10;Male
+12013733;Incomplete;1 year to less than 3 years;;;
+12013887;Complete;1 year to less than 3 years;25-34;10;Female
+12013889;Complete;6 months to less than a year;45-54;10;Female
+12013902;Complete;Less than 6 months;18-24;10;Male
+12013950;Incomplete;Less than 6 months;18-24;;
+12014031;Complete;1 year to less than 3 years;35-44;10;Female
+12014237;Complete;Less than 6 months;55-64;10;Male
+12014299;Incomplete;10 years to less than 15 years;25-34;;
+12014357;Complete;3 years to less than 5 years;35-44;10;Male
+12014382;Incomplete;Less than 6 months;25-34;10;Male
+12014561;Complete;Less than 6 months;55-64;10;Female
+12015009;Complete;1 year to less than 3 years;25-34;8;Female
+12015121;Complete;1 year to less than 3 years;65-74;10;Female
+12015206;Complete;3 years to less than 5 years;45-54;10;Male
+12015356;Complete;3 years to less than 5 years;35-44;10;Male
+12015372;Complete;Less than 6 months;18-24;10;Female
+12015451;Complete;6 months to less than a year;35-44;10;Female
+12015561;Complete;6 months to less than a year;18-24;10;Female
+12015588;Incomplete;10 years to less than 15 years;25-34;;
+12015628;Complete;6 months to less than a year;25-34;10;Female
+12015784;Incomplete;3 years to less than 5 years;55-64;;
+12015818;Complete;3 years to less than 5 years;25-34;10;Female
+12015875;Complete;5 years to less than 10 years;25-34;10;Male
+12015901;Complete;3 years to less than 5 years;45-54;9;Female
+12016093;Complete;6 months to less than a year;35-44;10;Female
+12016162;Complete;5 years to less than 10 years;25-34;10;Male
+12016223;Complete;5 years to less than 10 years;35-44;7;Male
+12016296;Complete;3 years to less than 5 years;25-34;10;Female
+12016344;Complete;1 year to less than 3 years;35-44;10;Male
+12016351;Complete;3 years to less than 5 years;35-44;10;Female
+12016366;Complete;1 year to less than 3 years;45-54;10;Female
+12016467;Complete;1 year to less than 3 years;35-44;10;Female
+12016892;Complete;3 years to less than 5 years;65-74;10;Female
+12016994;Complete;1 year to less than 3 years;45-54;10;Female
+12017013;Complete;3 years to less than 5 years;55-64;8;Male
+12017018;Complete;More than 15 years;55-64;10;Female
+12017361;Complete;1 year to less than 3 years;55-64;10;Female
+12017377;Complete;1 year to less than 3 years;35-44;10;Female
+12017709;Complete;Less than 6 months;45-54;10;Female
+12017749;Complete;1 year to less than 3 years;25-34;10;Female
+12017776;Complete;3 years to less than 5 years;45-54;10;Female
+12017853;Complete;5 years to less than 10 years;45-54;10;Male
+12017924;Complete;1 year to less than 3 years;45-54;10;Female
+12018222;Complete;3 years to less than 5 years;25-34;10;Female
+12018280;Complete;Less than 6 months;18-24;10;Female
+12018405;Complete;5 years to less than 10 years;45-54;10;Female
+12018534;Complete;5 years to less than 10 years;35-44;10;Female
+12018854;Complete;10 years to less than 15 years;45-54;10;Female
+12018861;Complete;1 year to less than 3 years;55-64;10;Female
+12019894;Complete;1 year to less than 3 years;55-64;10;Female
+12020186;Complete;6 months to less than a year;45-54;10;Female
+12020188;Complete;3 years to less than 5 years;18-24;6;Male
+12020221;Complete;1 year to less than 3 years;18-24;10;Female
+12020467;Incomplete;Less than 6 months;55-64;;
+12020506;Complete;Less than 6 months;35-44;10;Female
+12020572;Complete;5 years to less than 10 years;18-24;8;Female
+12020630;Incomplete;1 year to less than 3 years;35-44;;
+12020964;Complete;3 years to less than 5 years;18-24;10;Female
+12021066;Complete;3 years to less than 5 years;35-44;9;Female
+12021226;Complete;Less than 6 months;18-24;10;Female
+12021253;Complete;Less than 6 months;55-64;10;Female
+12021377;Complete;1 year to less than 3 years;55-64;10;Female
+12021406;Complete;6 months to less than a year;35-44;10;Female
+12021596;Complete;6 months to less than a year;35-44;10;Female
+12021899;Complete;1 year to less than 3 years;45-54;10;Male
+12022243;Complete;Less than 6 months;45-54;10;Female
+12022405;Complete;10 years to less than 15 years;35-44;10;Female
+12022514;Complete;1 year to less than 3 years;18-24;10;Male
+12022532;Complete;1 year to less than 3 years;35-44;10;Female
+12022812;Incomplete;1 year to less than 3 years;45-54;;
+12022975;Complete;3 years to less than 5 years;45-54;10;Female
+12023052;Complete;1 year to less than 3 years;18-24;7;Female
+12023127;Complete;1 year to less than 3 years;25-34;10;Female
+12023157;Complete;1 year to less than 3 years;45-54;10;Female
+12023198;Complete;Less than 6 months;45-54;10;Female
+12023227;Complete;Less than 6 months;25-34;10;Female
+12023329;Complete;1 year to less than 3 years;25-34;10;Female
+12024407;Complete;1 year to less than 3 years;35-44;10;Female
+12024619;Complete;1 year to less than 3 years;35-44;10;Female
+12024735;Complete;1 year to less than 3 years;45-54;10;Female
+12024867;Complete;6 months to less than a year;25-34;10;Male
+12025032;Complete;3 years to less than 5 years;45-54;10;Female
+12025081;Complete;Less than 6 months;35-44;10;Female
+12025451;Complete;6 months to less than a year;18-24;10;Female
+12025504;Complete;1 year to less than 3 years;25-34;10;Female
+12025678;Complete;5 years to less than 10 years;25-34;10;Male
+12025897;Complete;6 months to less than a year;55-64;10;Male
+12025902;Complete;More than 15 years;18-24;10;Male
+12026133;Incomplete;1 year to less than 3 years;18-24;;
+12026224;Complete;Less than 6 months;18-24;10;Male
+12026369;Complete;3 years to less than 5 years;35-44;10;Female
+12026446;Complete;Less than 6 months;45-54;10;
+12026517;Complete;5 years to less than 10 years;18-24;10;Male
+12026652;Incomplete;1 year to less than 3 years;35-44;;
+12026918;Complete;5 years to less than 10 years;45-54;10;Female
+12026952;Complete;1 year to less than 3 years;45-54;10;Female
+12026986;Complete;1 year to less than 3 years;18-24;10;Female
+12026992;Complete;5 years to less than 10 years;45-54;10;
+12027168;Incomplete;3 years to less than 5 years;45-54;;
+12027300;Complete;1 year to less than 3 years;45-54;5;Male
+12027361;Complete;5 years to less than 10 years;25-34;10;
+12027448;Complete;1 year to less than 3 years;18-24;9;Female
+12027659;Complete;Less than 6 months;18-24;6;Female
+12028011;Complete;5 years to less than 10 years;25-34;10;Female
+12028634;Complete;1 year to less than 3 years;35-44;10;Male
+12028653;Complete;1 year to less than 3 years;18-24;10;Female
+12028730;Complete;5 years to less than 10 years;35-44;;Female
+12028740;Complete;5 years to less than 10 years;45-54;10;Female
+12028957;Complete;1 year to less than 3 years;35-44;10;Female
+12029019;Incomplete;3 years to less than 5 years;18-24;;
+12029041;Complete;1 year to less than 3 years;35-44;9;Female
+12029133;Complete;1 year to less than 3 years;25-34;10;Male
+12029269;Complete;3 years to less than 5 years;35-44;10;Male
+12029317;Incomplete;1 year to less than 3 years;35-44;;
+12029756;Complete;6 months to less than a year;55-64;10;Female
+12029866;Complete;More than 15 years;45-54;10;Female
+12029883;Complete;More than 15 years;35-44;10;Male
+12030030;Complete;Less than 6 months;35-44;9;Female
+12030296;Complete;1 year to less than 3 years;45-54;10;Male
+12030364;Complete;1 year to less than 3 years;45-54;10;Female
+12030398;Complete;1 year to less than 3 years;25-34;10;Female
+12031207;Complete;1 year to less than 3 years;55-64;10;Female
+12031543;Complete;1 year to less than 3 years;18-24;10;Female
+12031590;Complete;Less than 6 months;25-34;10;Female
+12031739;Complete;1 year to less than 3 years;25-34;10;Female
+12031860;Complete;1 year to less than 3 years;55-64;10;Female
+12031876;Complete;5 years to less than 10 years;35-44;10;Female
+12031920;Complete;1 year to less than 3 years;25-34;8;Male
+12032370;Complete;1 year to less than 3 years;45-54;10;Male
+12032414;Complete;Less than 6 months;25-34;10;Female
+12032537;Complete;Less than 6 months;18-24;10;Female
+12032544;Complete;Less than 6 months;45-54;7;Female
+12032570;Complete;3 years to less than 5 years;45-54;10;Female
+12032583;Complete;1 year to less than 3 years;25-34;10;Female
+12032699;Incomplete;6 months to less than a year;45-54;;
+12032944;Complete;3 years to less than 5 years;55-64;10;Female
+12032993;Complete;5 years to less than 10 years;35-44;10;Female
+12033097;Complete;1 year to less than 3 years;45-54;10;Female
+12033185;Complete;1 year to less than 3 years;25-34;10;Female
+12033707;Complete;3 years to less than 5 years;35-44;10;Female
+12033729;Complete;5 years to less than 10 years;25-34;10;Female
+12033739;Incomplete;5 years to less than 10 years;55-64;;
+12033840;Complete;1 year to less than 3 years;35-44;10;Female
+12033878;Complete;3 years to less than 5 years;35-44;10;Female
+12033933;Complete;1 year to less than 3 years;45-54;10;Female
+12034087;Complete;1 year to less than 3 years;25-34;10;Female
+12034143;Complete;More than 15 years;55-64;10;Female
+12034228;Complete;More than 15 years;25-34;10;Female
+12034515;Complete;Less than 6 months;45-54;10;Male
+12034568;Complete;3 years to less than 5 years;25-34;10;Female
+12034604;Complete;3 years to less than 5 years;35-44;10;Female
+12035011;Complete;5 years to less than 10 years;25-34;10;Female
+12035050;Complete;More than 15 years;35-44;10;Female
+12035530;Complete;Less than 6 months;35-44;10;Male
+12035579;Complete;3 years to less than 5 years;25-34;10;Female
+12036345;Complete;6 months to less than a year;55-64;10;Female
+12036483;Incomplete;Less than 6 months;18-24;10;
+12036593;Complete;3 years to less than 5 years;25-34;10;Female
+12036676;Complete;5 years to less than 10 years;18-24;10;Male
+12036731;Complete;1 year to less than 3 years;35-44;9;Male
+12037096;Complete;10 years to less than 15 years;45-54;10;Female
+12037176;Complete;Less than 6 months;18-24;10;Female
+12037243;Complete;1 year to less than 3 years;35-44;9;Female
+12037728;Incomplete;1 year to less than 3 years;45-54;;
+12037914;Complete;6 months to less than a year;55-64;10;Female
+12038641;Complete;3 years to less than 5 years;25-34;10;Female
+12038708;Complete;3 years to less than 5 years;35-44;10;Female
+12039496;Complete;1 year to less than 3 years;35-44;10;Male
+12039975;Complete;Less than 6 months;18-24;10;Female
+12040202;Complete;1 year to less than 3 years;25-34;10;Male
+12041387;Complete;6 months to less than a year;25-34;10;Male
+12041525;Complete;1 year to less than 3 years;45-54;10;Female
+12041773;Complete;1 year to less than 3 years;45-54;9;Female
+12044291;Complete;1 year to less than 3 years;55-64;8;Male
+12047697;Complete;6 months to less than a year;35-44;10;Female
+12050990;Complete;Less than 6 months;25-34;10;Male
+12054479;Complete;Less than 6 months;25-34;10;Female
+12055710;Complete;1 year to less than 3 years;45-54;10;Female
+12056514;Complete;1 year to less than 3 years;45-54;10;Female
+12056810;Incomplete;6 months to less than a year;45-54;;
+12057366;Complete;5 years to less than 10 years;35-44;10;Male
+12057913;Incomplete;1 year to less than 3 years;25-34;;
+12058777;Complete;6 months to less than a year;35-44;10;Female
+12062338;Complete;1 year to less than 3 years;35-44;10;Female
+12063848;Complete;1 year to less than 3 years;35-44;10;Female
+12063892;Incomplete;Less than 6 months;18-24;;
+12064011;Complete;10 years to less than 15 years;35-44;1;Female
+12065920;Complete;6 months to less than a year;25-34;10;Female
+12066176;Complete;3 years to less than 5 years;45-54;10;Male
+12066558;Complete;1 year to less than 3 years;35-44;10;Male
+12066889;Complete;3 years to less than 5 years;45-54;10;Female
+12067394;Complete;5 years to less than 10 years;25-34;;Female
+12068526;Complete;1 year to less than 3 years;45-54;10;Female
+12068561;Complete;6 months to less than a year;25-34;10;Female
+12069192;Complete;3 years to less than 5 years;25-34;10;Male
+12069258;Complete;More than 15 years;25-34;10;Female
+12069589;Complete;1 year to less than 3 years;25-34;10;Female
+12071198;Complete;1 year to less than 3 years;45-54;10;Female
+12071868;Complete;1 year to less than 3 years;18-24;10;Female
+12073732;Incomplete;1 year to less than 3 years;25-34;;
+12074235;Complete;6 months to less than a year;25-34;10;Male
+12075605;Complete;Less than 6 months;55-64;10;Male
+12075858;Complete;3 years to less than 5 years;55-64;10;Female
+12075863;Complete;6 months to less than a year;55-64;10;Female
+12075891;Complete;3 years to less than 5 years;18-24;10;Male
+12076489;Complete;1 year to less than 3 years;35-44;10;Female
+12076807;Complete;1 year to less than 3 years;25-34;10;Female
+12076883;Complete;Less than 6 months;25-34;10;Female
+12077035;Complete;1 year to less than 3 years;25-34;9;Male
+12077798;Complete;1 year to less than 3 years;45-54;10;Female
+12078346;Incomplete;3 years to less than 5 years;45-54;;
+12078926;Complete;1 year to less than 3 years;35-44;10;Female
+12078986;Complete;3 years to less than 5 years;18-24;8;Male
+12079714;Complete;Less than 6 months;25-34;9;Female
+12080134;Complete;Less than 6 months;18-24;10;Male
+12081032;Complete;6 months to less than a year;35-44;10;Female
+12082508;Complete;1 year to less than 3 years;45-54;10;Male
+12082860;Complete;Less than 6 months;35-44;10;Female
+12084351;Complete;3 years to less than 5 years;45-54;10;Female
+12084386;Complete;1 year to less than 3 years;35-44;9;Male
+12084401;Complete;5 years to less than 10 years;35-44;10;Female
+12084412;Complete;1 year to less than 3 years;35-44;10;Female
+12084432;Complete;Less than 6 months;25-34;10;Female
+12084479;Complete;3 years to less than 5 years;25-34;10;Male
+12084544;Complete;1 year to less than 3 years;25-34;9;Female
+12084645;Complete;10 years to less than 15 years;25-34;10;Female
+12084696;Complete;6 months to less than a year;35-44;10;Female
+12084838;Complete;Less than 6 months;45-54;10;Female
+12084952;Complete;1 year to less than 3 years;45-54;;Female
+12085010;Complete;10 years to less than 15 years;18-24;10;Female
+12085033;Complete;1 year to less than 3 years;55-64;10;Female
+12085244;Complete;Less than 6 months;35-44;10;Female
+12085343;Complete;5 years to less than 10 years;25-34;10;Male
+12085511;Incomplete;1 year to less than 3 years;25-34;;
+12085984;Complete;6 months to less than a year;35-44;10;Female
+12086001;Complete;1 year to less than 3 years;18-24;10;Female
+12086711;Incomplete;1 year to less than 3 years;18-24;;
+12086760;Complete;1 year to less than 3 years;35-44;10;Female
+12086896;Complete;1 year to less than 3 years;18-24;8;Female
+12086925;Complete;1 year to less than 3 years;35-44;10;Female
+12086944;Complete;5 years to less than 10 years;45-54;10;Female
+12087129;Incomplete;1 year to less than 3 years;55-64;10;Female
+12087155;Complete;5 years to less than 10 years;18-24;10;Female
+12087232;Complete;1 year to less than 3 years;25-34;10;Female
+12087493;Complete;Less than 6 months;25-34;10;Female
+12087690;Complete;10 years to less than 15 years;45-54;10;Female
+12087901;Complete;3 years to less than 5 years;25-34;10;Male
+12087905;Complete;Less than 6 months;25-34;10;Female
+12088006;Complete;6 months to less than a year;25-34;10;Female
+12088089;Complete;1 year to less than 3 years;18-24;8;Male
+12088482;Incomplete;5 years to less than 10 years;;;
+12088530;Complete;More than 15 years;45-54;10;Female
+12088657;Complete;1 year to less than 3 years;45-54;10;Female
+12088772;Complete;1 year to less than 3 years;25-34;10;Female
+12088923;Complete;6 months to less than a year;55-64;10;Male
+12089044;Complete;1 year to less than 3 years;35-44;10;Female
+12089131;Complete;1 year to less than 3 years;25-34;10;Female
+12089446;Complete;10 years to less than 15 years;45-54;8;Female
+12089522;Complete;1 year to less than 3 years;45-54;10;Female
+12089545;Complete;1 year to less than 3 years;18-24;10;Female
+12089589;Complete;3 years to less than 5 years;25-34;10;Female
+12089598;Complete;3 years to less than 5 years;55-64;10;Female
+12089651;Complete;1 year to less than 3 years;45-54;10;Female
+12089736;Complete;1 year to less than 3 years;55-64;10;Male
+12089800;Incomplete;Less than 6 months;45-54;10;Female
+12089824;Complete;1 year to less than 3 years;25-34;10;Male
+12089892;Complete;1 year to less than 3 years;35-44;10;Male
+12090092;Complete;1 year to less than 3 years;35-44;10;Male
+12090112;Complete;3 years to less than 5 years;25-34;9;Female
+12090142;Complete;3 years to less than 5 years;45-54;10;Female
+12090338;Complete;6 months to less than a year;35-44;9;Female
+12090398;Complete;6 months to less than a year;45-54;9;
+12090496;Complete;10 years to less than 15 years;35-44;10;Female
+12090502;Complete;6 months to less than a year;45-54;10;Female
+12090655;Complete;3 years to less than 5 years;25-34;10;Male
+12090673;Complete;6 months to less than a year;35-44;10;Female
+12090770;Complete;6 months to less than a year;25-34;10;Female
+12090928;Complete;1 year to less than 3 years;45-54;10;Female
+12091086;Complete;10 years to less than 15 years;35-44;10;Female
+12091156;Complete;Less than 6 months;35-44;9;Female
+12091218;Complete;5 years to less than 10 years;35-44;10;Female
+12091371;Incomplete;Less than 6 months;;;
+12091384;Complete;10 years to less than 15 years;18-24;10;Female
+12091957;Complete;3 years to less than 5 years;18-24;10;Female
+12093005;Complete;6 months to less than a year;18-24;10;Female
+12093026;Complete;Less than 6 months;35-44;10;Male
+12093110;Complete;Less than 6 months;35-44;10;Female
+12093170;Complete;1 year to less than 3 years;45-54;10;Female
+12093393;Complete;1 year to less than 3 years;35-44;10;Female
+12093638;Complete;1 year to less than 3 years;25-34;10;Male
+12093715;Complete;1 year to less than 3 years;35-44;10;Female
+12093838;Complete;5 years to less than 10 years;35-44;10;Female
+12094062;Complete;6 months to less than a year;18-24;10;Female
+12094316;Complete;3 years to less than 5 years;45-54;10;Female
+12094398;Complete;1 year to less than 3 years;25-34;10;Female
+12094470;Complete;1 year to less than 3 years;18-24;10;Male
+12094637;Complete;6 months to less than a year;55-64;10;Male
+12095482;Complete;More than 15 years;45-54;10;Female
+12095759;Complete;3 years to less than 5 years;35-44;10;Female
+12095861;Complete;3 years to less than 5 years;35-44;8;Male
+12095863;Complete;Less than 6 months;18-24;10;Male
+12095968;Complete;6 months to less than a year;35-44;10;Female
+12096158;Complete;1 year to less than 3 years;55-64;10;Female
+12096217;Complete;1 year to less than 3 years;25-34;10;Female
+12096251;Complete;3 years to less than 5 years;25-34;10;Female
+12096420;Complete;3 years to less than 5 years;25-34;10;Female
+12096422;Complete;Less than 6 months;18-24;10;Male
+12096438;Complete;6 months to less than a year;25-34;10;Female
+12096481;Complete;1 year to less than 3 years;45-54;10;Female
+12096579;Complete;Less than 6 months;18-24;10;Male
+12096801;Complete;1 year to less than 3 years;45-54;10;Female
+12096985;Complete;6 months to less than a year;25-34;10;Female
+12097269;Incomplete;10 years to less than 15 years;55-64;;
+12097424;Incomplete;5 years to less than 10 years;35-44;;
+12097441;Complete;1 year to less than 3 years;35-44;10;Male
+12097916;Complete;1 year to less than 3 years;35-44;10;Female
+12097963;Complete;3 years to less than 5 years;65-74;10;Female
+12098099;Complete;1 year to less than 3 years;65-74;8;Female
+12098367;Complete;6 months to less than a year;25-34;9;Female
+12098551;Complete;Less than 6 months;25-34;10;Female
+12099031;Complete;1 year to less than 3 years;55-64;10;Female
+12099052;Complete;1 year to less than 3 years;55-64;10;Female
+12099445;Incomplete;1 year to less than 3 years;45-54;;
+12100229;Complete;5 years to less than 10 years;45-54;10;Female
+12100299;Incomplete;1 year to less than 3 years;45-54;;
+12100653;Complete;1 year to less than 3 years;25-34;10;Female
+12100682;Complete;6 months to less than a year;45-54;10;Female
+12100723;Complete;3 years to less than 5 years;35-44;10;Female
+12100748;Complete;6 months to less than a year;35-44;10;Male
+12101192;Complete;6 months to less than a year;25-34;6;Female
+12101415;Incomplete;3 years to less than 5 years;25-34;;
+12101752;Complete;6 months to less than a year;35-44;10;Male
+12101994;Complete;6 months to less than a year;18-24;10;Female
+12102348;Complete;3 years to less than 5 years;35-44;10;Female
+12102987;Complete;3 years to less than 5 years;35-44;10;Female
+12103082;Complete;1 year to less than 3 years;25-34;10;Female
+12103613;Complete;1 year to less than 3 years;35-44;10;Male
+12103667;Complete;1 year to less than 3 years;25-34;10;Female
+12103841;Incomplete;3 years to less than 5 years;35-44;;
+12104259;Complete;3 years to less than 5 years;35-44;10;Female
+12104268;Complete;3 years to less than 5 years;35-44;10;Male
+12104391;Complete;1 year to less than 3 years;35-44;10;Female
+12104481;Complete;1 year to less than 3 years;45-54;10;Male
+12104562;Complete;Less than 6 months;45-54;10;Male
+12104681;Complete;1 year to less than 3 years;25-34;10;Male
+12104893;Complete;10 years to less than 15 years;35-44;2;Male
+12104909;Complete;Less than 6 months;45-54;10;Female
+12105059;Complete;5 years to less than 10 years;25-34;10;Male
+12105247;Complete;3 years to less than 5 years;25-34;10;Male
+12105269;Complete;1 year to less than 3 years;18-24;10;Female
+12105373;Complete;10 years to less than 15 years;18-24;10;Female
+12105429;Complete;6 months to less than a year;35-44;10;Female
+12105441;Complete;3 years to less than 5 years;45-54;10;Male
+12105471;Complete;6 months to less than a year;55-64;10;Female
+12105475;Complete;1 year to less than 3 years;35-44;10;Female
+12106144;Complete;3 years to less than 5 years;45-54;10;Female
+12106502;Complete;6 months to less than a year;45-54;10;Female
+12106731;Incomplete;3 years to less than 5 years;55-64;;
+12106841;Complete;1 year to less than 3 years;18-24;10;Female
+12106909;Complete;1 year to less than 3 years;25-34;8;Female
+12107107;Complete;5 years to less than 10 years;18-24;10;Female
+12107944;Complete;1 year to less than 3 years;35-44;10;Female
+12108940;Complete;1 year to less than 3 years;25-34;8;Female
+12110588;Complete;1 year to less than 3 years;18-24;10;Female
+12110600;Complete;6 months to less than a year;18-24;7;Male
+12110667;Complete;5 years to less than 10 years;35-44;10;Female
+12110749;Complete;1 year to less than 3 years;65-74;10;Female
+12110935;Complete;Less than 6 months;18-24;10;Female
+12111031;Incomplete;5 years to less than 10 years;45-54;;
+12111230;Complete;1 year to less than 3 years;45-54;10;Female
+12111520;Complete;6 months to less than a year;18-24;10;Female
+12112127;Complete;6 months to less than a year;45-54;10;Female
+12113369;Complete;6 months to less than a year;18-24;10;Female
+12113378;Complete;5 years to less than 10 years;55-64;10;Female
+12113586;Complete;1 year to less than 3 years;45-54;10;Female
+12114709;Incomplete;Less than 6 months;55-64;;
+12115395;Complete;1 year to less than 3 years;25-34;10;Female
+12119622;Complete;3 years to less than 5 years;45-54;10;Male
+12120453;Complete;3 years to less than 5 years;35-44;10;Male
+12120842;Complete;5 years to less than 10 years;25-34;10;Female
+12127954;Incomplete;3 years to less than 5 years;25-34;;
+12129816;Complete;1 year to less than 3 years;45-54;10;Female
+12130583;Complete;5 years to less than 10 years;25-34;10;Female
+12133527;Incomplete;1 year to less than 3 years;18-24;;
+12134542;Complete;3 years to less than 5 years;25-34;10;Female
+12135268;Complete;1 year to less than 3 years;35-44;10;Female
+12138368;Complete;5 years to less than 10 years;55-64;10;Female
+12139263;Complete;1 year to less than 3 years;25-34;10;Female
+12139600;Complete;1 year to less than 3 years;45-54;10;Female
+12141137;Complete;Less than 6 months;35-44;10;Female
+12142436;Incomplete;3 years to less than 5 years;35-44;;
+12142829;Complete;More than 15 years;55-64;10;Male
+12143341;Complete;1 year to less than 3 years;65-74;9;Female
+12144462;Complete;6 months to less than a year;55-64;10;Female
+12145557;Complete;3 years to less than 5 years;45-54;10;Male
+12146742;Complete;3 years to less than 5 years;25-34;10;Female
+12147267;Complete;10 years to less than 15 years;45-54;10;Male
+12149183;Complete;1 year to less than 3 years;25-34;10;Female
+12150179;Complete;1 year to less than 3 years;35-44;10;Male
+12150540;Complete;1 year to less than 3 years;35-44;10;Female
+12150723;Incomplete;3 years to less than 5 years;35-44;;
+12152994;Complete;3 years to less than 5 years;45-54;10;Female
+12153133;Incomplete;1 year to less than 3 years;25-34;;
+12153593;Complete;6 months to less than a year;55-64;8;Male
+12153619;Complete;5 years to less than 10 years;45-54;10;Female
+12153921;Complete;1 year to less than 3 years;35-44;10;Male
+12154007;Complete;10 years to less than 15 years;35-44;10;Female
+12154571;Complete;Less than 6 months;35-44;10;Female
+12154727;Complete;6 months to less than a year;18-24;10;Female
+12154943;Complete;5 years to less than 10 years;45-54;10;Female
+12155880;Complete;Less than 6 months;25-34;10;Female
+12155955;Complete;5 years to less than 10 years;25-34;10;Male
+12156062;Complete;6 months to less than a year;25-34;10;Female
+12156645;Complete;1 year to less than 3 years;25-34;10;
+12159325;Complete;Less than 6 months;25-34;10;Male
+12159361;Complete;1 year to less than 3 years;55-64;10;Female
+12159560;Complete;1 year to less than 3 years;35-44;10;Male
+12159628;Complete;1 year to less than 3 years;35-44;8;Male
+12160460;Complete;1 year to less than 3 years;35-44;10;Male
+12160739;Incomplete;6 months to less than a year;35-44;;
+12161112;Complete;1 year to less than 3 years;18-24;10;Female
+12161852;Incomplete;6 months to less than a year;18-24;;
+12162032;Complete;6 months to less than a year;25-34;9;Female
+12162667;Complete;Less than 6 months;35-44;;Female
+12165070;Complete;6 months to less than a year;25-34;10;Female
+12165214;Complete;10 years to less than 15 years;45-54;10;Female
+12165549;Complete;1 year to less than 3 years;45-54;10;Female
+12165813;Incomplete;6 months to less than a year;25-34;;
+12166106;Complete;1 year to less than 3 years;35-44;10;Female
+12166199;Complete;1 year to less than 3 years;55-64;10;Female
+12166635;Complete;Less than 6 months;55-64;10;Male
+12166920;Complete;6 months to less than a year;55-64;10;Female
+12167223;Incomplete;Less than 6 months;25-34;;
+12167301;Incomplete;5 years to less than 10 years;45-54;;
+12167522;Complete;1 year to less than 3 years;25-34;1;Female
+12168400;Complete;Less than 6 months;18-24;10;Female
+12168491;Complete;1 year to less than 3 years;35-44;10;Female
+12168545;Incomplete;3 years to less than 5 years;25-34;;
+12168570;Complete;6 months to less than a year;45-54;10;Female
+12168622;Complete;1 year to less than 3 years;25-34;7;Male
+12168828;Complete;1 year to less than 3 years;25-34;10;Female
+12168892;Complete;3 years to less than 5 years;35-44;10;Female
+12168987;Complete;5 years to less than 10 years;25-34;10;Female
+12169118;Complete;Less than 6 months;35-44;9;Male
+12169152;Complete;Less than 6 months;45-54;10;Male
+12169166;Complete;1 year to less than 3 years;25-34;10;Female
+12169637;Complete;3 years to less than 5 years;25-34;10;Female
+12169808;Complete;Less than 6 months;18-24;10;Female
+12169840;Complete;1 year to less than 3 years;45-54;10;Male
+12169885;Complete;Less than 6 months;25-34;9;Female
+12169907;Complete;1 year to less than 3 years;35-44;10;Female
+12170008;Complete;6 months to less than a year;25-34;9;Female
+12170106;Complete;3 years to less than 5 years;25-34;10;Male
+12170256;Complete;Less than 6 months;18-24;10;Female
+12170392;Complete;3 years to less than 5 years;45-54;10;Female
+12170414;Complete;1 year to less than 3 years;45-54;10;Female
+12170433;Complete;1 year to less than 3 years;35-44;10;Female
+12170514;Complete;1 year to less than 3 years;45-54;7;Female
+12170522;Incomplete;3 years to less than 5 years;25-34;;
+12170639;Complete;6 months to less than a year;35-44;10;Female
+12171675;Complete;1 year to less than 3 years;25-34;10;Female
+12173064;Complete;3 years to less than 5 years;45-54;;Male
+12173206;Complete;3 years to less than 5 years;55-64;10;Female
+12173277;Complete;3 years to less than 5 years;18-24;10;Female
+12173321;Complete;1 year to less than 3 years;18-24;10;Male
+12173349;Complete;1 year to less than 3 years;35-44;10;Female
+12173475;Complete;1 year to less than 3 years;25-34;10;Female
+12173518;Complete;1 year to less than 3 years;18-24;9;Female
+12173873;Complete;Less than 6 months;18-24;10;Male
+12173888;Complete;5 years to less than 10 years;55-64;10;Female
+12173909;Complete;Less than 6 months;35-44;10;Male
+12174006;Complete;1 year to less than 3 years;45-54;10;Female
+12174055;Complete;1 year to less than 3 years;35-44;10;Female
+12174585;Complete;6 months to less than a year;25-34;9;Female
+12174783;Incomplete;1 year to less than 3 years;35-44;;
+12174785;Complete;Less than 6 months;45-54;10;Female
+12175046;Complete;Less than 6 months;55-64;9;Female
+12175260;Complete;1 year to less than 3 years;45-54;10;Female
+12175354;Complete;1 year to less than 3 years;25-34;10;Female
+12175414;Complete;3 years to less than 5 years;45-54;10;Female
+12175463;Complete;6 months to less than a year;18-24;8;Female
+12175531;Complete;1 year to less than 3 years;55-64;10;Female
+12175580;Complete;1 year to less than 3 years;35-44;9;Female
+12175845;Complete;3 years to less than 5 years;35-44;10;Female
+12175896;Complete;Less than 6 months;45-54;10;Female
+12175941;Complete;1 year to less than 3 years;35-44;10;Female
+12176029;Complete;1 year to less than 3 years;25-34;10;Female
+12176122;Complete;1 year to less than 3 years;18-24;10;Female
+12176154;Complete;1 year to less than 3 years;35-44;10;Female
+12176168;Complete;5 years to less than 10 years;35-44;10;Female
+12176480;Complete;3 years to less than 5 years;35-44;10;Female
+12176574;Complete;1 year to less than 3 years;25-34;10;Female
+12176638;Complete;Less than 6 months;35-44;10;Female
+12176817;Complete;1 year to less than 3 years;35-44;10;Male
+12176877;Complete;1 year to less than 3 years;45-54;10;Female
+12177227;Incomplete;3 years to less than 5 years;35-44;;
+12177317;Complete;5 years to less than 10 years;45-54;10;Female
+12177548;Complete;3 years to less than 5 years;55-64;10;Female
+12177672;Complete;3 years to less than 5 years;35-44;10;Female
+12177714;Complete;1 year to less than 3 years;18-24;9;Female
+12177930;Complete;6 months to less than a year;55-64;10;Female
+12178268;Complete;1 year to less than 3 years;45-54;10;Female
+12178874;Complete;1 year to less than 3 years;18-24;8;Female
+12179109;Complete;1 year to less than 3 years;25-34;10;Female
+12179451;Incomplete;1 year to less than 3 years;25-34;;
+12179501;Complete;1 year to less than 3 years;55-64;10;Female
+12179529;Complete;3 years to less than 5 years;25-34;10;Male
+12180037;Incomplete;5 years to less than 10 years;45-54;;
+12180230;Complete;1 year to less than 3 years;18-24;10;Male
+12180340;Complete;3 years to less than 5 years;25-34;8;Male
+12180984;Complete;Less than 6 months;25-34;10;Female
+12181220;Complete;6 months to less than a year;45-54;10;Male
+12181466;Complete;6 months to less than a year;35-44;10;Female
+12181480;Complete;3 years to less than 5 years;35-44;10;Female
+12181664;Complete;1 year to less than 3 years;25-34;10;Female
+12181713;Complete;10 years to less than 15 years;18-24;10;Male
+12181822;Complete;5 years to less than 10 years;45-54;10;Female
+12181958;Complete;5 years to less than 10 years;35-44;10;Female
+12182000;Complete;Less than 6 months;25-34;10;Male
+12182966;Complete;1 year to less than 3 years;25-34;10;Female
+12183015;Complete;1 year to less than 3 years;45-54;9;Female
+12183092;Complete;1 year to less than 3 years;25-34;10;Female
+12183374;Complete;Less than 6 months;45-54;10;Female
+12183454;Complete;1 year to less than 3 years;18-24;;Male
+12183550;Complete;1 year to less than 3 years;45-54;10;Male
+12183581;Complete;5 years to less than 10 years;35-44;10;Female
+12183862;Complete;1 year to less than 3 years;45-54;10;Female
+12184124;Incomplete;1 year to less than 3 years;45-54;;
+12184293;Complete;3 years to less than 5 years;55-64;10;Female
+12184396;Complete;3 years to less than 5 years;35-44;10;Female
+12184629;Complete;Less than 6 months;18-24;8;Male
+12184664;Complete;6 months to less than a year;45-54;10;Female
+12184699;Complete;10 years to less than 15 years;18-24;10;Female
+12184857;Complete;5 years to less than 10 years;35-44;10;Female
+12184875;Complete;Less than 6 months;35-44;9;Female
+12185397;Incomplete;1 year to less than 3 years;18-24;;
+12185415;Complete;1 year to less than 3 years;45-54;10;Female
+12185545;Complete;6 months to less than a year;55-64;10;Female
+12185640;Terminated;1 year to less than 3 years;Under 18;;
+12185704;Complete;3 years to less than 5 years;45-54;10;Female
+12186010;Complete;3 years to less than 5 years;55-64;10;Female
+12186471;Complete;3 years to less than 5 years;25-34;10;Female
+12186661;Incomplete;1 year to less than 3 years;55-64;;
+12187072;Complete;6 months to less than a year;55-64;10;Male
+12187161;Complete;3 years to less than 5 years;25-34;10;Female
+12187739;Complete;1 year to less than 3 years;25-34;10;Female
+12187756;Complete;5 years to less than 10 years;25-34;10;Male
+12187758;Complete;1 year to less than 3 years;25-34;10;Female
+12187879;Terminated;1 year to less than 3 years;Under 18;;
+12188570;Complete;6 months to less than a year;35-44;10;Female
+12188932;Complete;1 year to less than 3 years;55-64;10;Female
+12189125;Complete;1 year to less than 3 years;25-34;10;Male
+12189261;Complete;Less than 6 months;25-34;9;Female
+12189738;Complete;1 year to less than 3 years;25-34;10;Female
+12190017;Complete;3 years to less than 5 years;55-64;10;Female
+12190097;Complete;1 year to less than 3 years;55-64;10;Female
+12190474;Complete;1 year to less than 3 years;25-34;10;Female
+12190491;Complete;1 year to less than 3 years;35-44;10;Male
+12190627;Terminated;1 year to less than 3 years;Under 18;;
+12190976;Complete;3 years to less than 5 years;45-54;10;Female
+12191189;Complete;1 year to less than 3 years;18-24;10;Female
+12191625;Complete;1 year to less than 3 years;35-44;10;Female
+12191709;Complete;10 years to less than 15 years;35-44;9;Female
+12192012;Complete;1 year to less than 3 years;25-34;10;Female
+12192015;Complete;1 year to less than 3 years;35-44;10;Female
+12192382;Complete;1 year to less than 3 years;25-34;10;Female
+12193781;Complete;1 year to less than 3 years;35-44;10;Female
+12193989;Complete;3 years to less than 5 years;35-44;10;Female
+12194002;Complete;1 year to less than 3 years;65-74;10;Female
+12194009;Terminated;3 years to less than 5 years;Under 18;;
+12194160;Complete;1 year to less than 3 years;35-44;10;Female
+12194536;Complete;5 years to less than 10 years;65-74;7;Female
+12194899;Incomplete;1 year to less than 3 years;25-34;;
+12195514;Complete;Less than 6 months;55-64;10;Female
+12196081;Complete;Less than 6 months;45-54;8;Male
+12196085;Complete;1 year to less than 3 years;45-54;10;Female
+12196099;Terminated;10 years to less than 15 years;Under 18;;
+12196248;Complete;3 years to less than 5 years;18-24;10;Female
+12196456;Complete;6 months to less than a year;55-64;10;Female
+12196598;Complete;1 year to less than 3 years;25-34;10;Male
+12196679;Complete;6 months to less than a year;45-54;10;Female
+12196763;Complete;3 years to less than 5 years;55-64;10;Female
+12196830;Complete;1 year to less than 3 years;35-44;10;Female
+12197142;Complete;1 year to less than 3 years;45-54;10;Female
+12197162;Complete;6 months to less than a year;25-34;10;Female
+12197176;Incomplete;1 year to less than 3 years;;;
+12197418;Incomplete;1 year to less than 3 years;35-44;;
+12197584;Incomplete;1 year to less than 3 years;45-54;;
+12197609;Complete;5 years to less than 10 years;55-64;10;Female
+12197648;Complete;6 months to less than a year;45-54;10;Female
+12197764;Incomplete;Less than 6 months;;;
+12198257;Complete;3 years to less than 5 years;55-64;10;Female
+12198365;Complete;1 year to less than 3 years;45-54;10;Female
+12199139;Complete;1 year to less than 3 years;35-44;10;Male
+12199489;Complete;Less than 6 months;55-64;10;Female
+12199776;Complete;6 months to less than a year;25-34;10;Female
+12199781;Terminated;1 year to less than 3 years;Under 18;;
+12200005;Complete;6 months to less than a year;35-44;10;Female
+12200064;Complete;More than 15 years;45-54;10;Female
+12200312;Complete;6 months to less than a year;25-34;10;Female
+12200366;Complete;5 years to less than 10 years;35-44;10;Male
+12200650;Incomplete;1 year to less than 3 years;35-44;;
+12200826;Incomplete;3 years to less than 5 years;25-34;;
+12201043;Complete;3 years to less than 5 years;25-34;10;Female
+12201739;Complete;1 year to less than 3 years;45-54;10;Female
+12202357;Complete;6 months to less than a year;55-64;10;Female
+12202582;Complete;1 year to less than 3 years;55-64;8;Female
+12203077;Complete;5 years to less than 10 years;55-64;10;Male
+12203136;Complete;6 months to less than a year;35-44;10;Female
+12203259;Complete;1 year to less than 3 years;25-34;10;Male
+12203624;Complete;1 year to less than 3 years;35-44;10;Female
+12203639;Complete;1 year to less than 3 years;25-34;10;Female
+12204027;Incomplete;6 months to less than a year;45-54;;
+12204049;Complete;6 months to less than a year;35-44;10;Female
+12204413;Complete;1 year to less than 3 years;25-34;10;Female
+12204520;Complete;3 years to less than 5 years;35-44;10;Female
+12204821;Complete;1 year to less than 3 years;35-44;10;Female
+12204953;Incomplete;1 year to less than 3 years;55-64;;
+12205051;Complete;Less than 6 months;25-34;10;Female
+12205337;Incomplete;3 years to less than 5 years;25-34;;
+12205437;Complete;Less than 6 months;45-54;;Male
+12205453;Incomplete;Less than 6 months;35-44;10;Female
+12205583;Complete;6 months to less than a year;25-34;10;Female
+12205876;Complete;6 months to less than a year;25-34;10;Female
+12206068;Complete;10 years to less than 15 years;45-54;8;Male
+12206076;Complete;3 years to less than 5 years;45-54;10;Female
+12206130;Complete;1 year to less than 3 years;45-54;10;Female
+12206157;Complete;Less than 6 months;65-74;10;Female
+12206399;Complete;1 year to less than 3 years;45-54;10;Female
+12206408;Incomplete;1 year to less than 3 years;25-34;;
+12206532;Complete;Less than 6 months;55-64;10;Male
+12206690;Complete;1 year to less than 3 years;25-34;8;Female
+12206853;Complete;10 years to less than 15 years;45-54;10;Female
+12206976;Complete;5 years to less than 10 years;45-54;10;Female
+12207317;Complete;1 year to less than 3 years;18-24;10;Female
+12207363;Complete;1 year to less than 3 years;35-44;10;Female
+12207367;Complete;3 years to less than 5 years;45-54;10;Female
+12207786;Complete;1 year to less than 3 years;35-44;10;Female
+12208391;Incomplete;6 months to less than a year;35-44;;
+12208467;Incomplete;3 years to less than 5 years;55-64;;
+12208533;Incomplete;5 years to less than 10 years;35-44;;
+12208769;Complete;1 year to less than 3 years;35-44;10;Female
+12209234;Complete;1 year to less than 3 years;35-44;10;Female
+12209316;Complete;Less than 6 months;35-44;10;Female
+12209317;Complete;Less than 6 months;45-54;10;Female
+12209486;Complete;6 months to less than a year;25-34;10;Female
+12209614;Complete;1 year to less than 3 years;45-54;10;Female
+12209978;Complete;3 years to less than 5 years;35-44;10;Female
+12210004;Complete;Less than 6 months;25-34;10;Male
+12210044;Complete;6 months to less than a year;25-34;10;Female
+12210100;Incomplete;1 year to less than 3 years;45-54;;
+12210530;Complete;5 years to less than 10 years;45-54;10;Male
+12211438;Complete;1 year to less than 3 years;18-24;10;Female
+12211752;Complete;1 year to less than 3 years;25-34;10;Female
+12211794;Complete;1 year to less than 3 years;35-44;10;Female
+12212139;Complete;6 months to less than a year;18-24;10;Male
+12212557;Complete;5 years to less than 10 years;18-24;10;Female
+12212684;Complete;1 year to less than 3 years;25-34;10;Female
+12213137;Complete;1 year to less than 3 years;25-34;10;Male
+12213365;Complete;5 years to less than 10 years;35-44;10;Male
+12213772;Complete;5 years to less than 10 years;25-34;10;Female
+12214002;Complete;Less than 6 months;18-24;10;Female
+12214130;Complete;10 years to less than 15 years;45-54;10;Female
+12214393;Complete;1 year to less than 3 years;75+;8;Female
+12214991;Complete;1 year to less than 3 years;45-54;10;Female
+12215203;Complete;1 year to less than 3 years;55-64;10;Female
+12216299;Complete;1 year to less than 3 years;18-24;10;Female
+12216866;Complete;1 year to less than 3 years;45-54;9;Female
+12216883;Complete;5 years to less than 10 years;55-64;10;Male
+12217654;Complete;5 years to less than 10 years;35-44;10;Female
+12217729;Complete;1 year to less than 3 years;45-54;10;Female
+12217769;Complete;6 months to less than a year;45-54;10;Female
+12218803;Complete;3 years to less than 5 years;25-34;10;Female
+12219415;Complete;1 year to less than 3 years;45-54;10;Female
+12221482;Incomplete;5 years to less than 10 years;25-34;;
+12222888;Complete;3 years to less than 5 years;45-54;10;Female
+12229756;Complete;1 year to less than 3 years;35-44;10;
+12235429;Complete;6 months to less than a year;25-34;10;Female
+12240105;Incomplete;6 months to less than a year;55-64;;
+12241754;Complete;5 years to less than 10 years;25-34;10;Female
+12242283;Complete;5 years to less than 10 years;25-34;10;Female
+12243373;Complete;1 year to less than 3 years;65-74;10;
+12243637;Complete;3 years to less than 5 years;65-74;10;Female
+12244514;Complete;1 year to less than 3 years;25-34;10;Female
+12246777;Complete;3 years to less than 5 years;35-44;10;Male
+12247964;Complete;10 years to less than 15 years;35-44;10;Female
+12248409;Complete;More than 15 years;45-54;9;Male
+12249134;Incomplete;1 year to less than 3 years;35-44;;
+12251218;Complete;1 year to less than 3 years;35-44;8;Female
+12251622;Complete;1 year to less than 3 years;55-64;10;Male
+12252010;Complete;6 months to less than a year;25-34;10;Female
+12252118;Complete;Less than 6 months;45-54;10;Female
+12257095;Complete;3 years to less than 5 years;45-54;10;Male
+12259533;Complete;6 months to less than a year;25-34;8;Male
+12259697;Complete;5 years to less than 10 years;25-34;;Female
+12260090;Complete;5 years to less than 10 years;45-54;10;Female
+12260143;Complete;More than 15 years;35-44;10;Male
+12260204;Complete;Less than 6 months;55-64;10;Female
+12260230;Complete;1 year to less than 3 years;25-34;10;Female
+12260257;Complete;Less than 6 months;25-34;9;Male
+12260268;Complete;5 years to less than 10 years;45-54;10;Female
+12260269;Complete;6 months to less than a year;25-34;10;Female
+12260279;Terminated;1 year to less than 3 years;Under 18;;
+12260313;Incomplete;1 year to less than 3 years;18-24;;
+12260331;Incomplete;Less than 6 months;35-44;10;Female
+12260345;Complete;1 year to less than 3 years;45-54;10;Female
+12260355;Complete;5 years to less than 10 years;25-34;10;Female
+12260356;Complete;6 months to less than a year;18-24;10;Female
+12260370;Complete;10 years to less than 15 years;45-54;10;Female
+12260382;Complete;1 year to less than 3 years;25-34;10;Female
+12260386;Complete;1 year to less than 3 years;25-34;10;Male
+12260398;Complete;5 years to less than 10 years;25-34;9;Male
+12260432;Complete;3 years to less than 5 years;18-24;10;Female
+12260439;Complete;1 year to less than 3 years;35-44;10;Male
+12260444;Complete;5 years to less than 10 years;25-34;9;Male
+12260464;Complete;1 year to less than 3 years;45-54;10;Female
+12260482;Complete;1 year to less than 3 years;45-54;8;Female
+12260509;Complete;1 year to less than 3 years;65-74;10;Male
+12260525;Complete;6 months to less than a year;35-44;10;Male
+12260582;Complete;3 years to less than 5 years;45-54;10;Female
+12260697;Complete;Less than 6 months;18-24;10;Male
+12260720;Complete;Less than 6 months;35-44;9;Female
+12260735;Complete;5 years to less than 10 years;35-44;10;Female
+12260764;Complete;6 months to less than a year;25-34;6;Female
+12260827;Complete;Less than 6 months;25-34;10;Female
+12260846;Complete;3 years to less than 5 years;18-24;10;Female
+12260856;Complete;1 year to less than 3 years;55-64;10;Female
+12260858;Incomplete;1 year to less than 3 years;25-34;;
+12260928;Complete;6 months to less than a year;25-34;10;Female
+12260951;Complete;10 years to less than 15 years;45-54;10;Female
+12261211;Complete;Less than 6 months;18-24;10;Female
+12261230;Complete;1 year to less than 3 years;35-44;10;Female
+12261249;Complete;Less than 6 months;35-44;10;Female
+12261305;Complete;1 year to less than 3 years;35-44;10;Male
+12261310;Complete;1 year to less than 3 years;25-34;10;Male
+12261312;Complete;1 year to less than 3 years;18-24;10;Female
+12261343;Complete;1 year to less than 3 years;25-34;10;Female
+12261358;Complete;Less than 6 months;35-44;10;Female
+12261365;Complete;5 years to less than 10 years;35-44;10;Male
+12261376;Complete;1 year to less than 3 years;25-34;10;Female
+12261521;Complete;1 year to less than 3 years;25-34;8;Female
+12261841;Complete;6 months to less than a year;18-24;10;Male
+12261884;Terminated;1 year to less than 3 years;Under 18;;
+12261900;Complete;1 year to less than 3 years;18-24;10;Female
+12261926;Complete;6 months to less than a year;25-34;10;Female
+12262011;Complete;1 year to less than 3 years;35-44;10;Female
+12262113;Complete;1 year to less than 3 years;55-64;;Male
+12262138;Incomplete;6 months to less than a year;35-44;10;Female
+12262346;Terminated;5 years to less than 10 years;Under 18;;
+12262358;Complete;1 year to less than 3 years;55-64;10;Male
+12262551;Incomplete;1 year to less than 3 years;45-54;;
+12262652;Complete;1 year to less than 3 years;55-64;9;
+12262796;Complete;1 year to less than 3 years;25-34;9;Male
+12262810;Complete;1 year to less than 3 years;45-54;10;Female
+12263013;Complete;6 months to less than a year;35-44;10;Female
+12263083;Complete;5 years to less than 10 years;18-24;10;Male
+12263125;Complete;Less than 6 months;25-34;10;Female
+12263205;Complete;6 months to less than a year;25-34;10;Male
+12263302;Complete;1 year to less than 3 years;55-64;10;Female
+12263412;Complete;3 years to less than 5 years;45-54;10;Male
+12263529;Complete;1 year to less than 3 years;35-44;10;Female
+12263693;Complete;5 years to less than 10 years;45-54;10;Female
+12263696;Complete;10 years to less than 15 years;25-34;10;Female
+12263701;Complete;Less than 6 months;45-54;1;
+12263715;Terminated;1 year to less than 3 years;Under 18;;
+12263867;Complete;5 years to less than 10 years;45-54;10;Female
+12263902;Complete;1 year to less than 3 years;45-54;10;Female
+12264060;Complete;1 year to less than 3 years;18-24;8;Female
+12264214;Incomplete;5 years to less than 10 years;35-44;10;Female
+12264283;Complete;6 months to less than a year;45-54;10;Male
+12264491;Complete;5 years to less than 10 years;25-34;9;Male
+12264572;Complete;10 years to less than 15 years;45-54;10;Female
+12264650;Complete;1 year to less than 3 years;45-54;10;Female
+12264756;Complete;1 year to less than 3 years;45-54;8;Male
+12264848;Complete;1 year to less than 3 years;18-24;10;Female
+12264888;Complete;Less than 6 months;35-44;7;Female
+12264911;Complete;Less than 6 months;25-34;10;Female
+12265005;Complete;1 year to less than 3 years;45-54;10;Female
+12265026;Complete;5 years to less than 10 years;25-34;9;Female
+12265105;Complete;1 year to less than 3 years;25-34;10;Male
+12265218;Complete;3 years to less than 5 years;55-64;10;Female
+12265229;Complete;1 year to less than 3 years;45-54;10;Female
+12265808;Complete;1 year to less than 3 years;45-54;;Female
+12265871;Complete;3 years to less than 5 years;25-34;9;Female
+12266018;Complete;3 years to less than 5 years;45-54;10;Female
+12266196;Complete;1 year to less than 3 years;35-44;10;Female
+12266440;Complete;Less than 6 months;45-54;10;Female
+12266605;Complete;Less than 6 months;25-34;10;Female
+12266808;Complete;1 year to less than 3 years;25-34;5;Male
+12266816;Complete;6 months to less than a year;45-54;0;Male
+12266841;Complete;5 years to less than 10 years;18-24;9;Female
+12266986;Complete;1 year to less than 3 years;45-54;9;Male
+12267042;Complete;1 year to less than 3 years;55-64;10;Female
+12267155;Complete;1 year to less than 3 years;25-34;10;Female
+12267213;Complete;1 year to less than 3 years;45-54;10;Female
+12267410;Complete;3 years to less than 5 years;35-44;10;Female
+12267486;Incomplete;More than 15 years;18-24;;
+12267629;Complete;6 months to less than a year;25-34;10;Female
+12268071;Complete;3 years to less than 5 years;18-24;10;Female
+12268081;Incomplete;1 year to less than 3 years;25-34;;
+12268084;Complete;Less than 6 months;35-44;10;Male
+12268272;Complete;Less than 6 months;25-34;10;Female
+12268292;Complete;6 months to less than a year;18-24;10;Female
+12268331;Complete;1 year to less than 3 years;35-44;10;Female
+12268377;Complete;1 year to less than 3 years;45-54;10;Female
+12268576;Complete;5 years to less than 10 years;55-64;10;Female
+12268742;Complete;1 year to less than 3 years;35-44;10;Female
+12268762;Complete;3 years to less than 5 years;55-64;10;Female
+12268962;Complete;1 year to less than 3 years;35-44;10;Female
+12269257;Incomplete;3 years to less than 5 years;35-44;;
+12269542;Complete;10 years to less than 15 years;18-24;10;Female
+12269578;Complete;3 years to less than 5 years;25-34;10;Male
+12269622;Complete;3 years to less than 5 years;55-64;10;Female
+12269932;Complete;Less than 6 months;65-74;10;Female
+12270083;Complete;1 year to less than 3 years;25-34;10;Female
+12270161;Complete;5 years to less than 10 years;35-44;10;Female
+12270222;Complete;Less than 6 months;25-34;10;Female
+12270677;Complete;3 years to less than 5 years;25-34;7;Male
+12270761;Complete;1 year to less than 3 years;18-24;10;Male
+12270919;Incomplete;5 years to less than 10 years;45-54;;
+12271704;Complete;Less than 6 months;18-24;10;Female
+12271748;Complete;5 years to less than 10 years;35-44;10;Female
+12271950;Complete;5 years to less than 10 years;35-44;10;Female
+12273030;Complete;1 year to less than 3 years;25-34;10;Male
+12273062;Complete;Less than 6 months;45-54;10;Female
+12273095;Complete;5 years to less than 10 years;35-44;10;Female
+12273317;Complete;5 years to less than 10 years;45-54;8;Male
+12273368;Complete;Less than 6 months;18-24;8;Male
+12273575;Complete;3 years to less than 5 years;25-34;10;Female
+12273792;Complete;Less than 6 months;45-54;8;Female
+12273846;Incomplete;6 months to less than a year;25-34;;
+12273939;Complete;5 years to less than 10 years;35-44;8;Female
+12274041;Complete;3 years to less than 5 years;35-44;10;Female
+12274295;Complete;1 year to less than 3 years;55-64;10;Female
+12275343;Incomplete;3 years to less than 5 years;35-44;;
+12276156;Complete;1 year to less than 3 years;45-54;8;Male
+12277067;Complete;5 years to less than 10 years;25-34;10;Female
+12277102;Complete;1 year to less than 3 years;18-24;10;Female
+12277219;Incomplete;1 year to less than 3 years;25-34;;
+12277467;Complete;1 year to less than 3 years;45-54;10;Female
+12277910;Complete;3 years to less than 5 years;45-54;9;Female
+12277999;Complete;1 year to less than 3 years;35-44;10;Female
+12278284;Complete;1 year to less than 3 years;18-24;10;Male
+12278285;Terminated;3 years to less than 5 years;Under 18;;
+12278461;Complete;3 years to less than 5 years;18-24;10;Male
+12278512;Complete;Less than 6 months;45-54;10;Female
+12278909;Complete;1 year to less than 3 years;45-54;10;Female
+12279501;Incomplete;Less than 6 months;25-34;10;Female
+12279973;Complete;5 years to less than 10 years;45-54;10;Female
+12279999;Complete;6 months to less than a year;18-24;10;Female
+12280029;Complete;5 years to less than 10 years;55-64;10;Female
+12280052;Complete;5 years to less than 10 years;25-34;10;Female
+12280220;Complete;5 years to less than 10 years;45-54;10;Male
+12280605;Complete;5 years to less than 10 years;25-34;10;Male
+12281284;Complete;3 years to less than 5 years;35-44;10;Male
+12281675;Complete;5 years to less than 10 years;35-44;10;Female
+12281868;Complete;1 year to less than 3 years;25-34;10;Female
+12282034;Complete;3 years to less than 5 years;35-44;10;Female
+12282347;Complete;1 year to less than 3 years;45-54;8;Male
+12282862;Incomplete;3 years to less than 5 years;18-24;;
+12282875;Complete;6 months to less than a year;35-44;10;Female
+12282878;Complete;5 years to less than 10 years;55-64;10;Female
+12282997;Complete;6 months to less than a year;35-44;10;Female
+12283054;Complete;3 years to less than 5 years;55-64;10;Female
+12283925;Complete;1 year to less than 3 years;45-54;10;Female
+12284212;Complete;1 year to less than 3 years;35-44;10;Female
+12284455;Complete;1 year to less than 3 years;45-54;10;Female
+12284552;Complete;1 year to less than 3 years;65-74;10;Female
+12284602;Complete;6 months to less than a year;55-64;10;Female
+12285153;Complete;3 years to less than 5 years;55-64;10;Female
+12285456;Complete;3 years to less than 5 years;55-64;10;Female
+12285481;Complete;1 year to less than 3 years;25-34;10;Female
+12285589;Complete;3 years to less than 5 years;45-54;10;Female
+12285657;Complete;1 year to less than 3 years;55-64;10;Female
+12286322;Complete;1 year to less than 3 years;55-64;10;Male
+12286413;Complete;6 months to less than a year;45-54;10;Male
+12286457;Complete;6 months to less than a year;25-34;9;Female
+12287582;Complete;10 years to less than 15 years;25-34;10;Female
+12287698;Complete;10 years to less than 15 years;25-34;10;Female
+12288495;Incomplete;5 years to less than 10 years;55-64;;
+12288820;Complete;1 year to less than 3 years;65-74;10;Female
+12289262;Incomplete;3 years to less than 5 years;55-64;;
+12289306;Complete;More than 15 years;35-44;10;Female
+12289604;Complete;1 year to less than 3 years;45-54;10;Female
+12289980;Complete;1 year to less than 3 years;35-44;10;Female
+12290253;Terminated;6 months to less than a year;Under 18;;
+12290598;Complete;Less than 6 months;18-24;10;Male
+12290634;Complete;6 months to less than a year;35-44;10;Male
+12290718;Complete;3 years to less than 5 years;35-44;10;Female
+12290795;Incomplete;6 months to less than a year;55-64;;
+12291757;Complete;3 years to less than 5 years;55-64;10;Female
+12291845;Complete;5 years to less than 10 years;35-44;9;Female
+12291991;Complete;1 year to less than 3 years;45-54;10;Male
+12292093;Complete;5 years to less than 10 years;45-54;10;Female
+12292248;Complete;Less than 6 months;55-64;10;Female
+12292296;Complete;3 years to less than 5 years;55-64;10;Female
+12292427;Complete;Less than 6 months;35-44;10;Male
+12292493;Complete;Less than 6 months;25-34;10;Female
+12292499;Terminated;10 years to less than 15 years;Under 18;;
+12292623;Complete;3 years to less than 5 years;25-34;10;Female
+12293254;Complete;5 years to less than 10 years;45-54;10;Female
+12293349;Incomplete;1 year to less than 3 years;45-54;;
+12293362;Incomplete;1 year to less than 3 years;25-34;;
+12294459;Complete;3 years to less than 5 years;25-34;10;Female
+12294903;Incomplete;Less than 6 months;45-54;;
+12295281;Complete;5 years to less than 10 years;25-34;10;Female
+12295395;Complete;1 year to less than 3 years;18-24;10;Female
+12295803;Complete;6 months to less than a year;35-44;10;Female
+12298152;Complete;1 year to less than 3 years;35-44;10;Female
+12300159;Complete;1 year to less than 3 years;55-64;10;Female
+12307630;Complete;1 year to less than 3 years;25-34;10;Female
+12310204;Complete;1 year to less than 3 years;55-64;10;Female
+12315144;Complete;1 year to less than 3 years;35-44;10;Female
+12317259;Complete;Less than 6 months;35-44;10;Male
+12317853;Terminated;1 year to less than 3 years;Under 18;;
+12319111;Complete;1 year to less than 3 years;45-54;10;Female
+12319222;Complete;10 years to less than 15 years;35-44;8;Female
+12319628;Incomplete;5 years to less than 10 years;25-34;;
+12320226;Complete;1 year to less than 3 years;25-34;10;Female
+12321547;Complete;5 years to less than 10 years;45-54;10;Female
+12322188;Complete;1 year to less than 3 years;25-34;10;Female
+12323359;Complete;Less than 6 months;45-54;10;Female
+12323941;Complete;Less than 6 months;25-34;4;Female
+12324803;Complete;5 years to less than 10 years;25-34;10;Female
+12326196;Complete;1 year to less than 3 years;25-34;;Female
+12328264;Complete;3 years to less than 5 years;35-44;9;Female
+12328805;Complete;3 years to less than 5 years;25-34;7;Male
+12329447;Complete;3 years to less than 5 years;25-34;10;Female
+12329586;Complete;Less than 6 months;25-34;10;Female
+12329612;Complete;3 years to less than 5 years;45-54;10;Male
+12329865;Complete;6 months to less than a year;25-34;10;Female
+12330088;Complete;6 months to less than a year;35-44;10;Female
+12330135;Complete;Less than 6 months;25-34;10;Female
+12330290;Complete;More than 15 years;45-54;10;Male
+12331476;Complete;1 year to less than 3 years;45-54;10;Female
+12332263;Complete;1 year to less than 3 years;25-34;10;Female
+12332626;Complete;1 year to less than 3 years;25-34;10;Female
+12332778;Complete;1 year to less than 3 years;45-54;10;Female
+12333260;Complete;1 year to less than 3 years;18-24;10;Female
+12333358;Complete;3 years to less than 5 years;45-54;10;Male
+12334061;Complete;3 years to less than 5 years;55-64;10;Female
+12334197;Complete;1 year to less than 3 years;18-24;10;Female
+12334233;Incomplete;1 year to less than 3 years;45-54;;
+12334465;Complete;1 year to less than 3 years;45-54;10;Female
+12335413;Complete;1 year to less than 3 years;18-24;10;Female
+12335582;Complete;1 year to less than 3 years;35-44;10;Female
+12335722;Complete;5 years to less than 10 years;35-44;9;Male
+12336795;Complete;5 years to less than 10 years;35-44;10;Female
+12337027;Complete;6 months to less than a year;25-34;10;Female
+12337100;Complete;10 years to less than 15 years;18-24;10;Female
+12337467;Complete;1 year to less than 3 years;45-54;10;Female
+12339506;Complete;6 months to less than a year;45-54;10;Female
+12339746;Complete;6 months to less than a year;18-24;10;Female
+12340430;Complete;3 years to less than 5 years;45-54;10;Female
+12343415;Complete;5 years to less than 10 years;45-54;10;Female
+12343441;Complete;3 years to less than 5 years;45-54;8;Female
+12344460;Complete;Less than 6 months;45-54;10;Female
+12344870;Complete;3 years to less than 5 years;55-64;10;Female
+12345157;Complete;5 years to less than 10 years;25-34;10;Female
+12345907;Complete;3 years to less than 5 years;45-54;10;Female
+12346941;Incomplete;1 year to less than 3 years;45-54;;
+12347321;Complete;1 year to less than 3 years;35-44;7;Female
+12347378;Complete;5 years to less than 10 years;35-44;10;Female
+12347597;Complete;1 year to less than 3 years;45-54;10;Female
+12348500;Complete;Less than 6 months;35-44;10;Female
+12348891;Incomplete;1 year to less than 3 years;18-24;;
+12349624;Complete;5 years to less than 10 years;25-34;8;Female
+12349916;Incomplete;1 year to less than 3 years;55-64;;
+12351753;Complete;1 year to less than 3 years;45-54;;Female
+12352078;Complete;1 year to less than 3 years;45-54;10;Female
+12352361;Complete;3 years to less than 5 years;45-54;10;Female
+12352549;Complete;1 year to less than 3 years;45-54;10;Female
+12354634;Complete;Less than 6 months;35-44;10;Female
+12354734;Complete;1 year to less than 3 years;35-44;10;Female
+12355997;Complete;6 months to less than a year;55-64;10;Female
+12356207;Complete;6 months to less than a year;25-34;10;Female
+12356791;Complete;1 year to less than 3 years;55-64;7;Female
+12356915;Complete;1 year to less than 3 years;45-54;9;Male
+12357091;Complete;10 years to less than 15 years;35-44;10;Female
+12357251;Complete;5 years to less than 10 years;45-54;10;Female
+12357589;Complete;1 year to less than 3 years;35-44;8;Female
+12357829;Complete;1 year to less than 3 years;18-24;10;Male
+12357848;Complete;3 years to less than 5 years;55-64;10;Female
+12358442;Complete;1 year to less than 3 years;45-54;10;Female
+12359385;Complete;Less than 6 months;55-64;10;Female
+12360075;Complete;6 months to less than a year;18-24;10;Female
+12360985;Complete;6 months to less than a year;45-54;10;Female
+12361117;Complete;Less than 6 months;18-24;10;Female
+12361452;Complete;3 years to less than 5 years;35-44;10;Male
+12362177;Incomplete;Less than 6 months;;;
+12364439;Complete;1 year to less than 3 years;25-34;10;Male
+12364920;Complete;6 months to less than a year;55-64;10;Female
+12366250;Complete;1 year to less than 3 years;45-54;10;Female
+12366362;Complete;6 months to less than a year;35-44;10;Female
+12368195;Complete;Less than 6 months;25-34;9;Male
+12368997;Complete;6 months to less than a year;45-54;10;Male
+12380161;Complete;1 year to less than 3 years;25-34;10;Female
+12387332;Complete;1 year to less than 3 years;45-54;10;Male
+12387514;Complete;1 year to less than 3 years;45-54;10;Male
+12389851;Complete;1 year to less than 3 years;55-64;9;Male
+12390038;Complete;1 year to less than 3 years;45-54;10;Female
+12391489;Incomplete;Less than 6 months;35-44;;
+12394975;Complete;1 year to less than 3 years;45-54;10;Female
+12395581;Complete;1 year to less than 3 years;45-54;10;Female
+12401647;Complete;1 year to less than 3 years;35-44;10;Male
+12402394;Complete;10 years to less than 15 years;25-34;10;Female
+12402550;Complete;1 year to less than 3 years;25-34;10;Female
+12402935;Complete;1 year to less than 3 years;45-54;10;Female
+12403262;Complete;1 year to less than 3 years;25-34;10;Male
+12404603;Complete;Less than 6 months;18-24;8;Female
+12407403;Complete;Less than 6 months;35-44;10;Female
+12407602;Complete;Less than 6 months;18-24;10;Male
+12408452;Complete;1 year to less than 3 years;25-34;10;Female
+12408643;Complete;3 years to less than 5 years;55-64;10;Female
+12409720;Complete;1 year to less than 3 years;45-54;10;Female
+12410297;Complete;1 year to less than 3 years;45-54;10;Female
+12410472;Complete;Less than 6 months;18-24;5;Male
+12412638;Complete;Less than 6 months;55-64;10;Female
+12416009;Complete;Less than 6 months;45-54;10;Female
+12416504;Complete;1 year to less than 3 years;35-44;10;Female
+12417092;Complete;1 year to less than 3 years;25-34;10;Female
+12417839;Complete;10 years to less than 15 years;25-34;10;Female
+12418824;Complete;Less than 6 months;45-54;8;Female
+12419155;Incomplete;6 months to less than a year;25-34;;
+12419388;Complete;5 years to less than 10 years;25-34;10;Female
+12419511;Complete;3 years to less than 5 years;45-54;10;Male
+12420065;Complete;1 year to less than 3 years;25-34;10;Female
+12421198;Complete;3 years to less than 5 years;45-54;10;Female
+12421438;Complete;1 year to less than 3 years;25-34;10;Female
+12422049;Complete;Less than 6 months;55-64;10;Female
+12422691;Complete;1 year to less than 3 years;45-54;10;
+12422777;Complete;3 years to less than 5 years;45-54;10;Female
+12423673;Incomplete;1 year to less than 3 years;65-74;;
+12424040;Complete;1 year to less than 3 years;35-44;10;Female
+12424939;Complete;3 years to less than 5 years;45-54;10;Female
+12428341;Complete;1 year to less than 3 years;35-44;10;Male
+12428402;Complete;Less than 6 months;18-24;10;Female
+12432196;Complete;1 year to less than 3 years;35-44;10;Female
+12433423;Complete;1 year to less than 3 years;18-24;10;Male
+12450224;Complete;5 years to less than 10 years;45-54;10;Female
+12453656;Complete;5 years to less than 10 years;35-44;10;Female
+12455909;Complete;5 years to less than 10 years;35-44;10;Female
+12460036;Incomplete;6 months to less than a year;;;
+12464037;Complete;Less than 6 months;25-34;10;Female
+12464278;Complete;6 months to less than a year;45-54;7;Male
+12464403;Complete;1 year to less than 3 years;25-34;;Male
+12466091;Complete;1 year to less than 3 years;35-44;10;Female
+12466828;Incomplete;3 years to less than 5 years;45-54;;
+12468673;Complete;Less than 6 months;35-44;10;Male
+12470164;Complete;1 year to less than 3 years;45-54;10;Female
+12471856;Complete;1 year to less than 3 years;35-44;10;Male
+12472382;Complete;10 years to less than 15 years;18-24;10;Female
+12472969;Complete;3 years to less than 5 years;25-34;10;Female
+12474708;Complete;3 years to less than 5 years;55-64;10;Female
+12475043;Complete;Less than 6 months;18-24;10;Female
+12479001;Complete;1 year to less than 3 years;45-54;9;Female
+12479100;Complete;1 year to less than 3 years;25-34;10;Female
+12479171;Complete;Less than 6 months;35-44;0;Male
+12479366;Complete;6 months to less than a year;25-34;10;Female
+12479911;Complete;3 years to less than 5 years;35-44;10;Female
+12479928;Complete;3 years to less than 5 years;45-54;9;Male
+12480221;Incomplete;Less than 6 months;25-34;10;Female
+12480597;Complete;3 years to less than 5 years;25-34;10;Female
+12480687;Complete;3 years to less than 5 years;45-54;10;Female
+12480719;Complete;Less than 6 months;25-34;10;Female
+12480770;Complete;6 months to less than a year;45-54;8;Male
+12480926;Complete;Less than 6 months;25-34;9;Female
+12481277;Complete;5 years to less than 10 years;45-54;10;Female
+12481325;Complete;5 years to less than 10 years;35-44;9;Male
+12481357;Complete;3 years to less than 5 years;18-24;10;Male
+12481390;Incomplete;1 year to less than 3 years;45-54;;
+12481527;Complete;5 years to less than 10 years;18-24;10;Male
+12481572;Complete;3 years to less than 5 years;55-64;10;Female
+12481586;Complete;3 years to less than 5 years;18-24;10;Female
+12481666;Complete;Less than 6 months;25-34;10;Female
+12481744;Complete;Less than 6 months;25-34;10;Female
+12481862;Complete;6 months to less than a year;35-44;10;Female
+12482139;Complete;1 year to less than 3 years;45-54;5;Male
+12482272;Complete;5 years to less than 10 years;45-54;10;Male
+12482289;Incomplete;10 years to less than 15 years;25-34;;
+12482459;Complete;1 year to less than 3 years;35-44;9;Female
+12482541;Complete;Less than 6 months;45-54;10;Female
+12482990;Complete;3 years to less than 5 years;25-34;;Female
+12483413;Complete;5 years to less than 10 years;35-44;10;Female
+12483461;Complete;Less than 6 months;55-64;10;Female
+12483479;Complete;3 years to less than 5 years;25-34;10;Female
+12483531;Complete;3 years to less than 5 years;55-64;10;Female
+12483601;Complete;3 years to less than 5 years;25-34;10;Female
+12483794;Complete;5 years to less than 10 years;45-54;10;Male
+12483887;Complete;5 years to less than 10 years;55-64;10;Male
+12483937;Terminated;1 year to less than 3 years;Under 18;;
+12483990;Complete;1 year to less than 3 years;25-34;5;Male
+12484131;Complete;1 year to less than 3 years;25-34;10;Male
+12484206;Complete;5 years to less than 10 years;25-34;9;Male
+12484564;Complete;6 months to less than a year;25-34;10;Female
+12484646;Complete;3 years to less than 5 years;18-24;10;Female
+12484820;Complete;1 year to less than 3 years;45-54;10;Female
+12484856;Complete;Less than 6 months;25-34;10;Female
+12485125;Complete;1 year to less than 3 years;25-34;10;Female
+12485145;Complete;1 year to less than 3 years;45-54;10;Female
+12485517;Complete;Less than 6 months;35-44;10;Male
+12485764;Complete;3 years to less than 5 years;25-34;10;Female
+12485968;Complete;3 years to less than 5 years;18-24;10;Female
+12486149;Complete;3 years to less than 5 years;45-54;10;Female
+12486277;Terminated;6 months to less than a year;Under 18;;
+12486460;Incomplete;1 year to less than 3 years;18-24;;
+12486474;Complete;5 years to less than 10 years;18-24;10;Female
+12487346;Complete;Less than 6 months;18-24;10;Female
+12487414;Complete;1 year to less than 3 years;45-54;10;Female
+12487439;Complete;10 years to less than 15 years;45-54;10;Female
+12487537;Complete;1 year to less than 3 years;18-24;10;Female
+12487625;Complete;1 year to less than 3 years;45-54;8;Female
+12488670;Complete;1 year to less than 3 years;55-64;10;Female
+12488926;Complete;1 year to less than 3 years;25-34;10;Female
+12488987;Complete;1 year to less than 3 years;25-34;10;Male
+12488990;Complete;6 months to less than a year;35-44;10;Female
+12489197;Complete;1 year to less than 3 years;25-34;8;Female
+12489216;Complete;6 months to less than a year;35-44;10;Female
+12489254;Complete;5 years to less than 10 years;35-44;10;Male
+12489710;Incomplete;1 year to less than 3 years;25-34;;
+12489792;Incomplete;6 months to less than a year;35-44;;
+12490058;Complete;1 year to less than 3 years;55-64;10;Female
+12490297;Complete;1 year to less than 3 years;35-44;10;Female
+12491320;Complete;1 year to less than 3 years;25-34;10;Female
+12491432;Complete;5 years to less than 10 years;35-44;10;Female
+12491681;Complete;5 years to less than 10 years;45-54;9;Male
+12491709;Complete;3 years to less than 5 years;35-44;9;Female
+12491713;Incomplete;6 months to less than a year;25-34;;
+12491838;Complete;6 months to less than a year;25-34;10;Female
+12491843;Complete;1 year to less than 3 years;35-44;10;Male
+12491884;Complete;1 year to less than 3 years;25-34;10;Female
+12491973;Complete;1 year to less than 3 years;45-54;10;Female
+12492632;Complete;1 year to less than 3 years;25-34;10;Female
+12492652;Complete;6 months to less than a year;45-54;10;Female
+12492953;Complete;Less than 6 months;18-24;10;Female
+12493569;Complete;6 months to less than a year;18-24;10;Female
+12493842;Complete;1 year to less than 3 years;45-54;8;Female
+12494003;Complete;5 years to less than 10 years;45-54;10;Male
+12494012;Complete;3 years to less than 5 years;35-44;10;Female
+12494077;Complete;6 months to less than a year;18-24;10;Female
+12494194;Complete;1 year to less than 3 years;35-44;10;Female
+12494434;Complete;6 months to less than a year;55-64;10;Female
+12494718;Complete;5 years to less than 10 years;18-24;10;Male
+12495451;Complete;Less than 6 months;55-64;10;Female
+12495679;Complete;1 year to less than 3 years;65-74;10;Female
+12495864;Complete;1 year to less than 3 years;45-54;10;Female
+12496094;Complete;6 months to less than a year;35-44;10;Female
+12496333;Complete;6 months to less than a year;55-64;10;Female
+12496673;Complete;6 months to less than a year;35-44;10;Female
+12496709;Incomplete;1 year to less than 3 years;18-24;;
+12496794;Complete;1 year to less than 3 years;25-34;10;Female
+12497601;Complete;6 months to less than a year;25-34;10;Male
+12497890;Complete;1 year to less than 3 years;25-34;10;Female
+12498263;Complete;10 years to less than 15 years;45-54;10;Male
+12498576;Complete;1 year to less than 3 years;45-54;10;Female
+12498607;Complete;Less than 6 months;25-34;10;Female
+12499046;Complete;1 year to less than 3 years;25-34;10;Male
+12499094;Complete;1 year to less than 3 years;35-44;10;Female
+12499641;Complete;1 year to less than 3 years;18-24;10;Female
+12499742;Complete;5 years to less than 10 years;35-44;10;Male
+12499784;Incomplete;5 years to less than 10 years;18-24;;
+12499807;Complete;1 year to less than 3 years;55-64;10;Female
+12499834;Incomplete;1 year to less than 3 years;18-24;;
+12500059;Complete;Less than 6 months;45-54;7;Male
+12500080;Complete;1 year to less than 3 years;45-54;10;Female
+12500115;Complete;5 years to less than 10 years;35-44;9;Male
+12500181;Complete;3 years to less than 5 years;45-54;10;Female
+12500286;Complete;1 year to less than 3 years;25-34;10;Female
+12500330;Incomplete;5 years to less than 10 years;35-44;;
+12500338;Complete;6 months to less than a year;25-34;10;Male
+12500340;Complete;3 years to less than 5 years;25-34;10;Female
+12500597;Incomplete;5 years to less than 10 years;45-54;;
+12500688;Complete;5 years to less than 10 years;25-34;10;Female
+12500755;Complete;1 year to less than 3 years;35-44;9;Female
+12500905;Incomplete;3 years to less than 5 years;55-64;8;Female
+12501112;Complete;1 year to less than 3 years;45-54;10;Female
+12501150;Complete;6 months to less than a year;18-24;10;Female
+12501378;Incomplete;1 year to less than 3 years;25-34;;
+12501758;Complete;1 year to less than 3 years;18-24;10;Female
+12501920;Complete;5 years to less than 10 years;55-64;10;Female
+12502237;Complete;Less than 6 months;35-44;10;Female
+12502264;Complete;1 year to less than 3 years;25-34;9;Female
+12502618;Complete;1 year to less than 3 years;35-44;10;Female
+12502860;Complete;5 years to less than 10 years;25-34;6;Female
+12503090;Complete;3 years to less than 5 years;35-44;10;Male
+12503251;Complete;3 years to less than 5 years;25-34;10;Female
+12503270;Complete;1 year to less than 3 years;65-74;4;Female
+12503509;Complete;1 year to less than 3 years;35-44;10;Female
+12503850;Complete;10 years to less than 15 years;25-34;10;Male
+12504020;Complete;1 year to less than 3 years;35-44;10;Female
+12504078;Complete;1 year to less than 3 years;55-64;10;Female
+12504119;Complete;10 years to less than 15 years;25-34;8;Male
+12504408;Complete;5 years to less than 10 years;35-44;10;Female
+12504611;Complete;6 months to less than a year;45-54;10;Female
+12504656;Complete;1 year to less than 3 years;35-44;8;Female
+12504743;Complete;Less than 6 months;25-34;10;Female
+12505009;Complete;10 years to less than 15 years;35-44;10;Female
+12505099;Incomplete;3 years to less than 5 years;45-54;;
+12505234;Complete;10 years to less than 15 years;65-74;10;Female
+12505360;Complete;3 years to less than 5 years;35-44;10;Female
+12505507;Complete;1 year to less than 3 years;18-24;10;Female
+12505896;Complete;1 year to less than 3 years;35-44;10;Male
+12506213;Complete;3 years to less than 5 years;35-44;10;Female
+12506473;Complete;Less than 6 months;35-44;10;Female
+12506517;Complete;5 years to less than 10 years;35-44;8;Male
+12506790;Complete;1 year to less than 3 years;35-44;10;Female
+12507121;Complete;10 years to less than 15 years;35-44;9;Male
+12507562;Complete;5 years to less than 10 years;25-34;10;Female
+12507570;Complete;1 year to less than 3 years;35-44;9;Female
+12508031;Complete;1 year to less than 3 years;45-54;10;Female
+12508242;Complete;3 years to less than 5 years;55-64;10;Male
+12508264;Complete;Less than 6 months;25-34;10;Male
+12508395;Complete;6 months to less than a year;25-34;10;Male
+12508454;Complete;1 year to less than 3 years;55-64;9;Female
+12508507;Complete;1 year to less than 3 years;45-54;10;Female
+12508518;Complete;6 months to less than a year;25-34;10;Female
+12508630;Complete;6 months to less than a year;45-54;10;Female
+12508718;Complete;Less than 6 months;25-34;10;Male
+12508763;Complete;Less than 6 months;25-34;10;Female
+12508798;Complete;1 year to less than 3 years;25-34;10;Male
+12508885;Complete;3 years to less than 5 years;55-64;10;Female
+12509079;Complete;Less than 6 months;18-24;9;Female
+12509406;Complete;1 year to less than 3 years;25-34;10;Female
+12509749;Complete;More than 15 years;55-64;10;Male
+12509761;Complete;Less than 6 months;35-44;10;Male
+12511148;Complete;3 years to less than 5 years;45-54;8;Female
+12511678;Complete;1 year to less than 3 years;18-24;10;Female
+12511777;Complete;6 months to less than a year;25-34;10;Female
+12512114;Incomplete;1 year to less than 3 years;35-44;;
+12512167;Complete;1 year to less than 3 years;45-54;10;Male
+12512179;Complete;6 months to less than a year;55-64;10;Female
+12512323;Complete;5 years to less than 10 years;35-44;10;Male
+12512374;Complete;1 year to less than 3 years;45-54;10;Female
+12512972;Complete;5 years to less than 10 years;45-54;10;Male
+12513214;Complete;1 year to less than 3 years;25-34;10;Male
+12513508;Complete;Less than 6 months;45-54;10;Female
+12513602;Incomplete;1 year to less than 3 years;18-24;;
+12513855;Complete;5 years to less than 10 years;45-54;10;Female
+12514283;Terminated;1 year to less than 3 years;Under 18;;
+12514643;Complete;1 year to less than 3 years;35-44;10;Female
+12514666;Complete;3 years to less than 5 years;25-34;10;Female
+12514973;Complete;1 year to less than 3 years;45-54;10;Female
+12515270;Complete;6 months to less than a year;25-34;10;Female
+12515438;Complete;10 years to less than 15 years;35-44;10;Male
+12515638;Complete;6 months to less than a year;35-44;10;Female
+12515845;Complete;5 years to less than 10 years;18-24;8;Female
+12515918;Complete;1 year to less than 3 years;18-24;10;Female
+12515930;Complete;5 years to less than 10 years;25-34;10;Female
+12516471;Complete;3 years to less than 5 years;25-34;10;Male
+12516628;Complete;1 year to less than 3 years;35-44;10;Female
+12516671;Complete;1 year to less than 3 years;45-54;8;Female
+12516710;Complete;3 years to less than 5 years;45-54;10;Female
+12517186;Complete;3 years to less than 5 years;35-44;8;Female
+12517287;Incomplete;1 year to less than 3 years;25-34;;
+12517668;Terminated;1 year to less than 3 years;Under 18;;
+12517814;Complete;1 year to less than 3 years;35-44;10;Male
+12517951;Complete;1 year to less than 3 years;45-54;10;Female
+12518081;Complete;1 year to less than 3 years;65-74;10;Female
+12518440;Incomplete;1 year to less than 3 years;25-34;;
+12519158;Complete;1 year to less than 3 years;25-34;10;Female
+12519159;Incomplete;1 year to less than 3 years;35-44;;
+12519347;Complete;1 year to less than 3 years;25-34;10;Female
+12519438;Complete;1 year to less than 3 years;35-44;10;Male
+12519548;Complete;1 year to less than 3 years;55-64;10;Female
+12520901;Complete;1 year to less than 3 years;55-64;10;Female
+12522607;Complete;1 year to less than 3 years;55-64;8;Female
+12523097;Terminated;3 years to less than 5 years;Under 18;;
+12523380;Complete;Less than 6 months;25-34;10;Female
+12523653;Complete;1 year to less than 3 years;35-44;10;Female
+12523798;Complete;1 year to less than 3 years;45-54;10;Female
+12523800;Complete;5 years to less than 10 years;25-34;10;Male
+12524477;Complete;Less than 6 months;25-34;10;Male
+12524799;Complete;3 years to less than 5 years;35-44;10;Female
+12524880;Complete;Less than 6 months;35-44;10;Male
+12525580;Complete;Less than 6 months;25-34;10;Male
+12526268;Complete;1 year to less than 3 years;45-54;7;Female
+12526287;Complete;6 months to less than a year;25-34;10;Female
+12526989;Complete;1 year to less than 3 years;25-34;10;Female
+12527216;Complete;6 months to less than a year;25-34;10;Female
+12527762;Complete;1 year to less than 3 years;35-44;10;Female
+12528321;Complete;3 years to less than 5 years;45-54;10;Female
+12529031;Complete;5 years to less than 10 years;18-24;10;Male
+12529809;Incomplete;1 year to less than 3 years;65-74;;
+12530226;Complete;3 years to less than 5 years;45-54;10;Female
+12530476;Complete;3 years to less than 5 years;45-54;8;Female
+12530763;Complete;3 years to less than 5 years;55-64;10;Female
+12530851;Terminated;1 year to less than 3 years;Under 18;;
+12531430;Complete;1 year to less than 3 years;45-54;10;Female
+12531551;Incomplete;1 year to less than 3 years;25-34;;
+12533467;Complete;6 months to less than a year;25-34;10;Female
+12533822;Complete;1 year to less than 3 years;18-24;7;Female
+12534602;Complete;6 months to less than a year;45-54;8;Female
+12534673;Complete;5 years to less than 10 years;25-34;10;Female
+12534767;Complete;5 years to less than 10 years;18-24;6;Male
+12535778;Complete;5 years to less than 10 years;25-34;8;Male
+12536615;Complete;1 year to less than 3 years;45-54;10;Female
+12536673;Complete;1 year to less than 3 years;35-44;8;Female
+12536902;Complete;3 years to less than 5 years;25-34;10;Female
+12536987;Complete;5 years to less than 10 years;25-34;10;Male
+12537320;Complete;5 years to less than 10 years;18-24;10;Male
+12537509;Complete;1 year to less than 3 years;18-24;10;Female
+12537913;Complete;6 months to less than a year;55-64;10;Female
+12538030;Complete;1 year to less than 3 years;18-24;8;Female
+12538311;Complete;6 months to less than a year;45-54;10;Female
+12538743;Complete;1 year to less than 3 years;18-24;10;Female
+12539046;Complete;Less than 6 months;55-64;10;Male
+12539466;Complete;5 years to less than 10 years;45-54;8;Female
+12540428;Complete;Less than 6 months;35-44;10;Female
+12540904;Complete;1 year to less than 3 years;45-54;10;Female
+12541217;Complete;3 years to less than 5 years;55-64;10;Female
+12541220;Complete;Less than 6 months;35-44;10;Female
+12541259;Complete;5 years to less than 10 years;45-54;7;Female
+12541421;Complete;1 year to less than 3 years;55-64;10;Female
+12541788;Complete;Less than 6 months;25-34;10;Female
+12541859;Complete;6 months to less than a year;55-64;10;Female
+12542124;Complete;1 year to less than 3 years;35-44;10;Female
+12542438;Complete;1 year to less than 3 years;25-34;10;Female
+12542474;Complete;1 year to less than 3 years;25-34;10;Male
+12542831;Incomplete;1 year to less than 3 years;45-54;;
+12543083;Incomplete;Less than 6 months;45-54;;
+12543827;Complete;Less than 6 months;25-34;10;Female
+12544043;Complete;5 years to less than 10 years;25-34;9;Male
+12544754;Complete;6 months to less than a year;45-54;10;Male
+12545184;Complete;3 years to less than 5 years;25-34;10;Female
+12545388;Complete;1 year to less than 3 years;25-34;10;Female
+12546202;Complete;1 year to less than 3 years;25-34;10;Female
+12546278;Complete;1 year to less than 3 years;35-44;10;Female
+12546481;Complete;More than 15 years;55-64;8;Female
+12546748;Complete;6 months to less than a year;55-64;10;Male
+12546771;Complete;1 year to less than 3 years;55-64;10;Female
+12546824;Complete;6 months to less than a year;35-44;10;Female
+12547105;Complete;1 year to less than 3 years;35-44;10;Male
+12547238;Complete;1 year to less than 3 years;35-44;10;Female
+12547462;Complete;Less than 6 months;25-34;10;Female
+12547914;Incomplete;5 years to less than 10 years;35-44;;
+12548266;Complete;1 year to less than 3 years;45-54;10;Female
+12548318;Complete;5 years to less than 10 years;45-54;10;Female
+12548761;Complete;3 years to less than 5 years;18-24;10;Male
+12549327;Complete;1 year to less than 3 years;35-44;10;Male
+12549730;Complete;Less than 6 months;18-24;10;Female
+12549909;Complete;Less than 6 months;45-54;10;Male
+12549913;Complete;3 years to less than 5 years;45-54;10;Female
+12550022;Complete;1 year to less than 3 years;18-24;8;Female
+12550029;Complete;1 year to less than 3 years;25-34;10;Female
+12550424;Complete;6 months to less than a year;55-64;10;Male
+12550584;Complete;1 year to less than 3 years;25-34;10;Female
+12551016;Complete;Less than 6 months;18-24;10;Female
+12551354;Complete;3 years to less than 5 years;45-54;10;Female
+12551639;Incomplete;6 months to less than a year;18-24;;
+12551717;Incomplete;1 year to less than 3 years;45-54;;
+12552167;Complete;3 years to less than 5 years;35-44;10;Male
+12552588;Complete;5 years to less than 10 years;35-44;10;Female
+12552807;Complete;10 years to less than 15 years;25-34;10;Female
+12553329;Complete;1 year to less than 3 years;18-24;10;Female
+12553955;Complete;Less than 6 months;35-44;10;Male
+12554137;Complete;6 months to less than a year;55-64;10;Female
+12554186;Complete;1 year to less than 3 years;45-54;10;Male
+12554419;Complete;5 years to less than 10 years;45-54;10;Female
+12554456;Incomplete;3 years to less than 5 years;35-44;;
+12554484;Complete;1 year to less than 3 years;55-64;10;Male
+12554517;Complete;1 year to less than 3 years;35-44;10;Female
+12555066;Complete;3 years to less than 5 years;25-34;10;Female
+12555147;Complete;1 year to less than 3 years;55-64;10;Male
+12556346;Incomplete;5 years to less than 10 years;25-34;;
+12557524;Complete;6 months to less than a year;45-54;10;Female
+12557585;Complete;1 year to less than 3 years;25-34;10;Female
+12557930;Complete;10 years to less than 15 years;25-34;8;Female
+12558100;Complete;5 years to less than 10 years;45-54;10;Female
+12558136;Complete;3 years to less than 5 years;45-54;10;Female
+12558150;Complete;5 years to less than 10 years;35-44;10;Female
+12558215;Complete;3 years to less than 5 years;35-44;9;Male
+12558378;Complete;1 year to less than 3 years;18-24;10;Female
+12559800;Complete;1 year to less than 3 years;35-44;10;Female
+12559864;Complete;6 months to less than a year;25-34;10;Female
+12559890;Complete;1 year to less than 3 years;35-44;10;Female
+12559984;Complete;1 year to less than 3 years;18-24;8;Male
+12560138;Incomplete;3 years to less than 5 years;25-34;;
+12560223;Complete;3 years to less than 5 years;55-64;10;Male
+12560368;Complete;3 years to less than 5 years;45-54;10;Female
+12560736;Complete;5 years to less than 10 years;55-64;10;Female
+12560815;Complete;1 year to less than 3 years;35-44;10;Female
+12560967;Complete;6 months to less than a year;45-54;10;Female
+12561006;Complete;6 months to less than a year;18-24;10;Male
+12561192;Complete;1 year to less than 3 years;45-54;10;Female
+12561432;Complete;1 year to less than 3 years;18-24;10;Female
+12561529;Complete;3 years to less than 5 years;55-64;10;Male
+12561532;Complete;5 years to less than 10 years;35-44;10;
+12561597;Incomplete;6 months to less than a year;25-34;;
+12561618;Complete;1 year to less than 3 years;45-54;10;Female
+12561870;Complete;1 year to less than 3 years;45-54;10;Female
+12562009;Complete;5 years to less than 10 years;18-24;6;Female
+12562140;Incomplete;1 year to less than 3 years;45-54;;
+12563020;Complete;More than 15 years;35-44;10;Female
+12563636;Complete;6 months to less than a year;55-64;10;Male
+12564004;Complete;Less than 6 months;35-44;10;Female
+12565047;Complete;Less than 6 months;45-54;8;Male
+12565119;Complete;1 year to less than 3 years;45-54;9;Male
+12565136;Complete;1 year to less than 3 years;45-54;10;Female
+12565523;Incomplete;1 year to less than 3 years;25-34;;
+12566550;Complete;1 year to less than 3 years;25-34;10;Female
+12566563;Complete;1 year to less than 3 years;25-34;10;Female
+12568566;Complete;5 years to less than 10 years;35-44;10;Male
+12568820;Complete;Less than 6 months;25-34;5;Male
+12570050;Complete;1 year to less than 3 years;45-54;10;Male
+12570353;Complete;6 months to less than a year;55-64;10;Male
+12574073;Complete;1 year to less than 3 years;35-44;8;Female
+12574968;Complete;Less than 6 months;25-34;10;Female
+12575095;Complete;5 years to less than 10 years;45-54;10;Female
+12576292;Complete;3 years to less than 5 years;55-64;10;Female
+12579732;Complete;5 years to less than 10 years;35-44;10;Male
+12589304;Complete;1 year to less than 3 years;35-44;10;Female
+12591163;Complete;1 year to less than 3 years;45-54;9;Male
+12595454;Complete;6 months to less than a year;25-34;9;Female
+12599035;Complete;5 years to less than 10 years;45-54;9;Female
+12603485;Complete;3 years to less than 5 years;45-54;10;Female
+12609396;Complete;6 months to less than a year;25-34;10;Female
+12610775;Complete;1 year to less than 3 years;35-44;10;Male
+12612586;Complete;5 years to less than 10 years;25-34;10;Female
+12615361;Complete;1 year to less than 3 years;45-54;10;Male
+12618405;Complete;1 year to less than 3 years;35-44;10;Female
+12621167;Complete;6 months to less than a year;45-54;10;Female
+12621558;Complete;1 year to less than 3 years;55-64;10;Female
+12621626;Complete;1 year to less than 3 years;18-24;10;Female
+12622752;Complete;1 year to less than 3 years;25-34;10;Female
+12623448;Complete;1 year to less than 3 years;35-44;10;Female
+12624883;Complete;5 years to less than 10 years;25-34;10;Male
+12624910;Complete;1 year to less than 3 years;55-64;8;Male
+12625679;Complete;1 year to less than 3 years;45-54;10;Female
+12626264;Complete;Less than 6 months;18-24;10;Male
+12628008;Complete;6 months to less than a year;25-34;10;Male
+12628233;Incomplete;1 year to less than 3 years;25-34;10;
+12628313;Complete;1 year to less than 3 years;55-64;10;Female
+12628734;Complete;3 years to less than 5 years;35-44;10;Female
+12632042;Complete;1 year to less than 3 years;35-44;10;Female
+12633638;Complete;1 year to less than 3 years;35-44;10;Female
+12634029;Complete;1 year to less than 3 years;35-44;10;Female
+12634301;Incomplete;1 year to less than 3 years;45-54;10;Female
+12636440;Complete;3 years to less than 5 years;25-34;3;Female
+12637106;Complete;1 year to less than 3 years;25-34;10;Female
+12637866;Complete;3 years to less than 5 years;25-34;10;Female
+12639374;Terminated;1 year to less than 3 years;Under 18;;
+12640021;Complete;Less than 6 months;18-24;10;Male
+12640354;Complete;10 years to less than 15 years;45-54;8;Female
+12640692;Incomplete;Less than 6 months;45-54;;
+12642511;Incomplete;1 year to less than 3 years;18-24;;
+12642628;Complete;1 year to less than 3 years;35-44;10;Female
+12642736;Complete;Less than 6 months;55-64;8;Male
+12643327;Complete;Less than 6 months;45-54;10;Female
+12643517;Complete;1 year to less than 3 years;55-64;10;Female
+12644785;Complete;1 year to less than 3 years;35-44;10;Female
+12644913;Complete;Less than 6 months;18-24;10;Male
+12644962;Incomplete;1 year to less than 3 years;45-54;;
+12646028;Complete;6 months to less than a year;55-64;10;Female
+12647187;Terminated;5 years to less than 10 years;Under 18;;
+12647357;Complete;1 year to less than 3 years;45-54;10;Female
+12648288;Complete;6 months to less than a year;35-44;10;Female
+12649713;Complete;3 years to less than 5 years;35-44;10;Female
+12650571;Complete;5 years to less than 10 years;35-44;;Female
+12653701;Complete;6 months to less than a year;25-34;10;Female
+12653834;Complete;1 year to less than 3 years;45-54;10;Female
+12653925;Incomplete;1 year to less than 3 years;35-44;;
+12656630;Complete;1 year to less than 3 years;45-54;10;Female
+12657206;Complete;6 months to less than a year;18-24;6;Female
+12658659;Incomplete;5 years to less than 10 years;65-74;;
+12659238;Complete;1 year to less than 3 years;35-44;10;Female
+12659569;Complete;1 year to less than 3 years;35-44;10;Male
+12659948;Complete;5 years to less than 10 years;35-44;10;Female
+12660192;Complete;1 year to less than 3 years;45-54;9;Male
+12660312;Complete;3 years to less than 5 years;35-44;10;Female
+12662129;Complete;1 year to less than 3 years;45-54;10;Female
+12662416;Complete;5 years to less than 10 years;35-44;10;Female
+12662542;Complete;1 year to less than 3 years;45-54;10;Female
+12663189;Complete;1 year to less than 3 years;55-64;10;Female
+12663520;Complete;3 years to less than 5 years;45-54;10;Female
+12667386;Incomplete;6 months to less than a year;35-44;;
+12667849;Complete;Less than 6 months;35-44;10;Male
+12672515;Incomplete;5 years to less than 10 years;45-54;;
+12673089;Incomplete;More than 15 years;18-24;;
+12673721;Complete;5 years to less than 10 years;35-44;10;Female
+12678079;Complete;3 years to less than 5 years;45-54;10;Male
+12678156;Complete;Less than 6 months;25-34;10;Male
+12682975;Complete;1 year to less than 3 years;35-44;8;Female
+12683072;Complete;1 year to less than 3 years;55-64;10;Female
+12683959;Complete;3 years to less than 5 years;25-34;10;Male
+12685591;Complete;1 year to less than 3 years;35-44;10;Female
+12686936;Complete;5 years to less than 10 years;45-54;10;Female
+12686940;Complete;10 years to less than 15 years;18-24;9;Male
+12688114;Incomplete;6 months to less than a year;25-34;;
+12688250;Incomplete;6 months to less than a year;55-64;;
+12688941;Complete;1 year to less than 3 years;25-34;10;Female
+12689030;Complete;3 years to less than 5 years;25-34;10;Female
+12690009;Complete;1 year to less than 3 years;25-34;10;Female
+12690544;Complete;Less than 6 months;35-44;10;Female
+12692221;Complete;Less than 6 months;25-34;10;Female
+12692504;Complete;1 year to less than 3 years;45-54;10;Female
+12692893;Complete;6 months to less than a year;55-64;9;Female
+12693850;Complete;6 months to less than a year;45-54;10;Female
+12695096;Complete;1 year to less than 3 years;55-64;10;Female
+12695274;Complete;3 years to less than 5 years;35-44;10;Female
+12695956;Incomplete;1 year to less than 3 years;55-64;;
+12697282;Complete;6 months to less than a year;18-24;10;Female
+12700225;Complete;Less than 6 months;55-64;9;Male
+12700251;Complete;1 year to less than 3 years;75+;8;Female
+12701917;Complete;Less than 6 months;25-34;9;Male
+12703578;Complete;5 years to less than 10 years;45-54;10;Female
+12704592;Complete;Less than 6 months;35-44;10;Female
+12705878;Complete;1 year to less than 3 years;35-44;10;Female
+12706489;Complete;1 year to less than 3 years;35-44;10;Female
+12707322;Complete;5 years to less than 10 years;45-54;10;Female
+12707652;Complete;5 years to less than 10 years;55-64;10;Female
+12708163;Complete;1 year to less than 3 years;35-44;10;Female
+12708222;Complete;3 years to less than 5 years;18-24;10;Female
+12708800;Complete;1 year to less than 3 years;45-54;10;Female
+12708821;Complete;6 months to less than a year;45-54;10;Female
+12709492;Complete;3 years to less than 5 years;25-34;10;Female
+12709493;Complete;Less than 6 months;35-44;10;Female
+12709584;Complete;1 year to less than 3 years;25-34;8;Female
+12710965;Complete;5 years to less than 10 years;65-74;10;Female
+12711169;Complete;1 year to less than 3 years;35-44;7;Male
+12712866;Complete;3 years to less than 5 years;45-54;9;Male
+12715067;Complete;6 months to less than a year;18-24;10;Female
+12715329;Complete;1 year to less than 3 years;35-44;10;Female
+12717315;Complete;1 year to less than 3 years;45-54;10;Male
+12720470;Complete;3 years to less than 5 years;55-64;10;Male
+12721762;Complete;Less than 6 months;45-54;10;Female
+12722680;Complete;5 years to less than 10 years;45-54;10;Female
+12725160;Complete;6 months to less than a year;35-44;10;Female
+12736844;Complete;Less than 6 months;55-64;9;Female
+12741644;Complete;1 year to less than 3 years;35-44;9;Male
+12743826;Complete;5 years to less than 10 years;25-34;10;Female
+12745732;Complete;1 year to less than 3 years;25-34;10;Female
+12745944;Complete;1 year to less than 3 years;45-54;7;Female
+12763933;Complete;3 years to less than 5 years;25-34;10;Female
+12764500;Complete;1 year to less than 3 years;45-54;10;Female
+12765157;Complete;1 year to less than 3 years;25-34;10;Female
+12769319;Complete;6 months to less than a year;35-44;10;Female
+12772617;Complete;5 years to less than 10 years;25-34;10;Female
+12773344;Complete;Less than 6 months;25-34;7;Female
+12773553;Complete;1 year to less than 3 years;55-64;10;Female
+12774187;Complete;6 months to less than a year;35-44;10;Female
+12779572;Complete;3 years to less than 5 years;65-74;8;Male
+12780556;Incomplete;1 year to less than 3 years;45-54;;
+12781759;Complete;5 years to less than 10 years;35-44;7;Male
+12783505;Complete;3 years to less than 5 years;55-64;10;Female
+12783515;Complete;3 years to less than 5 years;18-24;10;Female
+12783556;Complete;1 year to less than 3 years;45-54;10;Male
+12785491;Complete;Less than 6 months;35-44;10;Male
+12787634;Complete;5 years to less than 10 years;25-34;8;Male
+12789431;Complete;1 year to less than 3 years;45-54;10;Female
+12789478;Complete;Less than 6 months;18-24;7;Female
+12789740;Complete;3 years to less than 5 years;35-44;10;Female
+12789784;Complete;Less than 6 months;45-54;10;Female
+12789850;Complete;Less than 6 months;35-44;9;Female
+12789874;Complete;6 months to less than a year;55-64;10;Female
+12789880;Complete;10 years to less than 15 years;45-54;9;Male
+12789904;Complete;3 years to less than 5 years;35-44;10;Female
+12789916;Complete;3 years to less than 5 years;18-24;10;Male
+12789957;Complete;1 year to less than 3 years;35-44;10;Female
+12789969;Complete;5 years to less than 10 years;25-34;10;Female
+12789976;Complete;1 year to less than 3 years;45-54;10;Female
+12789990;Complete;5 years to less than 10 years;35-44;10;Female
+12789994;Complete;1 year to less than 3 years;25-34;10;Female
+12790085;Complete;10 years to less than 15 years;45-54;10;Male
+12790131;Incomplete;5 years to less than 10 years;45-54;;
+12790151;Complete;5 years to less than 10 years;45-54;10;Female
+12790153;Complete;Less than 6 months;35-44;10;Male
+12790175;Complete;1 year to less than 3 years;55-64;10;Female
+12790179;Complete;6 months to less than a year;35-44;9;Female
+12790187;Complete;6 months to less than a year;35-44;10;Male
+12790214;Complete;3 years to less than 5 years;35-44;10;Female
+12790219;Complete;10 years to less than 15 years;45-54;10;Female
+12790233;Complete;3 years to less than 5 years;35-44;10;Female
+12790331;Terminated;6 months to less than a year;Under 18;;
+12790352;Complete;1 year to less than 3 years;45-54;10;Female
+12790364;Complete;3 years to less than 5 years;25-34;10;Male
+12790475;Complete;Less than 6 months;45-54;10;Male
+12790568;Complete;5 years to less than 10 years;25-34;10;Male
+12790649;Complete;5 years to less than 10 years;45-54;10;Male
+12790690;Complete;6 months to less than a year;35-44;10;Female
+12790699;Complete;3 years to less than 5 years;25-34;10;Female
+12791018;Incomplete;1 year to less than 3 years;;;
+12791083;Complete;1 year to less than 3 years;35-44;10;Male
+12791227;Incomplete;3 years to less than 5 years;35-44;;
+12791246;Complete;1 year to less than 3 years;35-44;10;Female
+12791262;Complete;1 year to less than 3 years;35-44;10;Female
+12791290;Complete;1 year to less than 3 years;25-34;10;Female
+12791399;Incomplete;3 years to less than 5 years;35-44;;
+12791480;Complete;Less than 6 months;35-44;9;Male
+12791534;Complete;5 years to less than 10 years;55-64;10;Female
+12791656;Complete;6 months to less than a year;45-54;10;Female
+12791677;Complete;5 years to less than 10 years;25-34;10;Female
+12791782;Complete;1 year to less than 3 years;25-34;10;Female
+12791822;Complete;5 years to less than 10 years;25-34;9;Male
+12791837;Complete;3 years to less than 5 years;35-44;10;Female
+12791960;Complete;5 years to less than 10 years;25-34;10;Female
+12792053;Complete;5 years to less than 10 years;45-54;10;Female
+12792162;Incomplete;1 year to less than 3 years;25-34;;
+12792193;Complete;1 year to less than 3 years;35-44;10;Female
+12792227;Complete;6 months to less than a year;35-44;10;Female
+12792283;Incomplete;5 years to less than 10 years;25-34;;
+12792288;Complete;1 year to less than 3 years;35-44;10;Female
+12792369;Complete;1 year to less than 3 years;35-44;10;Female
+12792407;Complete;1 year to less than 3 years;35-44;10;Female
+12792423;Complete;1 year to less than 3 years;55-64;8;Male
+12792464;Complete;5 years to less than 10 years;35-44;9;Female
+12792561;Complete;3 years to less than 5 years;25-34;10;Male
+12792661;Complete;1 year to less than 3 years;45-54;10;Female
+12792751;Incomplete;1 year to less than 3 years;45-54;;
+12792884;Complete;1 year to less than 3 years;35-44;10;Female
+12792985;Incomplete;6 months to less than a year;35-44;;
+12792991;Complete;6 months to less than a year;35-44;1;Female
+12793198;Incomplete;6 months to less than a year;25-34;;
+12793257;Complete;1 year to less than 3 years;35-44;10;Male
+12793383;Incomplete;1 year to less than 3 years;45-54;;
+12793421;Incomplete;Less than 6 months;;;
+12793482;Complete;5 years to less than 10 years;45-54;10;Female
+12793563;Complete;6 months to less than a year;45-54;10;Female
+12793841;Incomplete;5 years to less than 10 years;35-44;;
+12793884;Complete;3 years to less than 5 years;45-54;10;Male
+12793915;Complete;1 year to less than 3 years;45-54;10;Female
+12793919;Complete;6 months to less than a year;35-44;10;Female
+12794003;Complete;3 years to less than 5 years;18-24;;Male
+12794058;Complete;5 years to less than 10 years;45-54;10;Male
+12794066;Complete;5 years to less than 10 years;55-64;9;Male
+12794193;Complete;Less than 6 months;55-64;10;Male
+12794268;Complete;6 months to less than a year;25-34;10;Female
+12794299;Incomplete;5 years to less than 10 years;25-34;;
+12794371;Complete;3 years to less than 5 years;35-44;10;Female
+12794491;Complete;1 year to less than 3 years;35-44;10;Male
+12794564;Complete;1 year to less than 3 years;25-34;10;Female
+12794675;Complete;1 year to less than 3 years;35-44;10;Female
+12794709;Complete;1 year to less than 3 years;35-44;10;Male
+12794860;Complete;3 years to less than 5 years;35-44;10;Female
+12795043;Complete;1 year to less than 3 years;45-54;7;Female
+12795198;Complete;3 years to less than 5 years;45-54;10;Female
+12795518;Complete;1 year to less than 3 years;35-44;10;Female
+12795522;Complete;1 year to less than 3 years;35-44;9;Female
+12795651;Complete;1 year to less than 3 years;45-54;10;Female
+12795676;Incomplete;5 years to less than 10 years;35-44;;
+12795725;Complete;Less than 6 months;45-54;10;Female
+12795806;Incomplete;Less than 6 months;;;
+12795872;Complete;1 year to less than 3 years;45-54;10;Female
+12795890;Complete;1 year to less than 3 years;45-54;10;Female
+12796011;Complete;1 year to less than 3 years;45-54;10;Female
+12796059;Complete;10 years to less than 15 years;35-44;10;Female
+12796241;Complete;1 year to less than 3 years;35-44;9;Female
+12796245;Complete;5 years to less than 10 years;45-54;;Male
+12796280;Complete;5 years to less than 10 years;35-44;10;Female
+12796391;Complete;1 year to less than 3 years;25-34;10;Male
+12796414;Complete;Less than 6 months;25-34;10;Female
+12796499;Complete;5 years to less than 10 years;35-44;10;Male
+12796551;Complete;3 years to less than 5 years;45-54;10;Male
+12796819;Incomplete;1 year to less than 3 years;35-44;;
+12797002;Complete;3 years to less than 5 years;35-44;10;Female
+12797105;Incomplete;5 years to less than 10 years;45-54;10;
+12797153;Complete;1 year to less than 3 years;25-34;9;Male
+12797177;Complete;3 years to less than 5 years;55-64;10;Female
+12797219;Complete;5 years to less than 10 years;45-54;10;Male
+12797302;Complete;Less than 6 months;18-24;8;Female
+12797528;Complete;1 year to less than 3 years;18-24;5;Female
+12797585;Complete;3 years to less than 5 years;25-34;10;Female
+12797633;Complete;1 year to less than 3 years;55-64;10;Female
+12797720;Complete;5 years to less than 10 years;55-64;10;Female
+12797983;Complete;6 months to less than a year;25-34;7;Female
+12797998;Complete;6 months to less than a year;25-34;10;Female
+12798291;Complete;1 year to less than 3 years;35-44;9;Female
+12798301;Complete;5 years to less than 10 years;35-44;10;Female
+12798376;Complete;5 years to less than 10 years;35-44;10;Female
+12798527;Complete;1 year to less than 3 years;25-34;10;Female
+12798530;Terminated;1 year to less than 3 years;Under 18;;
+12798640;Complete;3 years to less than 5 years;45-54;10;Male
+12799190;Complete;Less than 6 months;45-54;10;Female
+12799196;Complete;1 year to less than 3 years;18-24;10;Male
+12799219;Complete;1 year to less than 3 years;35-44;10;Female
+12799298;Incomplete;6 months to less than a year;35-44;;
+12799605;Incomplete;6 months to less than a year;45-54;;
+12799734;Complete;1 year to less than 3 years;35-44;10;Female
+12799879;Complete;1 year to less than 3 years;55-64;10;Female
+12799995;Complete;Less than 6 months;35-44;9;Female
+12800690;Complete;1 year to less than 3 years;45-54;9;Female
+12801327;Complete;1 year to less than 3 years;35-44;10;Female
+12801345;Complete;3 years to less than 5 years;35-44;8;Female
+12801369;Complete;Less than 6 months;18-24;7;Female
+12801451;Complete;10 years to less than 15 years;45-54;10;Male
+12801681;Complete;6 months to less than a year;35-44;10;Female
+12801839;Complete;Less than 6 months;35-44;10;Female
+12801850;Complete;5 years to less than 10 years;35-44;9;Female
+12802152;Complete;1 year to less than 3 years;35-44;10;Male
+12802217;Complete;6 months to less than a year;45-54;3;Female
+12802321;Complete;5 years to less than 10 years;25-34;10;Female
+12802322;Complete;1 year to less than 3 years;25-34;10;Female
+12802740;Complete;6 months to less than a year;45-54;10;Male
+12803565;Complete;Less than 6 months;25-34;10;Female
+12803566;Complete;5 years to less than 10 years;35-44;8;Male
+12803673;Complete;1 year to less than 3 years;55-64;10;Female
+12803746;Complete;3 years to less than 5 years;35-44;10;Female
+12803856;Complete;1 year to less than 3 years;35-44;10;Male
+12804013;Incomplete;1 year to less than 3 years;55-64;10;
+12804023;Complete;1 year to less than 3 years;35-44;;Female
+12804082;Complete;3 years to less than 5 years;45-54;9;Male
+12804087;Complete;1 year to less than 3 years;25-34;10;Female
+12804106;Complete;6 months to less than a year;55-64;;Female
+12804166;Complete;1 year to less than 3 years;35-44;10;Female
+12804275;Complete;1 year to less than 3 years;35-44;10;Female
+12804303;Incomplete;6 months to less than a year;45-54;10;
+12804370;Complete;1 year to less than 3 years;18-24;10;Female
+12804736;Complete;1 year to less than 3 years;45-54;10;Male
+12804781;Complete;6 months to less than a year;25-34;10;Male
+12805057;Complete;5 years to less than 10 years;45-54;8;Male
+12805249;Complete;6 months to less than a year;35-44;10;Female
+12805309;Complete;3 years to less than 5 years;45-54;10;Female
+12805341;Complete;6 months to less than a year;45-54;10;Female
+12805559;Complete;1 year to less than 3 years;45-54;10;Female
+12805604;Complete;6 months to less than a year;35-44;10;Female
+12805623;Complete;Less than 6 months;25-34;10;Female
+12805807;Complete;3 years to less than 5 years;35-44;10;Female
+12805809;Complete;10 years to less than 15 years;45-54;10;Female
+12805988;Complete;10 years to less than 15 years;45-54;10;Female
+12806111;Complete;3 years to less than 5 years;25-34;10;Male
+12806186;Complete;1 year to less than 3 years;35-44;10;Female
+12806246;Complete;3 years to less than 5 years;18-24;9;Male
+12806616;Complete;10 years to less than 15 years;25-34;10;Female
+12806640;Complete;5 years to less than 10 years;25-34;10;Female
+12806766;Complete;1 year to less than 3 years;25-34;10;Male
+12806927;Complete;Less than 6 months;25-34;10;Female
+12807216;Complete;1 year to less than 3 years;55-64;10;Female
+12807303;Complete;5 years to less than 10 years;45-54;10;Male
+12807342;Complete;1 year to less than 3 years;25-34;10;Male
+12807457;Complete;10 years to less than 15 years;35-44;10;Female
+12808664;Complete;3 years to less than 5 years;45-54;10;Female
+12808746;Complete;5 years to less than 10 years;35-44;10;Female
+12808877;Complete;10 years to less than 15 years;35-44;9;Female
+12809093;Complete;10 years to less than 15 years;55-64;10;Female
+12809569;Complete;5 years to less than 10 years;55-64;10;Male
+12809598;Incomplete;6 months to less than a year;45-54;;
+12809680;Complete;More than 15 years;45-54;10;Female
+12811374;Incomplete;3 years to less than 5 years;35-44;;
+12812451;Complete;1 year to less than 3 years;35-44;10;Female
+12812546;Complete;6 months to less than a year;18-24;10;Female
+12813987;Complete;10 years to less than 15 years;35-44;10;Female
+12815717;Complete;1 year to less than 3 years;25-34;10;Female
+12817358;Complete;6 months to less than a year;45-54;10;Female
+12818980;Complete;1 year to less than 3 years;45-54;10;Female
+12820842;Complete;3 years to less than 5 years;45-54;9;Female
+12821257;Complete;1 year to less than 3 years;35-44;10;Female
+12823964;Complete;5 years to less than 10 years;45-54;10;Female
+12824998;Complete;3 years to less than 5 years;35-44;9;Female
+12827537;Complete;6 months to less than a year;45-54;10;Female
+12829657;Incomplete;1 year to less than 3 years;35-44;;
+12831314;Incomplete;1 year to less than 3 years;45-54;;
+12831354;Complete;Less than 6 months;45-54;10;Female
+12831434;Incomplete;1 year to less than 3 years;35-44;;
+12832141;Complete;Less than 6 months;25-34;7;Male
+12832631;Complete;Less than 6 months;35-44;8;Male
+12833301;Incomplete;3 years to less than 5 years;18-24;;
+12833741;Complete;1 year to less than 3 years;18-24;10;Male
+12834511;Complete;3 years to less than 5 years;25-34;10;Male
+12834905;Complete;1 year to less than 3 years;35-44;10;Female
+12835125;Complete;10 years to less than 15 years;25-34;10;Female
+12835518;Complete;3 years to less than 5 years;45-54;9;Male
+12836080;Complete;1 year to less than 3 years;55-64;10;Female
+12836245;Complete;5 years to less than 10 years;45-54;10;Male
+12836332;Complete;6 months to less than a year;25-34;10;Female
+12836963;Complete;1 year to less than 3 years;45-54;10;Female
+12837461;Incomplete;5 years to less than 10 years;45-54;;
+12838351;Incomplete;1 year to less than 3 years;18-24;;
+12838443;Complete;1 year to less than 3 years;25-34;10;Female
+12838794;Complete;5 years to less than 10 years;55-64;10;Female
+12839687;Complete;6 months to less than a year;25-34;10;Female
+12839836;Complete;1 year to less than 3 years;35-44;10;Female
+12839900;Complete;1 year to less than 3 years;35-44;9;Female
+12840006;Complete;1 year to less than 3 years;35-44;10;Female
+12840627;Complete;1 year to less than 3 years;25-34;10;Female
+12840636;Complete;5 years to less than 10 years;45-54;10;Male
+12840870;Complete;1 year to less than 3 years;18-24;8;Male
+12840971;Complete;1 year to less than 3 years;45-54;10;Female
+12843230;Complete;10 years to less than 15 years;45-54;10;Female
+12844187;Complete;3 years to less than 5 years;45-54;10;Female
+12844396;Complete;Less than 6 months;35-44;10;Female
+12845627;Complete;6 months to less than a year;25-34;10;Female
+12847208;Complete;1 year to less than 3 years;35-44;10;Female
+12847258;Complete;1 year to less than 3 years;35-44;10;Male
+12849340;Complete;3 years to less than 5 years;25-34;10;Female
+12849741;Complete;More than 15 years;55-64;10;Female
+12850250;Complete;5 years to less than 10 years;18-24;10;Female
+12853639;Complete;1 year to less than 3 years;25-34;10;Male
+12853851;Complete;3 years to less than 5 years;35-44;10;Female
+12854427;Complete;5 years to less than 10 years;25-34;10;Male
+12855711;Complete;6 months to less than a year;35-44;9;Male
+12858790;Complete;1 year to less than 3 years;45-54;10;Female
+12859052;Complete;5 years to less than 10 years;45-54;10;Female
+12863522;Complete;1 year to less than 3 years;25-34;10;Male
+12864046;Complete;Less than 6 months;45-54;10;Male
+12866026;Complete;1 year to less than 3 years;45-54;10;Female
+12868508;Complete;3 years to less than 5 years;35-44;10;Male
+12868646;Complete;6 months to less than a year;25-34;10;Female
+12870889;Complete;1 year to less than 3 years;45-54;10;Female
+12871626;Complete;1 year to less than 3 years;45-54;10;Female
+12873165;Complete;1 year to less than 3 years;35-44;10;Male
+12874007;Incomplete;Less than 6 months;45-54;;
+12874039;Complete;1 year to less than 3 years;45-54;10;Female
+12876361;Complete;5 years to less than 10 years;45-54;9;Female
+12876881;Complete;Less than 6 months;18-24;10;Male
+12877026;Complete;More than 15 years;45-54;10;Male
+12877663;Complete;5 years to less than 10 years;55-64;10;Female
+12877977;Complete;5 years to less than 10 years;45-54;10;Female
+12880664;Complete;6 months to less than a year;35-44;10;Female
+12881279;Complete;10 years to less than 15 years;25-34;10;Female
+12883046;Complete;Less than 6 months;25-34;9;Male
+12884025;Incomplete;1 year to less than 3 years;35-44;;
+12885921;Complete;5 years to less than 10 years;35-44;10;Male
+12886406;Complete;3 years to less than 5 years;55-64;10;Female
+12889140;Complete;3 years to less than 5 years;35-44;8;Female
+12889605;Complete;1 year to less than 3 years;45-54;9;Female
+12889893;Complete;3 years to less than 5 years;25-34;10;Female
+12890839;Complete;5 years to less than 10 years;25-34;10;Female
+12890922;Complete;1 year to less than 3 years;45-54;10;Female
+12891203;Complete;10 years to less than 15 years;25-34;10;Female
+12891796;Complete;5 years to less than 10 years;25-34;10;Female
+12892286;Incomplete;10 years to less than 15 years;45-54;;
+12894157;Complete;1 year to less than 3 years;35-44;10;Female
+12894277;Complete;3 years to less than 5 years;55-64;10;Female
+12894313;Complete;Less than 6 months;35-44;10;Female
+12894364;Complete;1 year to less than 3 years;45-54;10;Female
+12895663;Incomplete;3 years to less than 5 years;45-54;;
+12895813;Complete;1 year to less than 3 years;25-34;8;Male
+12896200;Complete;1 year to less than 3 years;25-34;9;Female
+12897320;Complete;3 years to less than 5 years;25-34;10;Female
+12897699;Complete;1 year to less than 3 years;55-64;10;Female
+12898266;Complete;3 years to less than 5 years;25-34;10;Female
+12904061;Complete;5 years to less than 10 years;25-34;10;Female
+12904553;Complete;Less than 6 months;55-64;10;Female
+12909717;Complete;Less than 6 months;25-34;10;Male
+12920702;Complete;5 years to less than 10 years;18-24;10;Female
+12928393;Complete;1 year to less than 3 years;35-44;10;Female
+12938929;Complete;5 years to less than 10 years;18-24;8;Female
+12941249;Complete;3 years to less than 5 years;55-64;10;Female
+12941345;Complete;6 months to less than a year;25-34;10;Male
+12947090;Complete;6 months to less than a year;45-54;10;Male
+12950223;Complete;3 years to less than 5 years;35-44;10;Female
+12952010;Complete;3 years to less than 5 years;35-44;10;Female
+12954362;Complete;1 year to less than 3 years;35-44;10;Female
+12964114;Complete;1 year to less than 3 years;45-54;10;Female
+12968362;Complete;6 months to less than a year;35-44;10;Female
+12968382;Complete;1 year to less than 3 years;25-34;10;Female
+12972523;Incomplete;Less than 6 months;45-54;8;Female
+12973085;Complete;3 years to less than 5 years;25-34;10;Male
+12973534;Complete;6 months to less than a year;18-24;10;Female
+12974362;Complete;1 year to less than 3 years;35-44;10;Female
+12974844;Complete;1 year to less than 3 years;45-54;10;Female
+12976696;Complete;1 year to less than 3 years;25-34;10;Female
+12988180;Complete;Less than 6 months;35-44;10;Male
+12988233;Complete;6 months to less than a year;45-54;10;Female
+12990723;Complete;5 years to less than 10 years;25-34;10;Female
+12990834;Complete;1 year to less than 3 years;25-34;10;Female
+12991422;Complete;1 year to less than 3 years;45-54;10;Female
+12993598;Incomplete;5 years to less than 10 years;55-64;;
+12995093;Complete;6 months to less than a year;25-34;9;Female
+12997325;Complete;10 years to less than 15 years;45-54;8;Male
+12997412;Complete;6 months to less than a year;55-64;8;Female
+12998640;Complete;3 years to less than 5 years;45-54;8;Male
+12999068;Complete;1 year to less than 3 years;45-54;10;Female
+13001018;Complete;6 months to less than a year;18-24;7;Male
+13001400;Complete;10 years to less than 15 years;25-34;10;Female
+13002410;Complete;3 years to less than 5 years;35-44;10;Female
+13004564;Complete;1 year to less than 3 years;25-34;10;Female
+13006241;Complete;1 year to less than 3 years;25-34;10;Female
+13007746;Complete;1 year to less than 3 years;18-24;10;Female
+13008403;Complete;1 year to less than 3 years;45-54;10;Female
+13008654;Terminated;1 year to less than 3 years;Under 18;;
+13009559;Incomplete;6 months to less than a year;45-54;;
+13009810;Incomplete;6 months to less than a year;35-44;;
+13009897;Complete;3 years to less than 5 years;35-44;10;Female
+13010275;Complete;10 years to less than 15 years;45-54;10;Female
+13010507;Incomplete;1 year to less than 3 years;55-64;;
+13012067;Complete;1 year to less than 3 years;45-54;10;Male
+13019081;Complete;3 years to less than 5 years;35-44;10;Female
+13034227;Complete;3 years to less than 5 years;35-44;10;Male
+13050040;Complete;3 years to less than 5 years;18-24;10;Female
+13050352;Complete;6 months to less than a year;55-64;7;Male
+13052435;Complete;Less than 6 months;45-54;10;Female
+13053606;Complete;Less than 6 months;45-54;10;Female
+13054560;Complete;3 years to less than 5 years;25-34;10;Female
+13056047;Complete;1 year to less than 3 years;25-34;10;Female
+13056258;Incomplete;5 years to less than 10 years;45-54;;
+13061100;Complete;5 years to less than 10 years;45-54;10;Female
+13062986;Complete;5 years to less than 10 years;35-44;10;Female
+13070430;Complete;3 years to less than 5 years;18-24;9;Female
+13085927;Complete;More than 15 years;25-34;10;Female
+13088535;Incomplete;3 years to less than 5 years;25-34;5;Male
+13091110;Complete;1 year to less than 3 years;35-44;10;Female
+13091803;Complete;1 year to less than 3 years;45-54;7;Female
+13093216;Incomplete;6 months to less than a year;35-44;;
+13098629;Complete;1 year to less than 3 years;55-64;10;Female
+13155555;Complete;1 year to less than 3 years;45-54;10;Male
+13159225;Complete;1 year to less than 3 years;25-34;10;Female
+13162563;Complete;1 year to less than 3 years;25-34;10;Male
+13165081;Complete;10 years to less than 15 years;55-64;10;Male
+13165885;Complete;5 years to less than 10 years;45-54;9;Female
+13182585;Complete;3 years to less than 5 years;25-34;9;Female
+13246968;Complete;5 years to less than 10 years;25-34;10;Female
+13250065;Complete;1 year to less than 3 years;18-24;10;Female
+13278063;Incomplete;3 years to less than 5 years;18-24;;
+13281155;Complete;1 year to less than 3 years;25-34;10;Male
+13282585;Complete;1 year to less than 3 years;45-54;10;Female
+13287699;Complete;1 year to less than 3 years;35-44;10;Female
+13317194;Complete;1 year to less than 3 years;35-44;10;Female
+13331680;Complete;10 years to less than 15 years;35-44;10;Female
+13338484;Complete;1 year to less than 3 years;25-34;10;Female
+13340991;Complete;3 years to less than 5 years;25-34;10;Female
+13358592;Complete;Less than 6 months;45-54;10;Female
+13360252;Complete;1 year to less than 3 years;55-64;10;Female
+13394941;Complete;1 year to less than 3 years;35-44;10;Male
+13444055;Complete;1 year to less than 3 years;25-34;10;Female
+13495367;Complete;Less than 6 months;35-44;10;Female
+13507032;Complete;1 year to less than 3 years;35-44;9;Male
+13565327;Complete;1 year to less than 3 years;45-54;;Female
+13589706;Complete;1 year to less than 3 years;25-34;10;Female
+13601847;Incomplete;3 years to less than 5 years;25-34;;
+13610170;Complete;6 months to less than a year;25-34;10;Female
+13640772;Complete;3 years to less than 5 years;18-24;10;Female
+13652344;Incomplete;1 year to less than 3 years;35-44;;
+13732056;Complete;1 year to less than 3 years;18-24;10;Female
+13734055;Complete;Less than 6 months;25-34;10;Male
+13777359;Complete;3 years to less than 5 years;35-44;10;Male
